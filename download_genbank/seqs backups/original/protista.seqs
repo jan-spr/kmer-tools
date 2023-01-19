@@ -1,0 +1,487 @@
+id	name	organism	topology	length	file	labels
+NC_007087.3	c1	Dictyostelium discoideum AX4	linear	4923596	../../data/genbank/protista/Dictyostelium discoideum AX4_c1.gb	DNA,Genome
+NC_007088.5	c2	Dictyostelium discoideum AX4	linear	8484197	../../data/genbank/protista/Dictyostelium discoideum AX4_c2.gb	DNA,Genome
+NC_007089.4	c3	Dictyostelium discoideum AX4	linear	6357299	../../data/genbank/protista/Dictyostelium discoideum AX4_c3.gb	DNA,Genome
+NC_007090.3	c4	Dictyostelium discoideum AX4	linear	5450249	../../data/genbank/protista/Dictyostelium discoideum AX4_c4.gb	DNA,Genome
+NC_007091.3	c5	Dictyostelium discoideum AX4	linear	5125352	../../data/genbank/protista/Dictyostelium discoideum AX4_c5.gb	DNA,Genome
+NC_007092.3	c6	Dictyostelium discoideum AX4	linear	3602379	../../data/genbank/protista/Dictyostelium discoideum AX4_c6.gb	DNA,Genome
+NC_018228.1	c1	Leishmania donovani	linear	283432	../../data/genbank/protista/Leishmania donovani_c1.gb	DNA,Genome
+NC_018229.1	c2	Leishmania donovani	linear	334314	../../data/genbank/protista/Leishmania donovani_c2.gb	DNA,Genome
+NC_018230.1	c3	Leishmania donovani	linear	389946	../../data/genbank/protista/Leishmania donovani_c3.gb	DNA,Genome
+NC_018231.1	c4	Leishmania donovani	linear	479467	../../data/genbank/protista/Leishmania donovani_c4.gb	DNA,Genome
+NC_018232.1	c5	Leishmania donovani	linear	452426	../../data/genbank/protista/Leishmania donovani_c5.gb	DNA,Genome
+NC_018233.1	c6	Leishmania donovani	linear	529559	../../data/genbank/protista/Leishmania donovani_c6.gb	DNA,Genome
+NC_018234.1	c7	Leishmania donovani	linear	604754	../../data/genbank/protista/Leishmania donovani_c7.gb	DNA,Genome
+NC_018235.1	c8	Leishmania donovani	linear	505720	../../data/genbank/protista/Leishmania donovani_c8.gb	DNA,Genome
+NC_018236.1	c9	Leishmania donovani	linear	588727	../../data/genbank/protista/Leishmania donovani_c9.gb	DNA,Genome
+NC_018237.1	c10	Leishmania donovani	linear	558170	../../data/genbank/protista/Leishmania donovani_c10.gb	DNA,Genome
+NC_018238.1	c11	Leishmania donovani	linear	580223	../../data/genbank/protista/Leishmania donovani_c11.gb	DNA,Genome
+NC_018239.1	c12	Leishmania donovani	linear	569561	../../data/genbank/protista/Leishmania donovani_c12.gb	DNA,Genome
+NC_018240.1	c13	Leishmania donovani	linear	649814	../../data/genbank/protista/Leishmania donovani_c13.gb	DNA,Genome
+NC_018241.1	c14	Leishmania donovani	linear	645099	../../data/genbank/protista/Leishmania donovani_c14.gb	DNA,Genome
+NC_018242.1	c15	Leishmania donovani	linear	618357	../../data/genbank/protista/Leishmania donovani_c15.gb	DNA,Genome
+NC_018243.1	c16	Leishmania donovani	linear	698406	../../data/genbank/protista/Leishmania donovani_c16.gb	DNA,Genome
+NC_018244.1	c17	Leishmania donovani	linear	671483	../../data/genbank/protista/Leishmania donovani_c17.gb	DNA,Genome
+NC_018245.1	c18	Leishmania donovani	linear	735610	../../data/genbank/protista/Leishmania donovani_c18.gb	DNA,Genome
+NC_018246.1	c19	Leishmania donovani	linear	757180	../../data/genbank/protista/Leishmania donovani_c19.gb	DNA,Genome
+NC_018247.1	c20	Leishmania donovani	linear	752621	../../data/genbank/protista/Leishmania donovani_c20.gb	DNA,Genome
+NC_018248.1	c21	Leishmania donovani	linear	767234	../../data/genbank/protista/Leishmania donovani_c21.gb	DNA,Genome
+NC_018249.1	c22	Leishmania donovani	linear	704761	../../data/genbank/protista/Leishmania donovani_c22.gb	DNA,Genome
+NC_018250.1	c23	Leishmania donovani	linear	783272	../../data/genbank/protista/Leishmania donovani_c23.gb	DNA,Genome
+NC_018251.1	c24	Leishmania donovani	linear	877124	../../data/genbank/protista/Leishmania donovani_c24.gb	DNA,Genome
+NC_018252.1	c25	Leishmania donovani	linear	897883	../../data/genbank/protista/Leishmania donovani_c25.gb	DNA,Genome
+NC_018253.1	c26	Leishmania donovani	linear	1058259	../../data/genbank/protista/Leishmania donovani_c26.gb	DNA,Genome
+NC_018254.1	c27	Leishmania donovani	linear	1024085	../../data/genbank/protista/Leishmania donovani_c27.gb	DNA,Genome
+NC_018255.1	c28	Leishmania donovani	linear	1171725	../../data/genbank/protista/Leishmania donovani_c28.gb	DNA,Genome
+NC_018256.1	c29	Leishmania donovani	linear	1258350	../../data/genbank/protista/Leishmania donovani_c29.gb	DNA,Genome
+NC_018257.1	c30	Leishmania donovani	linear	1374157	../../data/genbank/protista/Leishmania donovani_c30.gb	DNA,Genome
+NC_018258.1	c31	Leishmania donovani	linear	1531288	../../data/genbank/protista/Leishmania donovani_c31.gb	DNA,Genome
+NC_018259.1	c32	Leishmania donovani	linear	1559911	../../data/genbank/protista/Leishmania donovani_c32.gb	DNA,Genome
+NC_018260.1	c33	Leishmania donovani	linear	1453978	../../data/genbank/protista/Leishmania donovani_c33.gb	DNA,Genome
+NC_018261.1	c34	Leishmania donovani	linear	1750858	../../data/genbank/protista/Leishmania donovani_c34.gb	DNA,Genome
+NC_018262.1	c35	Leishmania donovani	linear	2113966	../../data/genbank/protista/Leishmania donovani_c35.gb	DNA,Genome
+NC_018263.1	c36	Leishmania donovani	linear	2713248	../../data/genbank/protista/Leishmania donovani_c36.gb	DNA,Genome
+NC_009386.2	c1	Leishmania infantum JPCM5	linear	277951	../../data/genbank/protista/Leishmania infantum JPCM5_c1.gb	DNA,Genome
+NC_009387.2	c2	Leishmania infantum JPCM5	linear	334113	../../data/genbank/protista/Leishmania infantum JPCM5_c2.gb	DNA,Genome
+NC_009388.2	c3	Leishmania infantum JPCM5	linear	382367	../../data/genbank/protista/Leishmania infantum JPCM5_c3.gb	DNA,Genome
+NC_009389.2	c4	Leishmania infantum JPCM5	linear	475338	../../data/genbank/protista/Leishmania infantum JPCM5_c4.gb	DNA,Genome
+NC_009390.2	c5	Leishmania infantum JPCM5	linear	449024	../../data/genbank/protista/Leishmania infantum JPCM5_c5.gb	DNA,Genome
+NC_009277.2	c6	Leishmania infantum JPCM5	linear	523352	../../data/genbank/protista/Leishmania infantum JPCM5_c6.gb	DNA,Genome
+NC_009391.2	c7	Leishmania infantum JPCM5	linear	592381	../../data/genbank/protista/Leishmania infantum JPCM5_c7.gb	DNA,Genome
+NC_009392.2	c8	Leishmania infantum JPCM5	linear	495393	../../data/genbank/protista/Leishmania infantum JPCM5_c8.gb	DNA,Genome
+NC_009393.2	c9	Leishmania infantum JPCM5	linear	572115	../../data/genbank/protista/Leishmania infantum JPCM5_c9.gb	DNA,Genome
+NC_009394.2	c10	Leishmania infantum JPCM5	linear	547235	../../data/genbank/protista/Leishmania infantum JPCM5_c10.gb	DNA,Genome
+NC_009395.2	c11	Leishmania infantum JPCM5	linear	575792	../../data/genbank/protista/Leishmania infantum JPCM5_c11.gb	DNA,Genome
+NC_009396.2	c12	Leishmania infantum JPCM5	linear	568476	../../data/genbank/protista/Leishmania infantum JPCM5_c12.gb	DNA,Genome
+NC_009397.2	c13	Leishmania infantum JPCM5	linear	645761	../../data/genbank/protista/Leishmania infantum JPCM5_c13.gb	DNA,Genome
+NC_009398.2	c14	Leishmania infantum JPCM5	linear	639279	../../data/genbank/protista/Leishmania infantum JPCM5_c14.gb	DNA,Genome
+NC_009399.2	c15	Leishmania infantum JPCM5	linear	617636	../../data/genbank/protista/Leishmania infantum JPCM5_c15.gb	DNA,Genome
+NC_009400.2	c16	Leishmania infantum JPCM5	linear	698903	../../data/genbank/protista/Leishmania infantum JPCM5_c16.gb	DNA,Genome
+NC_009401.2	c17	Leishmania infantum JPCM5	linear	667340	../../data/genbank/protista/Leishmania infantum JPCM5_c17.gb	DNA,Genome
+NC_009402.2	c18	Leishmania infantum JPCM5	linear	720194	../../data/genbank/protista/Leishmania infantum JPCM5_c18.gb	DNA,Genome
+NC_009403.2	c19	Leishmania infantum JPCM5	linear	742501	../../data/genbank/protista/Leishmania infantum JPCM5_c19.gb	DNA,Genome
+NC_009404.2	c20	Leishmania infantum JPCM5	linear	732590	../../data/genbank/protista/Leishmania infantum JPCM5_c20.gb	DNA,Genome
+NC_009405.2	c21	Leishmania infantum JPCM5	linear	759899	../../data/genbank/protista/Leishmania infantum JPCM5_c21.gb	DNA,Genome
+NC_009406.2	c22	Leishmania infantum JPCM5	linear	659512	../../data/genbank/protista/Leishmania infantum JPCM5_c22.gb	DNA,Genome
+NC_009407.2	c23	Leishmania infantum JPCM5	linear	774004	../../data/genbank/protista/Leishmania infantum JPCM5_c23.gb	DNA,Genome
+NC_009408.2	c24	Leishmania infantum JPCM5	linear	867075	../../data/genbank/protista/Leishmania infantum JPCM5_c24.gb	DNA,Genome
+NC_009409.2	c25	Leishmania infantum JPCM5	linear	886912	../../data/genbank/protista/Leishmania infantum JPCM5_c25.gb	DNA,Genome
+NC_009410.2	c26	Leishmania infantum JPCM5	linear	1050165	../../data/genbank/protista/Leishmania infantum JPCM5_c26.gb	DNA,Genome
+NC_009411.2	c27	Leishmania infantum JPCM5	linear	1043848	../../data/genbank/protista/Leishmania infantum JPCM5_c27.gb	DNA,Genome
+NC_009412.2	c28	Leishmania infantum JPCM5	linear	1163438	../../data/genbank/protista/Leishmania infantum JPCM5_c28.gb	DNA,Genome
+NC_009413.2	c29	Leishmania infantum JPCM5	linear	1221905	../../data/genbank/protista/Leishmania infantum JPCM5_c29.gb	DNA,Genome
+NC_009414.2	c30	Leishmania infantum JPCM5	linear	1365115	../../data/genbank/protista/Leishmania infantum JPCM5_c30.gb	DNA,Genome
+NC_009415.2	c31	Leishmania infantum JPCM5	linear	1468864	../../data/genbank/protista/Leishmania infantum JPCM5_c31.gb	DNA,Genome
+NC_009416.2	c32	Leishmania infantum JPCM5	linear	1547509	../../data/genbank/protista/Leishmania infantum JPCM5_c32.gb	DNA,Genome
+NC_009417.2	c33	Leishmania infantum JPCM5	linear	1448148	../../data/genbank/protista/Leishmania infantum JPCM5_c33.gb	DNA,Genome
+NC_009418.2	c34	Leishmania infantum JPCM5	linear	1668239	../../data/genbank/protista/Leishmania infantum JPCM5_c34.gb	DNA,Genome
+NC_009419.2	c35	Leishmania infantum JPCM5	linear	2068523	../../data/genbank/protista/Leishmania infantum JPCM5_c35.gb	DNA,Genome
+NC_009420.2	c36	Leishmania infantum JPCM5	linear	2673956	../../data/genbank/protista/Leishmania infantum JPCM5_c36.gb	DNA,Genome
+NC_001905.3	c1	Leishmania major strain Friedlin	linear	268986	../../data/genbank/protista/Leishmania major strain Friedlin_c1.gb	DNA,Genome
+NC_007244.2	c2	Leishmania major strain Friedlin	linear	355712	../../data/genbank/protista/Leishmania major strain Friedlin_c2.gb	DNA,Genome
+NC_004916.2	c3	Leishmania major strain Friedlin	linear	384502	../../data/genbank/protista/Leishmania major strain Friedlin_c3.gb	DNA,Genome
+NC_007245.2	c4	Leishmania major strain Friedlin	linear	472852	../../data/genbank/protista/Leishmania major strain Friedlin_c4.gb	DNA,Genome
+NC_007246.2	c5	Leishmania major strain Friedlin	linear	465823	../../data/genbank/protista/Leishmania major strain Friedlin_c5.gb	DNA,Genome
+NC_007247.2	c6	Leishmania major strain Friedlin	linear	516869	../../data/genbank/protista/Leishmania major strain Friedlin_c6.gb	DNA,Genome
+NC_007248.2	c7	Leishmania major strain Friedlin	linear	596352	../../data/genbank/protista/Leishmania major strain Friedlin_c7.gb	DNA,Genome
+NC_007249.2	c8	Leishmania major strain Friedlin	linear	574960	../../data/genbank/protista/Leishmania major strain Friedlin_c8.gb	DNA,Genome
+NC_007250.2	c9	Leishmania major strain Friedlin	linear	573434	../../data/genbank/protista/Leishmania major strain Friedlin_c9.gb	DNA,Genome
+NC_007251.2	c10	Leishmania major strain Friedlin	linear	570865	../../data/genbank/protista/Leishmania major strain Friedlin_c10.gb	DNA,Genome
+NC_007252.2	c11	Leishmania major strain Friedlin	linear	582573	../../data/genbank/protista/Leishmania major strain Friedlin_c11.gb	DNA,Genome
+NC_007253.2	c12	Leishmania major strain Friedlin	linear	675346	../../data/genbank/protista/Leishmania major strain Friedlin_c12.gb	DNA,Genome
+NC_007254.2	c13	Leishmania major strain Friedlin	linear	654595	../../data/genbank/protista/Leishmania major strain Friedlin_c13.gb	DNA,Genome
+NC_007255.2	c14	Leishmania major strain Friedlin	linear	622644	../../data/genbank/protista/Leishmania major strain Friedlin_c14.gb	DNA,Genome
+NC_007256.2	c15	Leishmania major strain Friedlin	linear	629517	../../data/genbank/protista/Leishmania major strain Friedlin_c15.gb	DNA,Genome
+NC_007257.2	c16	Leishmania major strain Friedlin	linear	714651	../../data/genbank/protista/Leishmania major strain Friedlin_c16.gb	DNA,Genome
+NC_007258.2	c17	Leishmania major strain Friedlin	linear	684829	../../data/genbank/protista/Leishmania major strain Friedlin_c17.gb	DNA,Genome
+NC_007259.2	c18	Leishmania major strain Friedlin	linear	739748	../../data/genbank/protista/Leishmania major strain Friedlin_c18.gb	DNA,Genome
+NC_007260.2	c19	Leishmania major strain Friedlin	linear	702208	../../data/genbank/protista/Leishmania major strain Friedlin_c19.gb	DNA,Genome
+NC_007261.2	c20	Leishmania major strain Friedlin	linear	742537	../../data/genbank/protista/Leishmania major strain Friedlin_c20.gb	DNA,Genome
+NC_007262.2	c21	Leishmania major strain Friedlin	linear	772972	../../data/genbank/protista/Leishmania major strain Friedlin_c21.gb	DNA,Genome
+NC_007263.2	c22	Leishmania major strain Friedlin	linear	716602	../../data/genbank/protista/Leishmania major strain Friedlin_c22.gb	DNA,Genome
+NC_007264.2	c23	Leishmania major strain Friedlin	linear	772565	../../data/genbank/protista/Leishmania major strain Friedlin_c23.gb	DNA,Genome
+NC_007265.2	c24	Leishmania major strain Friedlin	linear	840950	../../data/genbank/protista/Leishmania major strain Friedlin_c24.gb	DNA,Genome
+NC_007266.2	c25	Leishmania major strain Friedlin	linear	912845	../../data/genbank/protista/Leishmania major strain Friedlin_c25.gb	DNA,Genome
+NC_007267.2	c26	Leishmania major strain Friedlin	linear	1091540	../../data/genbank/protista/Leishmania major strain Friedlin_c26.gb	DNA,Genome
+NC_007268.2	c27	Leishmania major strain Friedlin	linear	1130424	../../data/genbank/protista/Leishmania major strain Friedlin_c27.gb	DNA,Genome
+NC_007269.2	c28	Leishmania major strain Friedlin	linear	1160104	../../data/genbank/protista/Leishmania major strain Friedlin_c28.gb	DNA,Genome
+NC_007270.2	c29	Leishmania major strain Friedlin	linear	1212663	../../data/genbank/protista/Leishmania major strain Friedlin_c29.gb	DNA,Genome
+NC_007271.2	c30	Leishmania major strain Friedlin	linear	1403434	../../data/genbank/protista/Leishmania major strain Friedlin_c30.gb	DNA,Genome
+NC_007272.2	c31	Leishmania major strain Friedlin	linear	1484324	../../data/genbank/protista/Leishmania major strain Friedlin_c31.gb	DNA,Genome
+NC_007273.2	c32	Leishmania major strain Friedlin	linear	1604637	../../data/genbank/protista/Leishmania major strain Friedlin_c32.gb	DNA,Genome
+NC_007285.2	c33	Leishmania major strain Friedlin	linear	1583653	../../data/genbank/protista/Leishmania major strain Friedlin_c33.gb	DNA,Genome
+NC_007286.2	c34	Leishmania major strain Friedlin	linear	1866748	../../data/genbank/protista/Leishmania major strain Friedlin_c34.gb	DNA,Genome
+NC_007284.2	c35	Leishmania major strain Friedlin	linear	2090474	../../data/genbank/protista/Leishmania major strain Friedlin_c35.gb	DNA,Genome
+NC_007287.2	c36	Leishmania major strain Friedlin	linear	2682151	../../data/genbank/protista/Leishmania major strain Friedlin_c36.gb	DNA,Genome
+NC_008409.1	c1	Trypanosoma brucei brucei TREU927	linear	1064672	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c1.gb	DNA,Genome
+NC_005063.2	c2	Trypanosoma brucei brucei TREU927	linear	1193948	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c2.gb	DNA,Genome
+NC_007276.1	c3	Trypanosoma brucei brucei TREU927	linear	1653225	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c3.gb	DNA,Genome
+NC_007277.1	c4	Trypanosoma brucei brucei TREU927	linear	1590432	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c4.gb	DNA,Genome
+NC_007278.1	c5	Trypanosoma brucei brucei TREU927	linear	1608198	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c5.gb	DNA,Genome
+NC_007279.1	c6	Trypanosoma brucei brucei TREU927	linear	1618915	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c6.gb	DNA,Genome
+NC_007280.1	c7	Trypanosoma brucei brucei TREU927	linear	2205233	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c7.gb	DNA,Genome
+NC_007281.1	c8	Trypanosoma brucei brucei TREU927	linear	2481190	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c8.gb	DNA,Genome
+NC_007282.1	c9	Trypanosoma brucei brucei TREU927	linear	3057547	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c9.gb	DNA,Genome
+NC_007283.1	c10	Trypanosoma brucei brucei TREU927	linear	4054025	../../data/genbank/protista/Trypanosoma brucei brucei TREU927_c10.gb	DNA,Genome
+NC_018385.1	cIa	Neospora caninum Liverpool	linear	2288409	../../data/genbank/protista/Neospora caninum Liverpool_cIa.gb	DNA,Genome
+NC_018386.1	cIb	Neospora caninum Liverpool	linear	1908326	../../data/genbank/protista/Neospora caninum Liverpool_cIb.gb	DNA,Genome
+NC_018387.1	cII	Neospora caninum Liverpool	linear	2170133	../../data/genbank/protista/Neospora caninum Liverpool_cII.gb	DNA,Genome
+NC_018388.1	cIII	Neospora caninum Liverpool	linear	2139717	../../data/genbank/protista/Neospora caninum Liverpool_cIII.gb	DNA,Genome
+NC_018389.1	cIV	Neospora caninum Liverpool	linear	2317323	../../data/genbank/protista/Neospora caninum Liverpool_cIV.gb	DNA,Genome
+NC_018391.1	cV	Neospora caninum Liverpool	linear	2735753	../../data/genbank/protista/Neospora caninum Liverpool_cV.gb	DNA,Genome
+NC_018392.1	cVI	Neospora caninum Liverpool	linear	3360651	../../data/genbank/protista/Neospora caninum Liverpool_cVI.gb	DNA,Genome
+NC_018393.1	cVIIa	Neospora caninum Liverpool	linear	3947736	../../data/genbank/protista/Neospora caninum Liverpool_cVIIa.gb	DNA,Genome
+NC_018394.1	cVIIb	Neospora caninum Liverpool	linear	4923984	../../data/genbank/protista/Neospora caninum Liverpool_cVIIb.gb	DNA,Genome
+NC_018395.1	cVIII	Neospora caninum Liverpool	linear	6723156	../../data/genbank/protista/Neospora caninum Liverpool_cVIII.gb	DNA,Genome
+NC_018390.1	cIX	Neospora caninum Liverpool	linear	5490906	../../data/genbank/protista/Neospora caninum Liverpool_cIX.gb	DNA,Genome
+NC_018396.1	cX	Neospora caninum Liverpool	linear	6985512	../../data/genbank/protista/Neospora caninum Liverpool_cX.gb	DNA,Genome
+NC_018397.1	cXI	Neospora caninum Liverpool	linear	6081843	../../data/genbank/protista/Neospora caninum Liverpool_cXI.gb	DNA,Genome
+NC_018398.1	cXII	Neospora caninum Liverpool	linear	6473971	../../data/genbank/protista/Neospora caninum Liverpool_cXII.gb	DNA,Genome
+NC_031467.1	cIa	Toxoplasma gondii ME49	linear	1859933	../../data/genbank/protista/Toxoplasma gondii ME49_cIa.gb	DNA,Genome
+NC_031468.1	cIb	Toxoplasma gondii ME49	linear	1955354	../../data/genbank/protista/Toxoplasma gondii ME49_cIb.gb	DNA,Genome
+NC_031469.1	cII	Toxoplasma gondii ME49	linear	2347032	../../data/genbank/protista/Toxoplasma gondii ME49_cII.gb	DNA,Genome
+NC_031470.1	cIII	Toxoplasma gondii ME49	linear	2532871	../../data/genbank/protista/Toxoplasma gondii ME49_cIII.gb	DNA,Genome
+NC_031471.1	cIV	Toxoplasma gondii ME49	linear	2686605	../../data/genbank/protista/Toxoplasma gondii ME49_cIV.gb	DNA,Genome
+NC_031472.1	cV	Toxoplasma gondii ME49	linear	3331915	../../data/genbank/protista/Toxoplasma gondii ME49_cV.gb	DNA,Genome
+NC_031473.1	cVI	Toxoplasma gondii ME49	linear	3646983	../../data/genbank/protista/Toxoplasma gondii ME49_cVI.gb	DNA,Genome
+NC_031474.1	cVIIa	Toxoplasma gondii ME49	linear	4541629	../../data/genbank/protista/Toxoplasma gondii ME49_cVIIa.gb	DNA,Genome
+NC_031475.1	cVIIb	Toxoplasma gondii ME49	linear	5069724	../../data/genbank/protista/Toxoplasma gondii ME49_cVIIb.gb	DNA,Genome
+NC_031476.1	cVIII	Toxoplasma gondii ME49	linear	6970285	../../data/genbank/protista/Toxoplasma gondii ME49_cVIII.gb	DNA,Genome
+NC_031477.1	cIX	Toxoplasma gondii ME49	linear	6327655	../../data/genbank/protista/Toxoplasma gondii ME49_cIX.gb	DNA,Genome
+NC_031478.1	cX	Toxoplasma gondii ME49	linear	7486190	../../data/genbank/protista/Toxoplasma gondii ME49_cX.gb	DNA,Genome
+NC_031479.1	cXI	Toxoplasma gondii ME49	linear	6623461	../../data/genbank/protista/Toxoplasma gondii ME49_cXI.gb	DNA,Genome
+NC_031480.1	cXII	Toxoplasma gondii ME49	linear	7094428	../../data/genbank/protista/Toxoplasma gondii ME49_cXII.gb	DNA,Genome
+NC_006980.1	c1	Cryptosporidium parvum Iowa II	linear	875659	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c1.gb	DNA,Genome
+NC_006981.1	c2	Cryptosporidium parvum Iowa II	linear	985969	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c2.gb	DNA,Genome
+NC_006982.1	c3	Cryptosporidium parvum Iowa II	linear	1099352	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c3.gb	DNA,Genome
+NC_006983.1	c4	Cryptosporidium parvum Iowa II	linear	1104417	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c4.gb	DNA,Genome
+NC_006984.1	c5	Cryptosporidium parvum Iowa II	linear	1080900	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c5.gb	DNA,Genome
+NC_006985.1	c6	Cryptosporidium parvum Iowa II	linear	1332857	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c6.gb	DNA,Genome
+NC_006986.1	c7	Cryptosporidium parvum Iowa II	linear	1278458	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c7.gb	DNA,Genome
+NC_006987.1	c8	Cryptosporidium parvum Iowa II	linear	1344712	../../data/genbank/protista/Cryptosporidium parvum Iowa II_c8.gb	DNA,Genome
+NC_009906.1	c1	Plasmodium vivax	linear	830022	../../data/genbank/protista/Plasmodium vivax_c1.gb	DNA,Genome
+NC_009907.1	c2	Plasmodium vivax	linear	755035	../../data/genbank/protista/Plasmodium vivax_c2.gb	DNA,Genome
+NC_009908.2	c3	Plasmodium vivax	linear	1011127	../../data/genbank/protista/Plasmodium vivax_c3.gb	DNA,Genome
+NC_009909.1	c4	Plasmodium vivax	linear	876622	../../data/genbank/protista/Plasmodium vivax_c4.gb	DNA,Genome
+NC_009910.1	c5	Plasmodium vivax	linear	1370936	../../data/genbank/protista/Plasmodium vivax_c5.gb	DNA,Genome
+NC_009911.1	c6	Plasmodium vivax	linear	1033388	../../data/genbank/protista/Plasmodium vivax_c6.gb	DNA,Genome
+NC_009912.1	c7	Plasmodium vivax	linear	1497819	../../data/genbank/protista/Plasmodium vivax_c7.gb	DNA,Genome
+NC_009913.1	c8	Plasmodium vivax	linear	1678596	../../data/genbank/protista/Plasmodium vivax_c8.gb	DNA,Genome
+NC_009914.1	c9	Plasmodium vivax	linear	1923364	../../data/genbank/protista/Plasmodium vivax_c9.gb	DNA,Genome
+NC_009915.1	c10	Plasmodium vivax	linear	1419739	../../data/genbank/protista/Plasmodium vivax_c10.gb	DNA,Genome
+NC_009916.1	c11	Plasmodium vivax	linear	2067354	../../data/genbank/protista/Plasmodium vivax_c11.gb	DNA,Genome
+NC_009917.1	c12	Plasmodium vivax	linear	3004884	../../data/genbank/protista/Plasmodium vivax_c12.gb	DNA,Genome
+NC_009918.1	c13	Plasmodium vivax	linear	2031768	../../data/genbank/protista/Plasmodium vivax_c13.gb	DNA,Genome
+NC_009919.1	c14	Plasmodium vivax	linear	3120417	../../data/genbank/protista/Plasmodium vivax_c14.gb	DNA,Genome
+NC_004325.2	c1	Plasmodium falciparum 3D7	linear	640851	../../data/genbank/protista/Plasmodium falciparum 3D7_c1.gb	DNA,Genome
+NC_037280.1	c2	Plasmodium falciparum 3D7	linear	947102	../../data/genbank/protista/Plasmodium falciparum 3D7_c2.gb	DNA,Genome
+NC_000521.4	c3	Plasmodium falciparum 3D7	linear	1067971	../../data/genbank/protista/Plasmodium falciparum 3D7_c3.gb	DNA,Genome
+NC_004318.2	c4	Plasmodium falciparum 3D7	linear	1200490	../../data/genbank/protista/Plasmodium falciparum 3D7_c4.gb	DNA,Genome
+NC_004326.2	c5	Plasmodium falciparum 3D7	linear	1343557	../../data/genbank/protista/Plasmodium falciparum 3D7_c5.gb	DNA,Genome
+NC_004327.3	c6	Plasmodium falciparum 3D7	linear	1418242	../../data/genbank/protista/Plasmodium falciparum 3D7_c6.gb	DNA,Genome
+NC_004328.3	c7	Plasmodium falciparum 3D7	linear	1445207	../../data/genbank/protista/Plasmodium falciparum 3D7_c7.gb	DNA,Genome
+NC_004329.3	c8	Plasmodium falciparum 3D7	linear	1472805	../../data/genbank/protista/Plasmodium falciparum 3D7_c8.gb	DNA,Genome
+NC_004330.2	c9	Plasmodium falciparum 3D7	linear	1541735	../../data/genbank/protista/Plasmodium falciparum 3D7_c9.gb	DNA,Genome
+NC_037281.1	c10	Plasmodium falciparum 3D7	linear	1687656	../../data/genbank/protista/Plasmodium falciparum 3D7_c10.gb	DNA,Genome
+NC_037282.1	c11	Plasmodium falciparum 3D7	linear	2038340	../../data/genbank/protista/Plasmodium falciparum 3D7_c11.gb	DNA,Genome
+NC_037284.1	c12	Plasmodium falciparum 3D7	linear	2271494	../../data/genbank/protista/Plasmodium falciparum 3D7_c12.gb	DNA,Genome
+NC_004331.3	c13	Plasmodium falciparum 3D7	linear	2925236	../../data/genbank/protista/Plasmodium falciparum 3D7_c13.gb	DNA,Genome
+NC_037283.1	c14	Plasmodium falciparum 3D7	linear	3291936	../../data/genbank/protista/Plasmodium falciparum 3D7_c14.gb	DNA,Genome
+NC_036159.2	c1	Plasmodium berghei ANKA	linear	515659	../../data/genbank/protista/Plasmodium berghei ANKA_c1.gb	DNA,Genome
+NC_036160.2	c2	Plasmodium berghei ANKA	linear	622508	../../data/genbank/protista/Plasmodium berghei ANKA_c2.gb	DNA,Genome
+NC_036161.2	c3	Plasmodium berghei ANKA	linear	659512	../../data/genbank/protista/Plasmodium berghei ANKA_c3.gb	DNA,Genome
+NC_036162.2	c4	Plasmodium berghei ANKA	linear	712327	../../data/genbank/protista/Plasmodium berghei ANKA_c4.gb	DNA,Genome
+NC_036163.2	c5	Plasmodium berghei ANKA	linear	931174	../../data/genbank/protista/Plasmodium berghei ANKA_c5.gb	DNA,Genome
+NC_036164.2	c6	Plasmodium berghei ANKA	linear	984266	../../data/genbank/protista/Plasmodium berghei ANKA_c6.gb	DNA,Genome
+NC_036165.2	c7	Plasmodium berghei ANKA	linear	846620	../../data/genbank/protista/Plasmodium berghei ANKA_c7.gb	DNA,Genome
+NC_036166.2	c8	Plasmodium berghei ANKA	linear	1420537	../../data/genbank/protista/Plasmodium berghei ANKA_c8.gb	DNA,Genome
+NC_036167.2	c9	Plasmodium berghei ANKA	linear	1633586	../../data/genbank/protista/Plasmodium berghei ANKA_c9.gb	DNA,Genome
+NC_036168.2	c10	Plasmodium berghei ANKA	linear	1640193	../../data/genbank/protista/Plasmodium berghei ANKA_c10.gb	DNA,Genome
+NC_036169.2	c11	Plasmodium berghei ANKA	linear	1762642	../../data/genbank/protista/Plasmodium berghei ANKA_c11.gb	DNA,Genome
+NC_036170.2	c12	Plasmodium berghei ANKA	linear	1807262	../../data/genbank/protista/Plasmodium berghei ANKA_c12.gb	DNA,Genome
+NC_036171.2	c13	Plasmodium berghei ANKA	linear	2521873	../../data/genbank/protista/Plasmodium berghei ANKA_c13.gb	DNA,Genome
+NC_036172.2	c14	Plasmodium berghei ANKA	linear	2549703	../../data/genbank/protista/Plasmodium berghei ANKA_c14.gb	DNA,Genome
+NC_020396.1	c1	Plasmodium cynomolgi strain B	linear	828170	../../data/genbank/protista/Plasmodium cynomolgi strain B_c1.gb	DNA,Genome
+NC_020395.1	c2	Plasmodium cynomolgi strain B	linear	725503	../../data/genbank/protista/Plasmodium cynomolgi strain B_c2.gb	DNA,Genome
+NC_020397.1	c3	Plasmodium cynomolgi strain B	linear	1037329	../../data/genbank/protista/Plasmodium cynomolgi strain B_c3.gb	DNA,Genome
+NC_020408.1	c4	Plasmodium cynomolgi strain B	linear	801051	../../data/genbank/protista/Plasmodium cynomolgi strain B_c4.gb	DNA,Genome
+NC_020398.1	c5	Plasmodium cynomolgi strain B	linear	1296396	../../data/genbank/protista/Plasmodium cynomolgi strain B_c5.gb	DNA,Genome
+NC_020399.1	c6	Plasmodium cynomolgi strain B	linear	1030703	../../data/genbank/protista/Plasmodium cynomolgi strain B_c6.gb	DNA,Genome
+NC_020400.1	c7	Plasmodium cynomolgi strain B	linear	1492599	../../data/genbank/protista/Plasmodium cynomolgi strain B_c7.gb	DNA,Genome
+NC_020401.1	c8	Plasmodium cynomolgi strain B	linear	1717921	../../data/genbank/protista/Plasmodium cynomolgi strain B_c8.gb	DNA,Genome
+NC_020402.1	c9	Plasmodium cynomolgi strain B	linear	1985783	../../data/genbank/protista/Plasmodium cynomolgi strain B_c9.gb	DNA,Genome
+NC_020403.1	c10	Plasmodium cynomolgi strain B	linear	1459515	../../data/genbank/protista/Plasmodium cynomolgi strain B_c10.gb	DNA,Genome
+NC_020404.1	c11	Plasmodium cynomolgi strain B	linear	2076872	../../data/genbank/protista/Plasmodium cynomolgi strain B_c11.gb	DNA,Genome
+NC_020405.1	c12	Plasmodium cynomolgi strain B	linear	3118530	../../data/genbank/protista/Plasmodium cynomolgi strain B_c12.gb	DNA,Genome
+NC_020406.1	c13	Plasmodium cynomolgi strain B	linear	2094899	../../data/genbank/protista/Plasmodium cynomolgi strain B_c13.gb	DNA,Genome
+NC_020407.1	c14	Plasmodium cynomolgi strain B	linear	3063064	../../data/genbank/protista/Plasmodium cynomolgi strain B_c14.gb	DNA,Genome
+NC_033556.1	c1	Plasmodium coatneyi	linear	1146425	../../data/genbank/protista/Plasmodium coatneyi_c1.gb	DNA,Genome
+NC_033557.1	c2	Plasmodium coatneyi	linear	937520	../../data/genbank/protista/Plasmodium coatneyi_c2.gb	DNA,Genome
+NC_033558.1	c3	Plasmodium coatneyi	linear	1147333	../../data/genbank/protista/Plasmodium coatneyi_c3.gb	DNA,Genome
+NC_033559.1	c4	Plasmodium coatneyi	linear	1862670	../../data/genbank/protista/Plasmodium coatneyi_c4.gb	DNA,Genome
+NC_033560.1	c5	Plasmodium coatneyi	linear	1520521	../../data/genbank/protista/Plasmodium coatneyi_c5.gb	DNA,Genome
+NC_033561.1	c6	Plasmodium coatneyi	linear	1293593	../../data/genbank/protista/Plasmodium coatneyi_c6.gb	DNA,Genome
+NC_033562.1	c7	Plasmodium coatneyi	linear	1883611	../../data/genbank/protista/Plasmodium coatneyi_c7.gb	DNA,Genome
+NC_033563.1	c8	Plasmodium coatneyi	linear	2003671	../../data/genbank/protista/Plasmodium coatneyi_c8.gb	DNA,Genome
+NC_033564.1	c9	Plasmodium coatneyi	linear	2583428	../../data/genbank/protista/Plasmodium coatneyi_c9.gb	DNA,Genome
+NC_033565.1	c10	Plasmodium coatneyi	linear	1763958	../../data/genbank/protista/Plasmodium coatneyi_c10.gb	DNA,Genome
+NC_033566.1	c11	Plasmodium coatneyi	linear	2627280	../../data/genbank/protista/Plasmodium coatneyi_c11.gb	DNA,Genome
+NC_033567.1	c12	Plasmodium coatneyi	linear	4930710	../../data/genbank/protista/Plasmodium coatneyi_c12.gb	DNA,Genome
+NC_033568.1	c13	Plasmodium coatneyi	linear	1997354	../../data/genbank/protista/Plasmodium coatneyi_c13.gb	DNA,Genome
+NC_033569.1	c14	Plasmodium coatneyi	linear	1987456	../../data/genbank/protista/Plasmodium coatneyi_c14.gb	DNA,Genome
+NC_031481.1	c1	Plasmodium gaboni	linear	404612	../../data/genbank/protista/Plasmodium gaboni_c1.gb	DNA,Genome
+NC_031482.1	c2	Plasmodium gaboni	linear	694560	../../data/genbank/protista/Plasmodium gaboni_c2.gb	DNA,Genome
+NC_031483.1	c3	Plasmodium gaboni	linear	842317	../../data/genbank/protista/Plasmodium gaboni_c3.gb	DNA,Genome
+NC_031484.1	c4	Plasmodium gaboni	linear	776283	../../data/genbank/protista/Plasmodium gaboni_c4.gb	DNA,Genome
+NC_031485.1	c5	Plasmodium gaboni	linear	1171446	../../data/genbank/protista/Plasmodium gaboni_c5.gb	DNA,Genome
+NC_031486.1	c6	Plasmodium gaboni	linear	1153970	../../data/genbank/protista/Plasmodium gaboni_c6.gb	DNA,Genome
+NC_031487.1	c7	Plasmodium gaboni	linear	1108057	../../data/genbank/protista/Plasmodium gaboni_c7.gb	DNA,Genome
+NC_031488.1	c8	Plasmodium gaboni	linear	1110535	../../data/genbank/protista/Plasmodium gaboni_c8.gb	DNA,Genome
+NC_031489.1	c9	Plasmodium gaboni	linear	1256115	../../data/genbank/protista/Plasmodium gaboni_c9.gb	DNA,Genome
+NC_031490.1	c10	Plasmodium gaboni	linear	1372096	../../data/genbank/protista/Plasmodium gaboni_c10.gb	DNA,Genome
+NC_031491.1	c11	Plasmodium gaboni	linear	1707701	../../data/genbank/protista/Plasmodium gaboni_c11.gb	DNA,Genome
+NC_031492.1	c12	Plasmodium gaboni	linear	1854454	../../data/genbank/protista/Plasmodium gaboni_c12.gb	DNA,Genome
+NC_031493.1	c13	Plasmodium gaboni	linear	2479031	../../data/genbank/protista/Plasmodium gaboni_c13.gb	DNA,Genome
+NC_031494.1	c14	Plasmodium gaboni	linear	2947581	../../data/genbank/protista/Plasmodium gaboni_c14.gb	DNA,Genome
+NC_011129.2	c1	Theileria annulata	linear	2592520	../../data/genbank/protista/Theileria annulata_c1.gb	DNA,Genome
+NC_011099.1	c2	Theileria annulata	linear	1979170	../../data/genbank/protista/Theileria annulata_c2.gb	DNA,Genome
+NC_011100.1	c3	Theileria annulata	linear	1898942	../../data/genbank/protista/Theileria annulata_c3.gb	DNA,Genome
+NC_011098.1	c4	Theileria annulata	linear	1842271	../../data/genbank/protista/Theileria annulata_c4.gb	DNA,Genome
+NC_007344.1	c1	Theileria parva strain Muguga	linear	2540030	../../data/genbank/protista/Theileria parva strain Muguga_c1.gb	DNA,Genome
+NC_007345.1	c2	Theileria parva strain Muguga	linear	1971884	../../data/genbank/protista/Theileria parva strain Muguga_c2.gb	DNA,Genome
+NC_025260.1	c1	Theileria orientalis strain Shintoku	linear	2746313	../../data/genbank/protista/Theileria orientalis strain Shintoku_c1.gb	DNA,Genome
+NC_025261.1	c2	Theileria orientalis strain Shintoku	linear	2216979	../../data/genbank/protista/Theileria orientalis strain Shintoku_c2.gb	DNA,Genome
+NC_025262.1	c3	Theileria orientalis strain Shintoku	linear	2000793	../../data/genbank/protista/Theileria orientalis strain Shintoku_c3.gb	DNA,Genome
+NC_025263.1	c4	Theileria orientalis strain Shintoku	linear	2019511	../../data/genbank/protista/Theileria orientalis strain Shintoku_c4.gb	DNA,Genome
+NC_027205.1	cI	Babesia microti strain RI	linear	1304281	../../data/genbank/protista/Babesia microti strain RI_cI.gb	DNA,Genome
+NC_027206.1	cII	Babesia microti strain RI	linear	1508385	../../data/genbank/protista/Babesia microti strain RI_cII.gb	DNA,Genome
+NC_027207.2	cIII	Babesia microti strain RI	linear	1766409	../../data/genbank/protista/Babesia microti strain RI_cIII.gb	DNA,Genome
+NC_034969.1	cIV	Babesia microti strain RI	linear	1816206	../../data/genbank/protista/Babesia microti strain RI_cIV.gb	DNA,Genome
+NC_027216.1	cI	Babesia bigemina	linear	2541256	../../data/genbank/protista/Babesia bigemina_cI.gb	DNA,Genome
+NC_027217.1	cII	Babesia bigemina	linear	2823968	../../data/genbank/protista/Babesia bigemina_cII.gb	DNA,Genome
+NC_027218.1	cIII	Babesia bigemina	linear	3518759	../../data/genbank/protista/Babesia bigemina_cIII.gb	DNA,Genome
+NC_027219.1	cIV	Babesia bigemina	linear	893602	../../data/genbank/protista/Babesia bigemina_cIV.gb	DNA,Genome
+NC_027220.1	cV	Babesia bigemina	linear	493739	../../data/genbank/protista/Babesia bigemina_cV.gb	DNA,Genome
+NC_011669.1	c1	Phaeodactylum tricornutum CCAP 1055_1	linear	2535400	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c1.gb	DNA,Genome
+NC_011670.1	c2	Phaeodactylum tricornutum CCAP 1055_1	linear	1497954	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c2.gb	DNA,Genome
+NC_011671.1	c3	Phaeodactylum tricornutum CCAP 1055_1	linear	1460046	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c3.gb	DNA,Genome
+NC_011672.1	c4	Phaeodactylum tricornutum CCAP 1055_1	linear	1360148	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c4.gb	DNA,Genome
+NC_011673.1	c5	Phaeodactylum tricornutum CCAP 1055_1	linear	1098047	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c5.gb	DNA,Genome
+NC_011674.1	c6	Phaeodactylum tricornutum CCAP 1055_1	linear	1035082	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c6.gb	DNA,Genome
+NC_011675.1	c7	Phaeodactylum tricornutum CCAP 1055_1	linear	1029019	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c7.gb	DNA,Genome
+NC_011676.1	c8	Phaeodactylum tricornutum CCAP 1055_1	linear	1007773	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c8.gb	DNA,Genome
+NC_011677.1	c9	Phaeodactylum tricornutum CCAP 1055_1	linear	1002813	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c9.gb	DNA,Genome
+NC_011678.1	c10	Phaeodactylum tricornutum CCAP 1055_1	linear	976485	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c10.gb	DNA,Genome
+NC_011679.1	c11	Phaeodactylum tricornutum CCAP 1055_1	linear	945026	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c11.gb	DNA,Genome
+NC_011680.1	c12	Phaeodactylum tricornutum CCAP 1055_1	linear	901853	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c12.gb	DNA,Genome
+NC_011681.1	c13	Phaeodactylum tricornutum CCAP 1055_1	linear	887524	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c13.gb	DNA,Genome
+NC_011682.1	c14	Phaeodactylum tricornutum CCAP 1055_1	linear	829358	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c14.gb	DNA,Genome
+NC_011683.1	c15	Phaeodactylum tricornutum CCAP 1055_1	linear	814910	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c15.gb	DNA,Genome
+NC_011684.1	c16	Phaeodactylum tricornutum CCAP 1055_1	linear	764225	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c16.gb	DNA,Genome
+NC_011685.1	c17	Phaeodactylum tricornutum CCAP 1055_1	linear	703943	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c17.gb	DNA,Genome
+NC_011686.1	c18	Phaeodactylum tricornutum CCAP 1055_1	linear	702471	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c18.gb	DNA,Genome
+NC_011687.1	c19	Phaeodactylum tricornutum CCAP 1055_1	linear	690427	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c19.gb	DNA,Genome
+NC_011688.1	c20	Phaeodactylum tricornutum CCAP 1055_1	linear	683011	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c20.gb	DNA,Genome
+NC_011689.1	c21	Phaeodactylum tricornutum CCAP 1055_1	linear	662217	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c21.gb	DNA,Genome
+NC_011690.1	c22	Phaeodactylum tricornutum CCAP 1055_1	linear	591336	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c22.gb	DNA,Genome
+NC_011691.1	c23	Phaeodactylum tricornutum CCAP 1055_1	linear	512847	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c23.gb	DNA,Genome
+NC_011692.1	c24	Phaeodactylum tricornutum CCAP 1055_1	linear	511739	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c24.gb	DNA,Genome
+NC_011693.1	c25	Phaeodactylum tricornutum CCAP 1055_1	linear	497271	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c25.gb	DNA,Genome
+NC_011694.1	c26	Phaeodactylum tricornutum CCAP 1055_1	linear	441226	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c26.gb	DNA,Genome
+NC_011695.1	c27	Phaeodactylum tricornutum CCAP 1055_1	linear	404298	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c27.gb	DNA,Genome
+NC_011696.1	c28	Phaeodactylum tricornutum CCAP 1055_1	linear	387582	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c28.gb	DNA,Genome
+NC_011697.1	c29	Phaeodactylum tricornutum CCAP 1055_1	linear	384256	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c29.gb	DNA,Genome
+NC_011698.1	c30	Phaeodactylum tricornutum CCAP 1055_1	linear	317207	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c30.gb	DNA,Genome
+NC_011699.1	c31	Phaeodactylum tricornutum CCAP 1055_1	linear	258242	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c31.gb	DNA,Genome
+NC_011700.1	c32	Phaeodactylum tricornutum CCAP 1055_1	linear	157053	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c32.gb	DNA,Genome
+NC_011701.1	c33	Phaeodactylum tricornutum CCAP 1055_1	linear	87967	../../data/genbank/protista/Phaeodactylum tricornutum CCAP 1055_1_c33.gb	DNA,Genome
+NC_012064.1	c1	Thalassiosira pseudonana CCMP1335	linear	3042585	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c1.gb	DNA,Genome
+NC_012065.1	c2	Thalassiosira pseudonana CCMP1335	linear	2707195	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c2.gb	DNA,Genome
+NC_012066.1	c3	Thalassiosira pseudonana CCMP1335	linear	2440052	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c3.gb	DNA,Genome
+NC_012067.1	c4	Thalassiosira pseudonana CCMP1335	linear	2402323	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c4.gb	DNA,Genome
+NC_012068.1	c5	Thalassiosira pseudonana CCMP1335	linear	2305972	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c5.gb	DNA,Genome
+NC_012069.1	c6	Thalassiosira pseudonana CCMP1335	linear	2071480	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c6.gb	DNA,Genome
+NC_012070.1	c7	Thalassiosira pseudonana CCMP1335	linear	1992434	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c7.gb	DNA,Genome
+NC_012071.1	c8	Thalassiosira pseudonana CCMP1335	linear	1267198	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c8.gb	DNA,Genome
+NC_012072.1	c9	Thalassiosira pseudonana CCMP1335	linear	1191060	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c9.gb	DNA,Genome
+NC_012073.1	c10	Thalassiosira pseudonana CCMP1335	linear	1105668	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c10.gb	DNA,Genome
+NC_012075.1	c12	Thalassiosira pseudonana CCMP1335	linear	1128382	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c12.gb	DNA,Genome
+NC_012076.1	c13	Thalassiosira pseudonana CCMP1335	linear	1052196	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c13.gb	DNA,Genome
+NC_012077.1	c14	Thalassiosira pseudonana CCMP1335	linear	998643	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c14.gb	DNA,Genome
+NC_012078.1	c15	Thalassiosira pseudonana CCMP1335	linear	931268	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c15.gb	DNA,Genome
+NC_012080.1	c17	Thalassiosira pseudonana CCMP1335	linear	659924	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c17.gb	DNA,Genome
+NC_012081.1	c18	Thalassiosira pseudonana CCMP1335	linear	827053	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c18.gb	DNA,Genome
+NC_012083.1	c20	Thalassiosira pseudonana CCMP1335	linear	800234	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c20.gb	DNA,Genome
+NC_012085.1	c22	Thalassiosira pseudonana CCMP1335	linear	1057565	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c22.gb	DNA,Genome
+NC_012086.1	c23	Thalassiosira pseudonana CCMP1335	linear	454954	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c23.gb	DNA,Genome
+NC_012087.1	c24	Thalassiosira pseudonana CCMP1335	linear	297349	../../data/genbank/protista/Thalassiosira pseudonana CCMP1335_c24.gb	DNA,Genome
+NC_010127.1	c1	Cyanidioschyzon merolae strain 10D	linear	422616	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c1.gb	DNA,Genome
+NC_010128.1	c2	Cyanidioschyzon merolae strain 10D	linear	457013	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c2.gb	DNA,Genome
+NC_010129.1	c3	Cyanidioschyzon merolae strain 10D	linear	481791	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c3.gb	DNA,Genome
+NC_010130.1	c4	Cyanidioschyzon merolae strain 10D	linear	513455	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c4.gb	DNA,Genome
+NC_010131.1	c5	Cyanidioschyzon merolae strain 10D	linear	528682	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c5.gb	DNA,Genome
+NC_010132.1	c6	Cyanidioschyzon merolae strain 10D	linear	536163	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c6.gb	DNA,Genome
+NC_010133.1	c7	Cyanidioschyzon merolae strain 10D	linear	584452	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c7.gb	DNA,Genome
+NC_010134.1	c8	Cyanidioschyzon merolae strain 10D	linear	739753	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c8.gb	DNA,Genome
+NC_010135.1	c9	Cyanidioschyzon merolae strain 10D	linear	810151	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c9.gb	DNA,Genome
+NC_010136.1	c10	Cyanidioschyzon merolae strain 10D	linear	839707	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c10.gb	DNA,Genome
+NC_010137.1	c11	Cyanidioschyzon merolae strain 10D	linear	852849	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c11.gb	DNA,Genome
+NC_010138.1	c12	Cyanidioschyzon merolae strain 10D	linear	859119	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c12.gb	DNA,Genome
+NC_010139.1	c13	Cyanidioschyzon merolae strain 10D	linear	866983	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c13.gb	DNA,Genome
+NC_010140.1	c14	Cyanidioschyzon merolae strain 10D	linear	852727	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c14.gb	DNA,Genome
+NC_010141.1	c15	Cyanidioschyzon merolae strain 10D	linear	902900	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c15.gb	DNA,Genome
+NC_010142.1	c16	Cyanidioschyzon merolae strain 10D	linear	908485	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c16.gb	DNA,Genome
+NC_010143.1	c17	Cyanidioschyzon merolae strain 10D	linear	1232258	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c17.gb	DNA,Genome
+NC_010144.1	c18	Cyanidioschyzon merolae strain 10D	linear	1253087	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c18.gb	DNA,Genome
+NC_010145.1	c19	Cyanidioschyzon merolae strain 10D	linear	1282939	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c19.gb	DNA,Genome
+NC_010146.1	c20	Cyanidioschyzon merolae strain 10D	linear	1621617	../../data/genbank/protista/Cyanidioschyzon merolae strain 10D_c20.gb	DNA,Genome
+NC_057004.1	c1	Chlamydomonas reinhardtii	linear	8033585	../../data/genbank/protista/Chlamydomonas reinhardtii_c1.gb	DNA,Genome
+NC_057005.1	c2	Chlamydomonas reinhardtii	linear	9223677	../../data/genbank/protista/Chlamydomonas reinhardtii_c2.gb	DNA,Genome
+NC_057006.1	c3	Chlamydomonas reinhardtii	linear	9219486	../../data/genbank/protista/Chlamydomonas reinhardtii_c3.gb	DNA,Genome
+NC_057007.1	c4	Chlamydomonas reinhardtii	linear	4091191	../../data/genbank/protista/Chlamydomonas reinhardtii_c4.gb	DNA,Genome
+NC_057008.1	c5	Chlamydomonas reinhardtii	linear	3500558	../../data/genbank/protista/Chlamydomonas reinhardtii_c5.gb	DNA,Genome
+NC_057009.1	c6	Chlamydomonas reinhardtii	linear	9023763	../../data/genbank/protista/Chlamydomonas reinhardtii_c6.gb	DNA,Genome
+NC_057010.1	c7	Chlamydomonas reinhardtii	linear	6421821	../../data/genbank/protista/Chlamydomonas reinhardtii_c7.gb	DNA,Genome
+NC_057011.1	c8	Chlamydomonas reinhardtii	linear	5033832	../../data/genbank/protista/Chlamydomonas reinhardtii_c8.gb	DNA,Genome
+NC_057012.1	c9	Chlamydomonas reinhardtii	linear	7956127	../../data/genbank/protista/Chlamydomonas reinhardtii_c9.gb	DNA,Genome
+NC_057013.1	c10	Chlamydomonas reinhardtii	linear	6576019	../../data/genbank/protista/Chlamydomonas reinhardtii_c10.gb	DNA,Genome
+NC_057014.1	c11	Chlamydomonas reinhardtii	linear	3826814	../../data/genbank/protista/Chlamydomonas reinhardtii_c11.gb	DNA,Genome
+NC_057015.1	c12	Chlamydomonas reinhardtii	linear	9730733	../../data/genbank/protista/Chlamydomonas reinhardtii_c12.gb	DNA,Genome
+NC_057016.1	c13	Chlamydomonas reinhardtii	linear	5206065	../../data/genbank/protista/Chlamydomonas reinhardtii_c13.gb	DNA,Genome
+NC_057017.1	c14	Chlamydomonas reinhardtii	linear	4157777	../../data/genbank/protista/Chlamydomonas reinhardtii_c14.gb	DNA,Genome
+NC_057018.1	c15	Chlamydomonas reinhardtii	linear	1922860	../../data/genbank/protista/Chlamydomonas reinhardtii_c15.gb	DNA,Genome
+NC_057019.1	c16	Chlamydomonas reinhardtii	linear	7783580	../../data/genbank/protista/Chlamydomonas reinhardtii_c16.gb	DNA,Genome
+NC_057020.1	c17	Chlamydomonas reinhardtii	linear	7188315	../../data/genbank/protista/Chlamydomonas reinhardtii_c17.gb	DNA,Genome
+NC_013038.1	c1	Micromonas commoda	linear	2053059	../../data/genbank/protista/Micromonas commoda_c1.gb	DNA,Genome
+NC_013039.1	c2	Micromonas commoda	linear	1914325	../../data/genbank/protista/Micromonas commoda_c2.gb	DNA,Genome
+NC_013040.1	c3	Micromonas commoda	linear	1759951	../../data/genbank/protista/Micromonas commoda_c3.gb	DNA,Genome
+NC_013041.1	c4	Micromonas commoda	linear	1584431	../../data/genbank/protista/Micromonas commoda_c4.gb	DNA,Genome
+NC_013042.1	c5	Micromonas commoda	linear	1518631	../../data/genbank/protista/Micromonas commoda_c5.gb	DNA,Genome
+NC_013043.1	c6	Micromonas commoda	linear	1431126	../../data/genbank/protista/Micromonas commoda_c6.gb	DNA,Genome
+NC_013044.1	c7	Micromonas commoda	linear	1394110	../../data/genbank/protista/Micromonas commoda_c7.gb	DNA,Genome
+NC_013045.1	c8	Micromonas commoda	linear	1276107	../../data/genbank/protista/Micromonas commoda_c8.gb	DNA,Genome
+NC_013046.1	c9	Micromonas commoda	linear	1260462	../../data/genbank/protista/Micromonas commoda_c9.gb	DNA,Genome
+NC_013047.1	c10	Micromonas commoda	linear	1160640	../../data/genbank/protista/Micromonas commoda_c10.gb	DNA,Genome
+NC_013048.1	c11	Micromonas commoda	linear	1145873	../../data/genbank/protista/Micromonas commoda_c11.gb	DNA,Genome
+NC_013049.1	c12	Micromonas commoda	linear	1084119	../../data/genbank/protista/Micromonas commoda_c12.gb	DNA,Genome
+NC_013050.1	c13	Micromonas commoda	linear	1011177	../../data/genbank/protista/Micromonas commoda_c13.gb	DNA,Genome
+NC_013051.1	c14	Micromonas commoda	linear	832468	../../data/genbank/protista/Micromonas commoda_c14.gb	DNA,Genome
+NC_013052.1	c15	Micromonas commoda	linear	739136	../../data/genbank/protista/Micromonas commoda_c15.gb	DNA,Genome
+NC_013053.1	c16	Micromonas commoda	linear	608929	../../data/genbank/protista/Micromonas commoda_c16.gb	DNA,Genome
+NC_013054.1	c17	Micromonas commoda	linear	214782	../../data/genbank/protista/Micromonas commoda_c17.gb	DNA,Genome
+NC_024008.1	c1	Bathycoccus prasinos	linear	1352724	../../data/genbank/protista/Bathycoccus prasinos_c1.gb	DNA,Genome
+NC_024007.1	c2	Bathycoccus prasinos	linear	1122692	../../data/genbank/protista/Bathycoccus prasinos_c2.gb	DNA,Genome
+NC_024006.1	c3	Bathycoccus prasinos	linear	1091008	../../data/genbank/protista/Bathycoccus prasinos_c3.gb	DNA,Genome
+NC_024005.1	c4	Bathycoccus prasinos	linear	1037991	../../data/genbank/protista/Bathycoccus prasinos_c4.gb	DNA,Genome
+NC_024004.1	c5	Bathycoccus prasinos	linear	1019276	../../data/genbank/protista/Bathycoccus prasinos_c5.gb	DNA,Genome
+NC_024003.1	c6	Bathycoccus prasinos	linear	989707	../../data/genbank/protista/Bathycoccus prasinos_c6.gb	DNA,Genome
+NC_024002.1	c7	Bathycoccus prasinos	linear	955652	../../data/genbank/protista/Bathycoccus prasinos_c7.gb	DNA,Genome
+NC_024001.1	c8	Bathycoccus prasinos	linear	937610	../../data/genbank/protista/Bathycoccus prasinos_c8.gb	DNA,Genome
+NC_024000.1	c9	Bathycoccus prasinos	linear	895536	../../data/genbank/protista/Bathycoccus prasinos_c9.gb	DNA,Genome
+NC_023999.1	c10	Bathycoccus prasinos	linear	794368	../../data/genbank/protista/Bathycoccus prasinos_c10.gb	DNA,Genome
+NC_023998.1	c11	Bathycoccus prasinos	linear	741603	../../data/genbank/protista/Bathycoccus prasinos_c11.gb	DNA,Genome
+NC_023997.1	c12	Bathycoccus prasinos	linear	712459	../../data/genbank/protista/Bathycoccus prasinos_c12.gb	DNA,Genome
+NC_023996.1	c13	Bathycoccus prasinos	linear	708035	../../data/genbank/protista/Bathycoccus prasinos_c13.gb	DNA,Genome
+NC_023995.1	c14	Bathycoccus prasinos	linear	663424	../../data/genbank/protista/Bathycoccus prasinos_c14.gb	DNA,Genome
+NC_023994.1	c15	Bathycoccus prasinos	linear	519835	../../data/genbank/protista/Bathycoccus prasinos_c15.gb	DNA,Genome
+NC_023993.1	c16	Bathycoccus prasinos	linear	494108	../../data/genbank/protista/Bathycoccus prasinos_c16.gb	DNA,Genome
+NC_023992.1	c17	Bathycoccus prasinos	linear	465570	../../data/genbank/protista/Bathycoccus prasinos_c17.gb	DNA,Genome
+NC_023991.1	c18	Bathycoccus prasinos	linear	310170	../../data/genbank/protista/Bathycoccus prasinos_c18.gb	DNA,Genome
+NC_023990.1	c19	Bathycoccus prasinos	linear	146238	../../data/genbank/protista/Bathycoccus prasinos_c19.gb	DNA,Genome
+NC_009355.1	c1	Ostreococcus lucimarinus CCE9901	linear	1152508	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c1.gb	DNA,Genome
+NC_009356.1	c2	Ostreococcus lucimarinus CCE9901	linear	895087	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c2.gb	DNA,Genome
+NC_009357.1	c3	Ostreococcus lucimarinus CCE9901	linear	982987	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c3.gb	DNA,Genome
+NC_009358.1	c4	Ostreococcus lucimarinus CCE9901	linear	930724	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c4.gb	DNA,Genome
+NC_009359.1	c5	Ostreococcus lucimarinus CCE9901	linear	847696	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c5.gb	DNA,Genome
+NC_009360.1	c6	Ostreococcus lucimarinus CCE9901	linear	818664	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c6.gb	DNA,Genome
+NC_009361.1	c7	Ostreococcus lucimarinus CCE9901	linear	783246	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c7.gb	DNA,Genome
+NC_009362.1	c8	Ostreococcus lucimarinus CCE9901	linear	701771	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c8.gb	DNA,Genome
+NC_009363.1	c9	Ostreococcus lucimarinus CCE9901	linear	670853	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c9.gb	DNA,Genome
+NC_009364.1	c10	Ostreococcus lucimarinus CCE9901	linear	613585	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c10.gb	DNA,Genome
+NC_009365.1	c11	Ostreococcus lucimarinus CCE9901	linear	593542	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c11.gb	DNA,Genome
+NC_009366.1	c12	Ostreococcus lucimarinus CCE9901	linear	538963	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c12.gb	DNA,Genome
+NC_009367.1	c13	Ostreococcus lucimarinus CCE9901	linear	528469	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c13.gb	DNA,Genome
+NC_009368.1	c14	Ostreococcus lucimarinus CCE9901	linear	708927	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c14.gb	DNA,Genome
+NC_009369.1	c15	Ostreococcus lucimarinus CCE9901	linear	468366	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c15.gb	DNA,Genome
+NC_009370.1	c16	Ostreococcus lucimarinus CCE9901	linear	428333	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c16.gb	DNA,Genome
+NC_009371.1	c17	Ostreococcus lucimarinus CCE9901	linear	366173	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c17.gb	DNA,Genome
+NC_009372.1	c18	Ostreococcus lucimarinus CCE9901	linear	149386	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c18.gb	DNA,Genome
+NC_009373.1	c19	Ostreococcus lucimarinus CCE9901	linear	154676	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c19.gb	DNA,Genome
+NC_009374.1	c20	Ostreococcus lucimarinus CCE9901	linear	549133	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c20.gb	DNA,Genome
+NC_009375.1	c21	Ostreococcus lucimarinus CCE9901	linear	321799	../../data/genbank/protista/Ostreococcus lucimarinus CCE9901_c21.gb	DNA,Genome
+NC_014426.2	c1	Ostreococcus tauri	linear	1096037	../../data/genbank/protista/Ostreococcus tauri_c1.gb	DNA,Genome
+NC_014427.2	c2	Ostreococcus tauri	linear	1074072	../../data/genbank/protista/Ostreococcus tauri_c2.gb	DNA,Genome
+NC_014428.2	c3	Ostreococcus tauri	linear	997348	../../data/genbank/protista/Ostreococcus tauri_c3.gb	DNA,Genome
+NC_014429.2	c4	Ostreococcus tauri	linear	944948	../../data/genbank/protista/Ostreococcus tauri_c4.gb	DNA,Genome
+NC_014430.2	c5	Ostreococcus tauri	linear	835544	../../data/genbank/protista/Ostreococcus tauri_c5.gb	DNA,Genome
+NC_014431.2	c6	Ostreococcus tauri	linear	793623	../../data/genbank/protista/Ostreococcus tauri_c6.gb	DNA,Genome
+NC_014432.2	c7	Ostreococcus tauri	linear	770246	../../data/genbank/protista/Ostreococcus tauri_c7.gb	DNA,Genome
+NC_014433.2	c8	Ostreococcus tauri	linear	717457	../../data/genbank/protista/Ostreococcus tauri_c8.gb	DNA,Genome
+NC_014434.2	c9	Ostreococcus tauri	linear	713054	../../data/genbank/protista/Ostreococcus tauri_c9.gb	DNA,Genome
+NC_014435.2	c10	Ostreococcus tauri	linear	591496	../../data/genbank/protista/Ostreococcus tauri_c10.gb	DNA,Genome
+NC_014436.2	c11	Ostreococcus tauri	linear	595839	../../data/genbank/protista/Ostreococcus tauri_c11.gb	DNA,Genome
+NC_014437.2	c12	Ostreococcus tauri	linear	542657	../../data/genbank/protista/Ostreococcus tauri_c12.gb	DNA,Genome
+NC_014438.2	c13	Ostreococcus tauri	linear	549623	../../data/genbank/protista/Ostreococcus tauri_c13.gb	DNA,Genome
+NC_014439.2	c14	Ostreococcus tauri	linear	547765	../../data/genbank/protista/Ostreococcus tauri_c14.gb	DNA,Genome
+NC_014440.2	c15	Ostreococcus tauri	linear	511330	../../data/genbank/protista/Ostreococcus tauri_c15.gb	DNA,Genome
+NC_014441.2	c16	Ostreococcus tauri	linear	528281	../../data/genbank/protista/Ostreococcus tauri_c16.gb	DNA,Genome
+NC_014442.2	c17	Ostreococcus tauri	linear	411047	../../data/genbank/protista/Ostreococcus tauri_c17.gb	DNA,Genome
+NC_014443.2	c18	Ostreococcus tauri	linear	345706	../../data/genbank/protista/Ostreococcus tauri_c18.gb	DNA,Genome
+NC_014444.2	c19	Ostreococcus tauri	linear	185428	../../data/genbank/protista/Ostreococcus tauri_c19.gb	DNA,Genome
+NC_014445.2	c20	Ostreococcus tauri	linear	165357	../../data/genbank/protista/Ostreococcus tauri_c20.gb	DNA,Genome
+NC_006058.1	?	Paramecium tetraurelia strain d4-2	linear	984602	../../data/genbank/protista/Paramecium tetraurelia strain d4-2.gb	DNA,Genome
+FN649726.1	cLG01	Ectocarpus siliculosus	linear	3745584	../../data/genbank/protista/Ectocarpus siliculosus_cLG01.gb	DNA,Genome
+FN649727.1	cLG02	Ectocarpus siliculosus	linear	9289656	../../data/genbank/protista/Ectocarpus siliculosus_cLG02.gb	DNA,Genome
+FN649728.1	cLG03	Ectocarpus siliculosus	linear	7313625	../../data/genbank/protista/Ectocarpus siliculosus_cLG03.gb	DNA,Genome
+FN649729.1	cLG04	Ectocarpus siliculosus	linear	5529539	../../data/genbank/protista/Ectocarpus siliculosus_cLG04.gb	DNA,Genome
+FN649730.1	cLG05	Ectocarpus siliculosus	linear	2246853	../../data/genbank/protista/Ectocarpus siliculosus_cLG05.gb	DNA,Genome
+FN649731.1	cLG06	Ectocarpus siliculosus	linear	3939081	../../data/genbank/protista/Ectocarpus siliculosus_cLG06.gb	DNA,Genome
+FN649732.1	cLG07	Ectocarpus siliculosus	linear	2353607	../../data/genbank/protista/Ectocarpus siliculosus_cLG07.gb	DNA,Genome
+FN649733.1	cLG08	Ectocarpus siliculosus	linear	4529048	../../data/genbank/protista/Ectocarpus siliculosus_cLG08.gb	DNA,Genome
+FN649734.1	cLG09	Ectocarpus siliculosus	linear	6071967	../../data/genbank/protista/Ectocarpus siliculosus_cLG09.gb	DNA,Genome
+FN649735.1	cLG10	Ectocarpus siliculosus	linear	4527641	../../data/genbank/protista/Ectocarpus siliculosus_cLG10.gb	DNA,Genome
+FN649736.1	cLG11	Ectocarpus siliculosus	linear	5521395	../../data/genbank/protista/Ectocarpus siliculosus_cLG11.gb	DNA,Genome
+FN649737.1	cLG12	Ectocarpus siliculosus	linear	3842133	../../data/genbank/protista/Ectocarpus siliculosus_cLG12.gb	DNA,Genome
+FN649738.1	cLG13	Ectocarpus siliculosus	linear	3173470	../../data/genbank/protista/Ectocarpus siliculosus_cLG13.gb	DNA,Genome
+FN649739.1	cLG14	Ectocarpus siliculosus	linear	3614499	../../data/genbank/protista/Ectocarpus siliculosus_cLG14.gb	DNA,Genome
+FN649740.1	cLG15	Ectocarpus siliculosus	linear	5788546	../../data/genbank/protista/Ectocarpus siliculosus_cLG15.gb	DNA,Genome
+FN649741.1	cLG16	Ectocarpus siliculosus	linear	8064047	../../data/genbank/protista/Ectocarpus siliculosus_cLG16.gb	DNA,Genome
+FN649742.1	cLG17	Ectocarpus siliculosus	linear	5807719	../../data/genbank/protista/Ectocarpus siliculosus_cLG17.gb	DNA,Genome
+FN649743.1	cLG18	Ectocarpus siliculosus	linear	4589578	../../data/genbank/protista/Ectocarpus siliculosus_cLG18.gb	DNA,Genome
+FN649744.1	cLG19	Ectocarpus siliculosus	linear	3025835	../../data/genbank/protista/Ectocarpus siliculosus_cLG19.gb	DNA,Genome
+FN649745.1	cLG20	Ectocarpus siliculosus	linear	1840930	../../data/genbank/protista/Ectocarpus siliculosus_cLG20.gb	DNA,Genome
+FN649746.1	cLG21	Ectocarpus siliculosus	linear	3571976	../../data/genbank/protista/Ectocarpus siliculosus_cLG21.gb	DNA,Genome
+FN649747.1	cLG22	Ectocarpus siliculosus	linear	2337862	../../data/genbank/protista/Ectocarpus siliculosus_cLG22.gb	DNA,Genome
+FN649748.1	cLG23	Ectocarpus siliculosus	linear	3983565	../../data/genbank/protista/Ectocarpus siliculosus_cLG23.gb	DNA,Genome
+FN649749.1	cLG24	Ectocarpus siliculosus	linear	3847105	../../data/genbank/protista/Ectocarpus siliculosus_cLG24.gb	DNA,Genome
+FN649750.1	cLG25	Ectocarpus siliculosus	linear	4542878	../../data/genbank/protista/Ectocarpus siliculosus_cLG25.gb	DNA,Genome
+FN649751.1	cLG26	Ectocarpus siliculosus	linear	7107661	../../data/genbank/protista/Ectocarpus siliculosus_cLG26.gb	DNA,Genome
+FN649752.1	cLG27	Ectocarpus siliculosus	linear	4309624	../../data/genbank/protista/Ectocarpus siliculosus_cLG27.gb	DNA,Genome
+FN649753.1	cLG28	Ectocarpus siliculosus	linear	1232018	../../data/genbank/protista/Ectocarpus siliculosus_cLG28.gb	DNA,Genome
+FN649754.1	cLG29	Ectocarpus siliculosus	linear	1045753	../../data/genbank/protista/Ectocarpus siliculosus_cLG29.gb	DNA,Genome
+FN649755.1	cLG30	Ectocarpus siliculosus	linear	4005922	../../data/genbank/protista/Ectocarpus siliculosus_cLG30.gb	DNA,Genome
+FN649756.1	cLG31	Ectocarpus siliculosus	linear	577967	../../data/genbank/protista/Ectocarpus siliculosus_cLG31.gb	DNA,Genome
+FN649757.1	cLG32	Ectocarpus siliculosus	linear	932315	../../data/genbank/protista/Ectocarpus siliculosus_cLG32.gb	DNA,Genome
+FN649758.1	cLG33	Ectocarpus siliculosus	linear	4484617	../../data/genbank/protista/Ectocarpus siliculosus_cLG33.gb	DNA,Genome
+FN649759.1	cLG34	Ectocarpus siliculosus	linear	984112	../../data/genbank/protista/Ectocarpus siliculosus_cLG34.gb	DNA,Genome
+CM002455.1	c1	Nannochloropsis gaditana	linear	1546440	../../data/genbank/protista/Nannochloropsis gaditana_c1.gb	DNA,Genome
+CM002456.1	c2	Nannochloropsis gaditana	linear	1443245	../../data/genbank/protista/Nannochloropsis gaditana_c2.gb	DNA,Genome
+CM002457.1	c3	Nannochloropsis gaditana	linear	1384164	../../data/genbank/protista/Nannochloropsis gaditana_c3.gb	DNA,Genome
+CM002458.1	c4	Nannochloropsis gaditana	linear	1364975	../../data/genbank/protista/Nannochloropsis gaditana_c4.gb	DNA,Genome
+CM002459.1	c5	Nannochloropsis gaditana	linear	1358244	../../data/genbank/protista/Nannochloropsis gaditana_c5.gb	DNA,Genome
+CM002460.1	c6	Nannochloropsis gaditana	linear	1241202	../../data/genbank/protista/Nannochloropsis gaditana_c6.gb	DNA,Genome
+CM002461.1	c7	Nannochloropsis gaditana	linear	1193805	../../data/genbank/protista/Nannochloropsis gaditana_c7.gb	DNA,Genome
+CM002462.1	c8	Nannochloropsis gaditana	linear	1168894	../../data/genbank/protista/Nannochloropsis gaditana_c8.gb	DNA,Genome
+CM002463.1	c9	Nannochloropsis gaditana	linear	1164708	../../data/genbank/protista/Nannochloropsis gaditana_c9.gb	DNA,Genome
+CM002464.1	c10	Nannochloropsis gaditana	linear	1083023	../../data/genbank/protista/Nannochloropsis gaditana_c10.gb	DNA,Genome
+CM002465.1	c11	Nannochloropsis gaditana	linear	1065987	../../data/genbank/protista/Nannochloropsis gaditana_c11.gb	DNA,Genome
+CM002466.1	c12	Nannochloropsis gaditana	linear	1046732	../../data/genbank/protista/Nannochloropsis gaditana_c12.gb	DNA,Genome
+CM002467.1	c13	Nannochloropsis gaditana	linear	890907	../../data/genbank/protista/Nannochloropsis gaditana_c13.gb	DNA,Genome
+CM002468.1	c14	Nannochloropsis gaditana	linear	869639	../../data/genbank/protista/Nannochloropsis gaditana_c14.gb	DNA,Genome
+CM002469.1	c15	Nannochloropsis gaditana	linear	787877	../../data/genbank/protista/Nannochloropsis gaditana_c15.gb	DNA,Genome
+CM002470.1	c16	Nannochloropsis gaditana	linear	710462	../../data/genbank/protista/Nannochloropsis gaditana_c16.gb	DNA,Genome
+CM002471.1	c17	Nannochloropsis gaditana	linear	665804	../../data/genbank/protista/Nannochloropsis gaditana_c17.gb	DNA,Genome
+CM002472.1	c18	Nannochloropsis gaditana	linear	517648	../../data/genbank/protista/Nannochloropsis gaditana_c18.gb	DNA,Genome
+CM002473.1	c19	Nannochloropsis gaditana	linear	435979	../../data/genbank/protista/Nannochloropsis gaditana_c19.gb	DNA,Genome
+CM002474.1	c20	Nannochloropsis gaditana	linear	152354	../../data/genbank/protista/Nannochloropsis gaditana_c20.gb	DNA,Genome
+CM002475.1	c21	Nannochloropsis gaditana	linear	63419	../../data/genbank/protista/Nannochloropsis gaditana_c21.gb	DNA,Genome

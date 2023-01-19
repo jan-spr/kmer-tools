@@ -1,0 +1,70 @@
+id	name	organism	topology	length	file	labels
+NC_012920.1	MT	Homo sapiens	circular	16569	../../data/genbank/organelles/mitochondria/Homo sapiens_MT.gb	DNA,Genome
+NC_001643.1	MT	Pan troglodytes	circular	16554	../../data/genbank/organelles/mitochondria/Pan troglodytes_MT.gb	DNA,Genome
+NC_005089.1	MT	Mus musculus	circular	16299	../../data/genbank/organelles/mitochondria/Mus musculus_MT.gb	DNA,Genome
+NC_001665.2	MT	Rattus norvegicus	circular	16313	../../data/genbank/organelles/mitochondria/Rattus norvegicus_MT.gb	DNA,Genome
+NC_001913.1	MT	Oryctolagus cuniculus	circular	17245	../../data/genbank/organelles/mitochondria/Oryctolagus cuniculus_MT.gb	DNA,Genome
+NC_001700.1	MT	Felis catus	circular	17009	../../data/genbank/organelles/mitochondria/Felis catus_MT.gb	DNA,Genome
+NC_001640.1	MT	Equus caballus	circular	16660	../../data/genbank/organelles/mitochondria/Equus caballus_MT.gb	DNA,Genome
+NC_005044.2	MT	Capra hircus	circular	16643	../../data/genbank/organelles/mitochondria/Capra hircus_MT.gb	DNA,Genome
+NC_006853.1	MT	Bos taurus	circular	16338	../../data/genbank/organelles/mitochondria/Bos taurus_MT.gb	DNA,Genome
+NC_000845.1	MT	Sus scrofa	circular	16613	../../data/genbank/organelles/mitochondria/Sus scrofa_MT.gb	DNA,Genome
+NC_006299.1	MT	Monodelphis domestica	circular	17079	../../data/genbank/organelles/mitochondria/Monodelphis domestica_MT.gb	DNA,Genome
+NC_000891.1	MT	Ornithorhynchus anatinus	circular	17019	../../data/genbank/organelles/mitochondria/Ornithorhynchus anatinus_MT.gb	DNA,Genome
+NC_053523.1	MT	Gallus gallus	circular	16784	../../data/genbank/organelles/mitochondria/Gallus gallus_MT.gb	DNA,Genome
+NC_007897.1	MT	Taeniopygia guttata	circular	16853	../../data/genbank/organelles/mitochondria/Taeniopygia guttata_MT.gb	DNA,Genome
+NC_021621.1	MT	Ficedula albicollis	circular	16787	../../data/genbank/organelles/mitochondria/Ficedula albicollis_MT.gb	DNA,Genome
+NC_029359.1	MT	Falco rusticolus	circular	18218	../../data/genbank/organelles/mitochondria/Falco rusticolus_MT.gb	DNA,Genome
+NC_023890.1	MT	Chrysemys picta bellii	circular	16875	../../data/genbank/organelles/mitochondria/Chrysemys picta bellii_MT.gb	DNA,Genome
+NC_021766.1	MT	Lacerta agilis	circular	17090	../../data/genbank/organelles/mitochondria/Lacerta agilis_MT.gb	DNA,Genome
+NC_006839.1	MT	Xenopus tropicalis	circular	17610	../../data/genbank/organelles/mitochondria/Xenopus tropicalis_MT.gb	DNA,Genome
+NC_012825.1	MT	Cynoglossus semilaevis	circular	16731	../../data/genbank/organelles/mitochondria/Cynoglossus semilaevis_MT.gb	DNA,Genome
+NC_013663.1	MT	Oreochromis niloticus	circular	16627	../../data/genbank/organelles/mitochondria/Oreochromis niloticus_MT.gb	DNA,Genome
+NC_024238.1	MT	Poecilia reticulata	circular	16538	../../data/genbank/organelles/mitochondria/Poecilia reticulata_MT.gb	DNA,Genome
+NC_002333.2	MT	Danio rerio	circular	16596	../../data/genbank/organelles/mitochondria/Danio rerio_MT.gb	DNA,Genome
+NC_004744.1	MT	Lepisosteus oculatus	circular	16330	../../data/genbank/organelles/mitochondria/Lepisosteus oculatus_MT.gb	DNA,Genome
+NC_017929.1	MT	Ciona intestinalis B CG-2006	circular	14591	../../data/genbank/organelles/mitochondria/Ciona intestinalis B CG-2006_MT.gb	DNA,Genome
+NC_002545.1	MT	Schistosoma mansoni	circular	14415	../../data/genbank/organelles/mitochondria/Schistosoma mansoni_MT.gb	DNA,Genome
+NC_001328.1	MT	Caenorhabditis elegans	circular	13794	../../data/genbank/organelles/mitochondria/Caenorhabditis elegans_MT.gb	DNA,Genome
+NC_024586.1	MT	Pomacea canaliculata	circular	15707	../../data/genbank/organelles/mitochondria/Pomacea canaliculata_MT.gb	DNA,Genome
+NC_006353.1	MT	Octopus vulgaris	circular	15744	../../data/genbank/organelles/mitochondria/Octopus vulgaris_MT.gb	DNA,Genome
+NC_002184.1	MT	Penaeus monodon	circular	15984	../../data/genbank/organelles/mitochondria/Penaeus monodon_MT.gb	DNA,Genome
+NC_002074.1	MT	Rhipicephalus sanguineus	circular	14710	../../data/genbank/organelles/mitochondria/Rhipicephalus sanguineus_MT.gb	DNA,Genome
+NC_001566.1	MT	Apis mellifera ligustica	circular	16343	../../data/genbank/organelles/mitochondria/Apis mellifera ligustica_MT.gb	DNA,Genome
+NC_002084.1	MT	Anopheles gambiae	circular	15363	../../data/genbank/organelles/mitochondria/Anopheles gambiae_MT.gb	DNA,Genome
+NC_046603.1	MT	Drosophila pseudoobscura	circular	16118	../../data/genbank/organelles/mitochondria/Drosophila pseudoobscura_MT.gb	DNA,Genome
+NC_024511.2	MT	Drosophila melanogaster	circular	19524	../../data/genbank/organelles/mitochondria/Drosophila melanogaster_MT.gb	DNA,Genome
+NC_011120.1	MT	Gorilla gorilla gorilla	linear	16412	../../data/genbank/organelles/mitochondria/Gorilla gorilla gorilla_MT.gb	DNA,Genome
+NC_002083.1	MT	Pongo abelii	circular	16499	../../data/genbank/organelles/mitochondria/Pongo abelii_MT.gb	DNA,Genome
+NC_005943.1	MT	Macaca mulatta	circular	16564	../../data/genbank/organelles/mitochondria/Macaca mulatta_MT.gb	DNA,Genome
+NC_005358.1	MT	Ochotona princeps	circular	16481	../../data/genbank/organelles/mitochondria/Ochotona princeps_MT.gb	DNA,Genome
+NC_028718.1	MT	Microcebus murinus	circular	17114	../../data/genbank/organelles/mitochondria/Microcebus murinus_MT.gb	DNA,Genome
+NC_007945.1	MT	Physcomitrium patens	circular	105340	../../data/genbank/organelles/mitochondria/Physcomitrium patens_MT.gb	DNA,Genome
+NC_011033.1	MT	Oryza sativa Japonica Group	linear	490520	../../data/genbank/organelles/mitochondria/Oryza sativa Japonica Group_MT.gb	DNA,Genome
+NC_007982.1	MT	Zea mays subsp. mays	circular	569630	../../data/genbank/organelles/mitochondria/Zea mays subsp. mays_MT.gb	DNA,Genome
+NC_008360.1	MT	Sorghum bicolor	circular	468628	../../data/genbank/organelles/mitochondria/Sorghum bicolor_MT.gb	DNA,Genome
+NC_012119.1	MT	Vitis vinifera	circular	773279	../../data/genbank/organelles/mitochondria/Vitis vinifera_MT.gb	DNA,Genome
+NC_037304.1	MT	Arabidopsis thaliana	circular	367808	../../data/genbank/organelles/mitochondria/Arabidopsis thaliana_MT.gb	DNA,Genome
+NC_008285.1	MT	Brassica napus	circular	221853	../../data/genbank/organelles/mitochondria/Brassica napus_MT.gb	DNA,Genome
+NC_045136.1	MT	Manihot esculenta	circular	682840	../../data/genbank/organelles/mitochondria/Manihot esculenta_MT.gb	DNA,Genome
+NC_021092.1	MT	Vigna angularis	circular	404466	../../data/genbank/organelles/mitochondria/Vigna angularis_MT.gb	DNA,Genome
+NC_029641.1	MT	Medicago truncatula	circular	271618	../../data/genbank/organelles/mitochondria/Medicago truncatula_MT.gb	DNA,Genome
+NC_018554.1	MT	Malus domestica	circular	396947	../../data/genbank/organelles/mitochondria/Malus domestica_MT.gb	DNA,Genome
+NC_023337.1	MT	Helianthus annuus	circular	300945	../../data/genbank/organelles/mitochondria/Helianthus annuus_MT.gb	DNA,Genome
+NC_000895.1	MT	Dictyostelium discoideum	circular	55564	../../data/genbank/organelles/mitochondria/Dictyostelium discoideum_MT.gb	DNA,Genome
+NC_007243.1	MT	Plasmodium vivax Sal-1	circular	5990	../../data/genbank/organelles/mitochondria/Plasmodium vivax Sal-1_MT.gb	DNA,Genome
+NC_015303.1	MT	Plasmodium berghei	linear	5957	../../data/genbank/organelles/mitochondria/Plasmodium berghei_MT.gb	DNA,Genome
+NC_034637.1	MT	Babesia microti strain RI	linear	10547	../../data/genbank/organelles/mitochondria/Babesia microti strain RI_MT.gb	DNA,Genome
+NC_012643.1	MT	Micromonas commoda	circular	47425	../../data/genbank/organelles/mitochondria/Micromonas commoda_MT.gb	DNA,Genome
+NC_023273.1	MT	Bathycoccus prasinos	linear	43614	../../data/genbank/organelles/mitochondria/Bathycoccus prasinos_MT.gb	DNA,Genome
+NC_008290.1	MT	Ostreococcus tauri	circular	44237	../../data/genbank/organelles/mitochondria/Ostreococcus tauri_MT.gb	DNA,Genome
+CM008263.2	MT	Pyrrhoderma noxium	circular	163449	../../data/genbank/organelles/mitochondria/Pyrrhoderma noxium_MT.gb	DNA,Genome
+NC_001326.1	MT	Schizosaccharomyces pombe	circular	19431	../../data/genbank/organelles/mitochondria/Schizosaccharomyces pombe_MT.gb	DNA,Genome
+NC_001224.1	MT	Saccharomyces cerevisiae S288C	circular	85779	../../data/genbank/organelles/mitochondria/Saccharomyces cerevisiae S288C_MT.gb	DNA,Genome
+NC_005789.1	MT	Eremothecium gossypii ATCC 10895	circular	23564	../../data/genbank/organelles/mitochondria/Eremothecium gossypii ATCC 10895_MT.gb	DNA,Genome
+NC_004691.1	MT	[Candida] glabrata CBS 138	circular	20063	../../data/genbank/organelles/mitochondria/[Candida] glabrata CBS 138_MT.gb	DNA,Genome
+NC_010166.1	MT	Debaryomyces hansenii	circular	29462	../../data/genbank/organelles/mitochondria/Debaryomyces hansenii_MT.gb	DNA,Genome
+NC_002659.1	MT	Yarrowia lipolytica	circular	47916	../../data/genbank/organelles/mitochondria/Yarrowia lipolytica_MT.gb	DNA,Genome
+NC_026614.1	MT	Neurospora crassa OR74A	circular	64840	../../data/genbank/organelles/mitochondria/Neurospora crassa OR74A_MT.gb	DNA,Genome
+NC_017896.1	MT	Aspergillus nidulans FGSC A4	circular	33227	../../data/genbank/organelles/mitochondria/Aspergillus nidulans FGSC A4_MT.gb	DNA,Genome
+CM002802.1	MT	Penicillium chrysogenum	circular	27017	../../data/genbank/organelles/mitochondria/Penicillium chrysogenum_MT.gb	DNA,Genome

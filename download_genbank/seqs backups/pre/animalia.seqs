@@ -1,0 +1,800 @@
+id	name	organism	topology	length	file	labels
+NC_000001.11	c1	Homo sapiens	linear	248956422	../../data/genbank/animalia/Homo sapiens_c1.gb	DNA,Genome
+NC_000002.12	c2	Homo sapiens	linear	242193529	../../data/genbank/animalia/Homo sapiens_c2.gb	DNA,Genome
+NC_000003.12	c3	Homo sapiens	linear	198295559	../../data/genbank/animalia/Homo sapiens_c3.gb	DNA,Genome
+NC_000004.12	c4	Homo sapiens	linear	190214555	../../data/genbank/animalia/Homo sapiens_c4.gb	DNA,Genome
+NC_000005.10	c5	Homo sapiens	linear	181538259	../../data/genbank/animalia/Homo sapiens_c5.gb	DNA,Genome
+NC_000006.12	c6	Homo sapiens	linear	170805979	../../data/genbank/animalia/Homo sapiens_c6.gb	DNA,Genome
+NC_000007.14	c7	Homo sapiens	linear	159345973	../../data/genbank/animalia/Homo sapiens_c7.gb	DNA,Genome
+NC_000008.11	c8	Homo sapiens	linear	145138636	../../data/genbank/animalia/Homo sapiens_c8.gb	DNA,Genome
+NC_000009.12	c9	Homo sapiens	linear	138394717	../../data/genbank/animalia/Homo sapiens_c9.gb	DNA,Genome
+NC_000010.11	c10	Homo sapiens	linear	133797422	../../data/genbank/animalia/Homo sapiens_c10.gb	DNA,Genome
+NC_000011.10	c11	Homo sapiens	linear	135086622	../../data/genbank/animalia/Homo sapiens_c11.gb	DNA,Genome
+NC_000012.12	c12	Homo sapiens	linear	133275309	../../data/genbank/animalia/Homo sapiens_c12.gb	DNA,Genome
+NC_000013.11	c13	Homo sapiens	linear	114364328	../../data/genbank/animalia/Homo sapiens_c13.gb	DNA,Genome
+NC_000014.9	c14	Homo sapiens	linear	107043718	../../data/genbank/animalia/Homo sapiens_c14.gb	DNA,Genome
+NC_000015.10	c15	Homo sapiens	linear	101991189	../../data/genbank/animalia/Homo sapiens_c15.gb	DNA,Genome
+NC_000016.10	c16	Homo sapiens	linear	90338345	../../data/genbank/animalia/Homo sapiens_c16.gb	DNA,Genome
+NC_000017.11	c17	Homo sapiens	linear	83257441	../../data/genbank/animalia/Homo sapiens_c17.gb	DNA,Genome
+NC_000018.10	c18	Homo sapiens	linear	80373285	../../data/genbank/animalia/Homo sapiens_c18.gb	DNA,Genome
+NC_000019.10	c19	Homo sapiens	linear	58617616	../../data/genbank/animalia/Homo sapiens_c19.gb	DNA,Genome
+NC_000020.11	c20	Homo sapiens	linear	64444167	../../data/genbank/animalia/Homo sapiens_c20.gb	DNA,Genome
+NC_000021.9	c21	Homo sapiens	linear	46709983	../../data/genbank/animalia/Homo sapiens_c21.gb	DNA,Genome
+NC_000022.11	c22	Homo sapiens	linear	50818468	../../data/genbank/animalia/Homo sapiens_c22.gb	DNA,Genome
+NC_000023.11	cX	Homo sapiens	linear	156040895	../../data/genbank/animalia/Homo sapiens_cX.gb	DNA,Genome
+NC_000024.10	cY	Homo sapiens	linear	57227415	../../data/genbank/animalia/Homo sapiens_cY.gb	DNA,Genome
+NC_006468.4	c1	Pan troglodytes	linear	228573443	../../data/genbank/animalia/Pan troglodytes_c1.gb	DNA,Genome
+NC_006469.4	c2A	Pan troglodytes	linear	111504155	../../data/genbank/animalia/Pan troglodytes_c2A.gb	DNA,Genome
+NC_006470.4	c2B	Pan troglodytes	linear	133216015	../../data/genbank/animalia/Pan troglodytes_c2B.gb	DNA,Genome
+NC_006471.4	c4	Pan troglodytes	linear	194502333	../../data/genbank/animalia/Pan troglodytes_c4.gb	DNA,Genome
+NC_006472.4	c5	Pan troglodytes	linear	181907262	../../data/genbank/animalia/Pan troglodytes_c5.gb	DNA,Genome
+NC_006473.4	c6	Pan troglodytes	linear	175400573	../../data/genbank/animalia/Pan troglodytes_c6.gb	DNA,Genome
+NC_006474.4	c7	Pan troglodytes	linear	166211670	../../data/genbank/animalia/Pan troglodytes_c7.gb	DNA,Genome
+NC_006475.4	c8	Pan troglodytes	linear	147911612	../../data/genbank/animalia/Pan troglodytes_c8.gb	DNA,Genome
+NC_006476.4	c9	Pan troglodytes	linear	116767853	../../data/genbank/animalia/Pan troglodytes_c9.gb	DNA,Genome
+NC_006477.4	c10	Pan troglodytes	linear	135926727	../../data/genbank/animalia/Pan troglodytes_c10.gb	DNA,Genome
+NC_006478.4	c11	Pan troglodytes	linear	135753878	../../data/genbank/animalia/Pan troglodytes_c11.gb	DNA,Genome
+NC_006479.4	c12	Pan troglodytes	linear	137163284	../../data/genbank/animalia/Pan troglodytes_c12.gb	DNA,Genome
+NC_006480.4	c13	Pan troglodytes	linear	100452976	../../data/genbank/animalia/Pan troglodytes_c13.gb	DNA,Genome
+NC_006481.4	c14	Pan troglodytes	linear	91965084	../../data/genbank/animalia/Pan troglodytes_c14.gb	DNA,Genome
+NC_006482.4	c15	Pan troglodytes	linear	83230942	../../data/genbank/animalia/Pan troglodytes_c15.gb	DNA,Genome
+NC_006483.4	c16	Pan troglodytes	linear	81586097	../../data/genbank/animalia/Pan troglodytes_c16.gb	DNA,Genome
+NC_006484.4	c17	Pan troglodytes	linear	83181570	../../data/genbank/animalia/Pan troglodytes_c17.gb	DNA,Genome
+NC_006485.4	c18	Pan troglodytes	linear	78221452	../../data/genbank/animalia/Pan troglodytes_c18.gb	DNA,Genome
+NC_006486.4	c19	Pan troglodytes	linear	61309027	../../data/genbank/animalia/Pan troglodytes_c19.gb	DNA,Genome
+NC_006487.4	c20	Pan troglodytes	linear	66533130	../../data/genbank/animalia/Pan troglodytes_c20.gb	DNA,Genome
+NC_006488.4	c21	Pan troglodytes	linear	33445071	../../data/genbank/animalia/Pan troglodytes_c21.gb	DNA,Genome
+NC_006489.4	c22	Pan troglodytes	linear	37823149	../../data/genbank/animalia/Pan troglodytes_c22.gb	DNA,Genome
+NC_006490.4	c3	Pan troglodytes	linear	202621043	../../data/genbank/animalia/Pan troglodytes_c3.gb	DNA,Genome
+NC_006491.4	cX	Pan troglodytes	linear	155549662	../../data/genbank/animalia/Pan troglodytes_cX.gb	DNA,Genome
+NC_006492.4	cY	Pan troglodytes	linear	26350515	../../data/genbank/animalia/Pan troglodytes_cY.gb	DNA,Genome
+NC_000067.7	c1	Mus musculus	linear	195154279	../../data/genbank/animalia/Mus musculus_c1.gb	DNA,Genome
+NC_000068.8	c2	Mus musculus	linear	181755017	../../data/genbank/animalia/Mus musculus_c2.gb	DNA,Genome
+NC_000069.7	c3	Mus musculus	linear	159745316	../../data/genbank/animalia/Mus musculus_c3.gb	DNA,Genome
+NC_000070.7	c4	Mus musculus	linear	156860686	../../data/genbank/animalia/Mus musculus_c4.gb	DNA,Genome
+NC_000071.7	c5	Mus musculus	linear	151758149	../../data/genbank/animalia/Mus musculus_c5.gb	DNA,Genome
+NC_000072.7	c6	Mus musculus	linear	149588044	../../data/genbank/animalia/Mus musculus_c6.gb	DNA,Genome
+NC_000073.7	c7	Mus musculus	linear	144995196	../../data/genbank/animalia/Mus musculus_c7.gb	DNA,Genome
+NC_000074.7	c8	Mus musculus	linear	130127694	../../data/genbank/animalia/Mus musculus_c8.gb	DNA,Genome
+NC_000075.7	c9	Mus musculus	linear	124359700	../../data/genbank/animalia/Mus musculus_c9.gb	DNA,Genome
+NC_000076.7	c10	Mus musculus	linear	130530862	../../data/genbank/animalia/Mus musculus_c10.gb	DNA,Genome
+NC_000077.7	c11	Mus musculus	linear	121973369	../../data/genbank/animalia/Mus musculus_c11.gb	DNA,Genome
+NC_000078.7	c12	Mus musculus	linear	120092757	../../data/genbank/animalia/Mus musculus_c12.gb	DNA,Genome
+NC_000079.7	c13	Mus musculus	linear	120883175	../../data/genbank/animalia/Mus musculus_c13.gb	DNA,Genome
+NC_000080.7	c14	Mus musculus	linear	125139656	../../data/genbank/animalia/Mus musculus_c14.gb	DNA,Genome
+NC_000081.7	c15	Mus musculus	linear	104073951	../../data/genbank/animalia/Mus musculus_c15.gb	DNA,Genome
+NC_000082.7	c16	Mus musculus	linear	98008968	../../data/genbank/animalia/Mus musculus_c16.gb	DNA,Genome
+NC_000083.7	c17	Mus musculus	linear	95294699	../../data/genbank/animalia/Mus musculus_c17.gb	DNA,Genome
+NC_000084.7	c18	Mus musculus	linear	90720763	../../data/genbank/animalia/Mus musculus_c18.gb	DNA,Genome
+NC_000085.7	c19	Mus musculus	linear	61420004	../../data/genbank/animalia/Mus musculus_c19.gb	DNA,Genome
+NC_000086.8	cX	Mus musculus	linear	169476592	../../data/genbank/animalia/Mus musculus_cX.gb	DNA,Genome
+NC_000087.8	cY	Mus musculus	linear	91455967	../../data/genbank/animalia/Mus musculus_cY.gb	DNA,Genome
+NC_051336.1	c1	Rattus norvegicus	linear	260522016	../../data/genbank/animalia/Rattus norvegicus_c1.gb	DNA,Genome
+NC_051337.1	c2	Rattus norvegicus	linear	249053267	../../data/genbank/animalia/Rattus norvegicus_c2.gb	DNA,Genome
+NC_051338.1	c3	Rattus norvegicus	linear	169034231	../../data/genbank/animalia/Rattus norvegicus_c3.gb	DNA,Genome
+NC_051339.1	c4	Rattus norvegicus	linear	182687754	../../data/genbank/animalia/Rattus norvegicus_c4.gb	DNA,Genome
+NC_051340.1	c5	Rattus norvegicus	linear	166875058	../../data/genbank/animalia/Rattus norvegicus_c5.gb	DNA,Genome
+NC_051341.1	c6	Rattus norvegicus	linear	140994061	../../data/genbank/animalia/Rattus norvegicus_c6.gb	DNA,Genome
+NC_051342.1	c7	Rattus norvegicus	linear	135012528	../../data/genbank/animalia/Rattus norvegicus_c7.gb	DNA,Genome
+NC_051343.1	c8	Rattus norvegicus	linear	123900184	../../data/genbank/animalia/Rattus norvegicus_c8.gb	DNA,Genome
+NC_051344.1	c9	Rattus norvegicus	linear	114175309	../../data/genbank/animalia/Rattus norvegicus_c9.gb	DNA,Genome
+NC_051345.1	c10	Rattus norvegicus	linear	107211142	../../data/genbank/animalia/Rattus norvegicus_c10.gb	DNA,Genome
+NC_051346.1	c11	Rattus norvegicus	linear	86241447	../../data/genbank/animalia/Rattus norvegicus_c11.gb	DNA,Genome
+NC_051347.1	c12	Rattus norvegicus	linear	46669029	../../data/genbank/animalia/Rattus norvegicus_c12.gb	DNA,Genome
+NC_051348.1	c13	Rattus norvegicus	linear	106807694	../../data/genbank/animalia/Rattus norvegicus_c13.gb	DNA,Genome
+NC_051349.1	c14	Rattus norvegicus	linear	104886043	../../data/genbank/animalia/Rattus norvegicus_c14.gb	DNA,Genome
+NC_051350.1	c15	Rattus norvegicus	linear	101769107	../../data/genbank/animalia/Rattus norvegicus_c15.gb	DNA,Genome
+NC_051351.1	c16	Rattus norvegicus	linear	84729064	../../data/genbank/animalia/Rattus norvegicus_c16.gb	DNA,Genome
+NC_051352.1	c17	Rattus norvegicus	linear	86533673	../../data/genbank/animalia/Rattus norvegicus_c17.gb	DNA,Genome
+NC_051353.1	c18	Rattus norvegicus	linear	83828827	../../data/genbank/animalia/Rattus norvegicus_c18.gb	DNA,Genome
+NC_051354.1	c19	Rattus norvegicus	linear	57337602	../../data/genbank/animalia/Rattus norvegicus_c19.gb	DNA,Genome
+NC_051355.1	c20	Rattus norvegicus	linear	54435887	../../data/genbank/animalia/Rattus norvegicus_c20.gb	DNA,Genome
+NC_051356.1	cX	Rattus norvegicus	linear	152453651	../../data/genbank/animalia/Rattus norvegicus_cX.gb	DNA,Genome
+NC_051357.1	cY	Rattus norvegicus	linear	18315841	../../data/genbank/animalia/Rattus norvegicus_cY.gb	DNA,Genome
+NC_013669.1	c1	Oryctolagus cuniculus	linear	194850757	../../data/genbank/animalia/Oryctolagus cuniculus_c1.gb	DNA,Genome
+NC_013670.1	c2	Oryctolagus cuniculus	linear	174332312	../../data/genbank/animalia/Oryctolagus cuniculus_c2.gb	DNA,Genome
+NC_013671.1	c3	Oryctolagus cuniculus	linear	155691105	../../data/genbank/animalia/Oryctolagus cuniculus_c3.gb	DNA,Genome
+NC_013672.1	c4	Oryctolagus cuniculus	linear	91394100	../../data/genbank/animalia/Oryctolagus cuniculus_c4.gb	DNA,Genome
+NC_013673.1	c5	Oryctolagus cuniculus	linear	37992211	../../data/genbank/animalia/Oryctolagus cuniculus_c5.gb	DNA,Genome
+NC_013674.1	c6	Oryctolagus cuniculus	linear	27502587	../../data/genbank/animalia/Oryctolagus cuniculus_c6.gb	DNA,Genome
+NC_013675.1	c7	Oryctolagus cuniculus	linear	173684459	../../data/genbank/animalia/Oryctolagus cuniculus_c7.gb	DNA,Genome
+NC_013676.1	c8	Oryctolagus cuniculus	linear	111795807	../../data/genbank/animalia/Oryctolagus cuniculus_c8.gb	DNA,Genome
+NC_013677.1	c9	Oryctolagus cuniculus	linear	116251907	../../data/genbank/animalia/Oryctolagus cuniculus_c9.gb	DNA,Genome
+NC_013678.1	c10	Oryctolagus cuniculus	linear	47997241	../../data/genbank/animalia/Oryctolagus cuniculus_c10.gb	DNA,Genome
+NC_013679.1	c11	Oryctolagus cuniculus	linear	87554214	../../data/genbank/animalia/Oryctolagus cuniculus_c11.gb	DNA,Genome
+NC_013680.1	c12	Oryctolagus cuniculus	linear	155355395	../../data/genbank/animalia/Oryctolagus cuniculus_c12.gb	DNA,Genome
+NC_013681.1	c13	Oryctolagus cuniculus	linear	143360832	../../data/genbank/animalia/Oryctolagus cuniculus_c13.gb	DNA,Genome
+NC_013682.1	c14	Oryctolagus cuniculus	linear	163896628	../../data/genbank/animalia/Oryctolagus cuniculus_c14.gb	DNA,Genome
+NC_013683.1	c15	Oryctolagus cuniculus	linear	109054052	../../data/genbank/animalia/Oryctolagus cuniculus_c15.gb	DNA,Genome
+NC_013684.1	c16	Oryctolagus cuniculus	linear	84478945	../../data/genbank/animalia/Oryctolagus cuniculus_c16.gb	DNA,Genome
+NC_013685.1	c17	Oryctolagus cuniculus	linear	85008467	../../data/genbank/animalia/Oryctolagus cuniculus_c17.gb	DNA,Genome
+NC_013686.1	c18	Oryctolagus cuniculus	linear	69800736	../../data/genbank/animalia/Oryctolagus cuniculus_c18.gb	DNA,Genome
+NC_013687.1	c19	Oryctolagus cuniculus	linear	57279966	../../data/genbank/animalia/Oryctolagus cuniculus_c19.gb	DNA,Genome
+NC_013688.1	c20	Oryctolagus cuniculus	linear	33191332	../../data/genbank/animalia/Oryctolagus cuniculus_c20.gb	DNA,Genome
+NC_013689.1	c21	Oryctolagus cuniculus	linear	15578276	../../data/genbank/animalia/Oryctolagus cuniculus_c21.gb	DNA,Genome
+NC_013690.1	cX	Oryctolagus cuniculus	linear	111700775	../../data/genbank/animalia/Oryctolagus cuniculus_cX.gb	DNA,Genome
+NC_051805.1	c1	Canis lupus familiaris	linear	123313939	../../data/genbank/animalia/Canis lupus familiaris_c1.gb	DNA,Genome
+NC_051806.1	c2	Canis lupus familiaris	linear	86187811	../../data/genbank/animalia/Canis lupus familiaris_c2.gb	DNA,Genome
+NC_051807.1	c3	Canis lupus familiaris	linear	92870237	../../data/genbank/animalia/Canis lupus familiaris_c3.gb	DNA,Genome
+NC_051808.1	c4	Canis lupus familiaris	linear	89007665	../../data/genbank/animalia/Canis lupus familiaris_c4.gb	DNA,Genome
+NC_051809.1	c5	Canis lupus familiaris	linear	89573405	../../data/genbank/animalia/Canis lupus familiaris_c5.gb	DNA,Genome
+NC_051810.1	c6	Canis lupus familiaris	linear	78268176	../../data/genbank/animalia/Canis lupus familiaris_c6.gb	DNA,Genome
+NC_051811.1	c7	Canis lupus familiaris	linear	81039452	../../data/genbank/animalia/Canis lupus familiaris_c7.gb	DNA,Genome
+NC_051812.1	c8	Canis lupus familiaris	linear	75260524	../../data/genbank/animalia/Canis lupus familiaris_c8.gb	DNA,Genome
+NC_051813.1	c9	Canis lupus familiaris	linear	62002293	../../data/genbank/animalia/Canis lupus familiaris_c9.gb	DNA,Genome
+NC_051814.1	c10	Canis lupus familiaris	linear	70361000	../../data/genbank/animalia/Canis lupus familiaris_c10.gb	DNA,Genome
+NC_051815.1	c11	Canis lupus familiaris	linear	75541347	../../data/genbank/animalia/Canis lupus familiaris_c11.gb	DNA,Genome
+NC_051816.1	c12	Canis lupus familiaris	linear	73497294	../../data/genbank/animalia/Canis lupus familiaris_c12.gb	DNA,Genome
+NC_051817.1	c13	Canis lupus familiaris	linear	64037277	../../data/genbank/animalia/Canis lupus familiaris_c13.gb	DNA,Genome
+NC_051818.1	c14	Canis lupus familiaris	linear	61043064	../../data/genbank/animalia/Canis lupus familiaris_c14.gb	DNA,Genome
+NC_051819.1	c15	Canis lupus familiaris	linear	65200600	../../data/genbank/animalia/Canis lupus familiaris_c15.gb	DNA,Genome
+NC_051820.1	c16	Canis lupus familiaris	linear	62021213	../../data/genbank/animalia/Canis lupus familiaris_c16.gb	DNA,Genome
+NC_051821.1	c17	Canis lupus familiaris	linear	65471548	../../data/genbank/animalia/Canis lupus familiaris_c17.gb	DNA,Genome
+NC_051822.1	c18	Canis lupus familiaris	linear	56883407	../../data/genbank/animalia/Canis lupus familiaris_c18.gb	DNA,Genome
+NC_051823.1	c19	Canis lupus familiaris	linear	55265241	../../data/genbank/animalia/Canis lupus familiaris_c19.gb	DNA,Genome
+NC_051824.1	c20	Canis lupus familiaris	linear	58896461	../../data/genbank/animalia/Canis lupus familiaris_c20.gb	DNA,Genome
+NC_051825.1	c21	Canis lupus familiaris	linear	52140716	../../data/genbank/animalia/Canis lupus familiaris_c21.gb	DNA,Genome
+NC_051826.1	c22	Canis lupus familiaris	linear	62106979	../../data/genbank/animalia/Canis lupus familiaris_c22.gb	DNA,Genome
+NC_051827.1	c23	Canis lupus familiaris	linear	53282923	../../data/genbank/animalia/Canis lupus familiaris_c23.gb	DNA,Genome
+NC_051828.1	c24	Canis lupus familiaris	linear	48838997	../../data/genbank/animalia/Canis lupus familiaris_c24.gb	DNA,Genome
+NC_051829.1	c25	Canis lupus familiaris	linear	51941001	../../data/genbank/animalia/Canis lupus familiaris_c25.gb	DNA,Genome
+NC_051830.1	c26	Canis lupus familiaris	linear	40674351	../../data/genbank/animalia/Canis lupus familiaris_c26.gb	DNA,Genome
+NC_051831.1	c27	Canis lupus familiaris	linear	46248802	../../data/genbank/animalia/Canis lupus familiaris_c27.gb	DNA,Genome
+NC_051832.1	c28	Canis lupus familiaris	linear	41862212	../../data/genbank/animalia/Canis lupus familiaris_c28.gb	DNA,Genome
+NC_051833.1	c29	Canis lupus familiaris	linear	42049852	../../data/genbank/animalia/Canis lupus familiaris_c29.gb	DNA,Genome
+NC_051834.1	c30	Canis lupus familiaris	linear	40414903	../../data/genbank/animalia/Canis lupus familiaris_c30.gb	DNA,Genome
+NC_051835.1	c31	Canis lupus familiaris	linear	39518933	../../data/genbank/animalia/Canis lupus familiaris_c31.gb	DNA,Genome
+NC_051836.1	c32	Canis lupus familiaris	linear	39023732	../../data/genbank/animalia/Canis lupus familiaris_c32.gb	DNA,Genome
+NC_051837.1	c33	Canis lupus familiaris	linear	31649084	../../data/genbank/animalia/Canis lupus familiaris_c33.gb	DNA,Genome
+NC_051838.1	c34	Canis lupus familiaris	linear	42263871	../../data/genbank/animalia/Canis lupus familiaris_c34.gb	DNA,Genome
+NC_051839.1	c35	Canis lupus familiaris	linear	26942268	../../data/genbank/animalia/Canis lupus familiaris_c35.gb	DNA,Genome
+NC_051840.1	c36	Canis lupus familiaris	linear	31065185	../../data/genbank/animalia/Canis lupus familiaris_c36.gb	DNA,Genome
+NC_051841.1	c37	Canis lupus familiaris	linear	30932408	../../data/genbank/animalia/Canis lupus familiaris_c37.gb	DNA,Genome
+NC_051842.1	c38	Canis lupus familiaris	linear	24102048	../../data/genbank/animalia/Canis lupus familiaris_c38.gb	DNA,Genome
+NC_051843.1	cX	Canis lupus familiaris	linear	127069619	../../data/genbank/animalia/Canis lupus familiaris_cX.gb	DNA,Genome
+NC_058368.1	cA1	Felis catus	linear	239367248	../../data/genbank/animalia/Felis catus_cA1.gb	DNA,Genome
+NC_058369.1	cA2	Felis catus	linear	169388855	../../data/genbank/animalia/Felis catus_cA2.gb	DNA,Genome
+NC_058370.1	cA3	Felis catus	linear	140443288	../../data/genbank/animalia/Felis catus_cA3.gb	DNA,Genome
+NC_058371.1	cB1	Felis catus	linear	205367284	../../data/genbank/animalia/Felis catus_cB1.gb	DNA,Genome
+NC_058372.1	cB2	Felis catus	linear	151959158	../../data/genbank/animalia/Felis catus_cB2.gb	DNA,Genome
+NC_058373.1	cB3	Felis catus	linear	148491486	../../data/genbank/animalia/Felis catus_cB3.gb	DNA,Genome
+NC_058374.1	cB4	Felis catus	linear	142168536	../../data/genbank/animalia/Felis catus_cB4.gb	DNA,Genome
+NC_058375.1	cC1	Felis catus	linear	221611373	../../data/genbank/animalia/Felis catus_cC1.gb	DNA,Genome
+NC_058376.1	cC2	Felis catus	linear	158578461	../../data/genbank/animalia/Felis catus_cC2.gb	DNA,Genome
+NC_058377.1	cD1	Felis catus	linear	115366950	../../data/genbank/animalia/Felis catus_cD1.gb	DNA,Genome
+NC_058378.1	cD2	Felis catus	linear	88083857	../../data/genbank/animalia/Felis catus_cD2.gb	DNA,Genome
+NC_058379.1	cD3	Felis catus	linear	94435393	../../data/genbank/animalia/Felis catus_cD3.gb	DNA,Genome
+NC_058380.1	cD4	Felis catus	linear	95154158	../../data/genbank/animalia/Felis catus_cD4.gb	DNA,Genome
+NC_058381.1	cE1	Felis catus	linear	61876196	../../data/genbank/animalia/Felis catus_cE1.gb	DNA,Genome
+NC_058382.1	cE2	Felis catus	linear	61988844	../../data/genbank/animalia/Felis catus_cE2.gb	DNA,Genome
+NC_058383.1	cE3	Felis catus	linear	41437797	../../data/genbank/animalia/Felis catus_cE3.gb	DNA,Genome
+NC_058384.1	cF1	Felis catus	linear	69239673	../../data/genbank/animalia/Felis catus_cF1.gb	DNA,Genome
+NC_058385.1	cF2	Felis catus	linear	83466477	../../data/genbank/animalia/Felis catus_cF2.gb	DNA,Genome
+NC_058386.1	cX	Felis catus	linear	127842892	../../data/genbank/animalia/Felis catus_cX.gb	DNA,Genome
+NC_009144.3	c1	Equus caballus	linear	188260577	../../data/genbank/animalia/Equus caballus_c1.gb	DNA,Genome
+NC_009145.3	c2	Equus caballus	linear	121350024	../../data/genbank/animalia/Equus caballus_c2.gb	DNA,Genome
+NC_009146.3	c3	Equus caballus	linear	121351753	../../data/genbank/animalia/Equus caballus_c3.gb	DNA,Genome
+NC_009147.3	c4	Equus caballus	linear	109462549	../../data/genbank/animalia/Equus caballus_c4.gb	DNA,Genome
+NC_009148.3	c5	Equus caballus	linear	96759418	../../data/genbank/animalia/Equus caballus_c5.gb	DNA,Genome
+NC_009149.3	c6	Equus caballus	linear	87230776	../../data/genbank/animalia/Equus caballus_c6.gb	DNA,Genome
+NC_009150.3	c7	Equus caballus	linear	100787686	../../data/genbank/animalia/Equus caballus_c7.gb	DNA,Genome
+NC_009151.3	c8	Equus caballus	linear	97563019	../../data/genbank/animalia/Equus caballus_c8.gb	DNA,Genome
+NC_009152.3	c9	Equus caballus	linear	85793548	../../data/genbank/animalia/Equus caballus_c9.gb	DNA,Genome
+NC_009153.3	c10	Equus caballus	linear	85155674	../../data/genbank/animalia/Equus caballus_c10.gb	DNA,Genome
+NC_009154.3	c11	Equus caballus	linear	61676917	../../data/genbank/animalia/Equus caballus_c11.gb	DNA,Genome
+NC_009155.3	c12	Equus caballus	linear	36992759	../../data/genbank/animalia/Equus caballus_c12.gb	DNA,Genome
+NC_009156.3	c13	Equus caballus	linear	43784481	../../data/genbank/animalia/Equus caballus_c13.gb	DNA,Genome
+NC_009157.3	c14	Equus caballus	linear	94600235	../../data/genbank/animalia/Equus caballus_c14.gb	DNA,Genome
+NC_009158.3	c15	Equus caballus	linear	92851403	../../data/genbank/animalia/Equus caballus_c15.gb	DNA,Genome
+NC_009159.3	c16	Equus caballus	linear	88962352	../../data/genbank/animalia/Equus caballus_c16.gb	DNA,Genome
+NC_009160.3	c17	Equus caballus	linear	80722430	../../data/genbank/animalia/Equus caballus_c17.gb	DNA,Genome
+NC_009161.3	c18	Equus caballus	linear	82641348	../../data/genbank/animalia/Equus caballus_c18.gb	DNA,Genome
+NC_009162.3	c19	Equus caballus	linear	62681739	../../data/genbank/animalia/Equus caballus_c19.gb	DNA,Genome
+NC_009163.3	c20	Equus caballus	linear	65343332	../../data/genbank/animalia/Equus caballus_c20.gb	DNA,Genome
+NC_009164.3	c21	Equus caballus	linear	58984458	../../data/genbank/animalia/Equus caballus_c21.gb	DNA,Genome
+NC_009165.3	c22	Equus caballus	linear	50928189	../../data/genbank/animalia/Equus caballus_c22.gb	DNA,Genome
+NC_009166.3	c23	Equus caballus	linear	55556184	../../data/genbank/animalia/Equus caballus_c23.gb	DNA,Genome
+NC_009167.3	c24	Equus caballus	linear	48288683	../../data/genbank/animalia/Equus caballus_c24.gb	DNA,Genome
+NC_009168.3	c25	Equus caballus	linear	40282968	../../data/genbank/animalia/Equus caballus_c25.gb	DNA,Genome
+NC_009169.3	c26	Equus caballus	linear	43147642	../../data/genbank/animalia/Equus caballus_c26.gb	DNA,Genome
+NC_009170.3	c27	Equus caballus	linear	40254690	../../data/genbank/animalia/Equus caballus_c27.gb	DNA,Genome
+NC_009171.3	c28	Equus caballus	linear	47348498	../../data/genbank/animalia/Equus caballus_c28.gb	DNA,Genome
+NC_009172.3	c29	Equus caballus	linear	34776120	../../data/genbank/animalia/Equus caballus_c29.gb	DNA,Genome
+NC_009173.3	c30	Equus caballus	linear	31395959	../../data/genbank/animalia/Equus caballus_c30.gb	DNA,Genome
+NC_009174.3	c31	Equus caballus	linear	26001039	../../data/genbank/animalia/Equus caballus_c31.gb	DNA,Genome
+NC_009175.3	cX	Equus caballus	linear	128206784	../../data/genbank/animalia/Equus caballus_cX.gb	DNA,Genome
+NC_030808.1	c1	Capra hircus	linear	157403528	../../data/genbank/animalia/Capra hircus_c1.gb	DNA,Genome
+NC_030809.1	c2	Capra hircus	linear	136510947	../../data/genbank/animalia/Capra hircus_c2.gb	DNA,Genome
+NC_030810.1	c3	Capra hircus	linear	120038259	../../data/genbank/animalia/Capra hircus_c3.gb	DNA,Genome
+NC_030811.1	c4	Capra hircus	linear	120734966	../../data/genbank/animalia/Capra hircus_c4.gb	DNA,Genome
+NC_030812.1	c5	Capra hircus	linear	119020588	../../data/genbank/animalia/Capra hircus_c5.gb	DNA,Genome
+NC_030813.1	c6	Capra hircus	linear	117642375	../../data/genbank/animalia/Capra hircus_c6.gb	DNA,Genome
+NC_030814.1	c7	Capra hircus	linear	108433636	../../data/genbank/animalia/Capra hircus_c7.gb	DNA,Genome
+NC_030815.1	c8	Capra hircus	linear	112672867	../../data/genbank/animalia/Capra hircus_c8.gb	DNA,Genome
+NC_030816.1	c9	Capra hircus	linear	91568626	../../data/genbank/animalia/Capra hircus_c9.gb	DNA,Genome
+NC_030817.1	c10	Capra hircus	linear	101087560	../../data/genbank/animalia/Capra hircus_c10.gb	DNA,Genome
+NC_030818.1	c11	Capra hircus	linear	106225002	../../data/genbank/animalia/Capra hircus_c11.gb	DNA,Genome
+NC_030819.1	c12	Capra hircus	linear	87277232	../../data/genbank/animalia/Capra hircus_c12.gb	DNA,Genome
+NC_030820.1	c13	Capra hircus	linear	83034183	../../data/genbank/animalia/Capra hircus_c13.gb	DNA,Genome
+NC_030821.1	c14	Capra hircus	linear	94672733	../../data/genbank/animalia/Capra hircus_c14.gb	DNA,Genome
+NC_030822.1	c15	Capra hircus	linear	81904557	../../data/genbank/animalia/Capra hircus_c15.gb	DNA,Genome
+NC_030823.1	c16	Capra hircus	linear	79370172	../../data/genbank/animalia/Capra hircus_c16.gb	DNA,Genome
+NC_030824.1	c17	Capra hircus	linear	71137785	../../data/genbank/animalia/Capra hircus_c17.gb	DNA,Genome
+NC_030825.1	c18	Capra hircus	linear	67275902	../../data/genbank/animalia/Capra hircus_c18.gb	DNA,Genome
+NC_030826.1	c19	Capra hircus	linear	62516450	../../data/genbank/animalia/Capra hircus_c19.gb	DNA,Genome
+NC_030827.1	c20	Capra hircus	linear	71784255	../../data/genbank/animalia/Capra hircus_c20.gb	DNA,Genome
+NC_030828.1	c21	Capra hircus	linear	69425955	../../data/genbank/animalia/Capra hircus_c21.gb	DNA,Genome
+NC_030829.1	c22	Capra hircus	linear	60283066	../../data/genbank/animalia/Capra hircus_c22.gb	DNA,Genome
+NC_030830.1	c23	Capra hircus	linear	48866549	../../data/genbank/animalia/Capra hircus_c23.gb	DNA,Genome
+NC_030831.1	c24	Capra hircus	linear	62310066	../../data/genbank/animalia/Capra hircus_c24.gb	DNA,Genome
+NC_030832.1	c25	Capra hircus	linear	42858509	../../data/genbank/animalia/Capra hircus_c25.gb	DNA,Genome
+NC_030833.1	c26	Capra hircus	linear	51421553	../../data/genbank/animalia/Capra hircus_c26.gb	DNA,Genome
+NC_030834.1	c27	Capra hircus	linear	44709034	../../data/genbank/animalia/Capra hircus_c27.gb	DNA,Genome
+NC_030835.1	c28	Capra hircus	linear	44672302	../../data/genbank/animalia/Capra hircus_c28.gb	DNA,Genome
+NC_030836.1	c29	Capra hircus	linear	51332696	../../data/genbank/animalia/Capra hircus_c29.gb	DNA,Genome
+NC_037328.1	c1	Bos taurus	linear	158534110	../../data/genbank/animalia/Bos taurus_c1.gb	DNA,Genome
+NC_037329.1	c2	Bos taurus	linear	136231102	../../data/genbank/animalia/Bos taurus_c2.gb	DNA,Genome
+NC_037330.1	c3	Bos taurus	linear	121005158	../../data/genbank/animalia/Bos taurus_c3.gb	DNA,Genome
+NC_037331.1	c4	Bos taurus	linear	120000601	../../data/genbank/animalia/Bos taurus_c4.gb	DNA,Genome
+NC_037332.1	c5	Bos taurus	linear	120089316	../../data/genbank/animalia/Bos taurus_c5.gb	DNA,Genome
+NC_037333.1	c6	Bos taurus	linear	117806340	../../data/genbank/animalia/Bos taurus_c6.gb	DNA,Genome
+NC_037334.1	c7	Bos taurus	linear	110682743	../../data/genbank/animalia/Bos taurus_c7.gb	DNA,Genome
+NC_037335.1	c8	Bos taurus	linear	113319770	../../data/genbank/animalia/Bos taurus_c8.gb	DNA,Genome
+NC_037336.1	c9	Bos taurus	linear	105454467	../../data/genbank/animalia/Bos taurus_c9.gb	DNA,Genome
+NC_037337.1	c10	Bos taurus	linear	103308737	../../data/genbank/animalia/Bos taurus_c10.gb	DNA,Genome
+NC_037338.1	c11	Bos taurus	linear	106982474	../../data/genbank/animalia/Bos taurus_c11.gb	DNA,Genome
+NC_037339.1	c12	Bos taurus	linear	87216183	../../data/genbank/animalia/Bos taurus_c12.gb	DNA,Genome
+NC_037340.1	c13	Bos taurus	linear	83472345	../../data/genbank/animalia/Bos taurus_c13.gb	DNA,Genome
+NC_037341.1	c14	Bos taurus	linear	82403003	../../data/genbank/animalia/Bos taurus_c14.gb	DNA,Genome
+NC_037342.1	c15	Bos taurus	linear	85007780	../../data/genbank/animalia/Bos taurus_c15.gb	DNA,Genome
+NC_037343.1	c16	Bos taurus	linear	81013979	../../data/genbank/animalia/Bos taurus_c16.gb	DNA,Genome
+NC_037344.1	c17	Bos taurus	linear	73167244	../../data/genbank/animalia/Bos taurus_c17.gb	DNA,Genome
+NC_037345.1	c18	Bos taurus	linear	65820629	../../data/genbank/animalia/Bos taurus_c18.gb	DNA,Genome
+NC_037346.1	c19	Bos taurus	linear	63449741	../../data/genbank/animalia/Bos taurus_c19.gb	DNA,Genome
+NC_037347.1	c20	Bos taurus	linear	71974595	../../data/genbank/animalia/Bos taurus_c20.gb	DNA,Genome
+NC_037348.1	c21	Bos taurus	linear	69862954	../../data/genbank/animalia/Bos taurus_c21.gb	DNA,Genome
+NC_037349.1	c22	Bos taurus	linear	60773035	../../data/genbank/animalia/Bos taurus_c22.gb	DNA,Genome
+NC_037350.1	c23	Bos taurus	linear	52498615	../../data/genbank/animalia/Bos taurus_c23.gb	DNA,Genome
+NC_037351.1	c24	Bos taurus	linear	62317253	../../data/genbank/animalia/Bos taurus_c24.gb	DNA,Genome
+NC_037352.1	c25	Bos taurus	linear	42350435	../../data/genbank/animalia/Bos taurus_c25.gb	DNA,Genome
+NC_037353.1	c26	Bos taurus	linear	51992305	../../data/genbank/animalia/Bos taurus_c26.gb	DNA,Genome
+NC_037354.1	c27	Bos taurus	linear	45612108	../../data/genbank/animalia/Bos taurus_c27.gb	DNA,Genome
+NC_037355.1	c28	Bos taurus	linear	45940150	../../data/genbank/animalia/Bos taurus_c28.gb	DNA,Genome
+NC_037356.1	c29	Bos taurus	linear	51098607	../../data/genbank/animalia/Bos taurus_c29.gb	DNA,Genome
+NC_037357.1	cX	Bos taurus	linear	139009144	../../data/genbank/animalia/Bos taurus_cX.gb	DNA,Genome
+NC_010443.5	c1	Sus scrofa	linear	274330532	../../data/genbank/animalia/Sus scrofa_c1.gb	DNA,Genome
+NC_010444.4	c2	Sus scrofa	linear	151935994	../../data/genbank/animalia/Sus scrofa_c2.gb	DNA,Genome
+NC_010445.4	c3	Sus scrofa	linear	132848913	../../data/genbank/animalia/Sus scrofa_c3.gb	DNA,Genome
+NC_010446.5	c4	Sus scrofa	linear	130910915	../../data/genbank/animalia/Sus scrofa_c4.gb	DNA,Genome
+NC_010447.5	c5	Sus scrofa	linear	104526007	../../data/genbank/animalia/Sus scrofa_c5.gb	DNA,Genome
+NC_010448.4	c6	Sus scrofa	linear	170843587	../../data/genbank/animalia/Sus scrofa_c6.gb	DNA,Genome
+NC_010449.5	c7	Sus scrofa	linear	121844099	../../data/genbank/animalia/Sus scrofa_c7.gb	DNA,Genome
+NC_010450.4	c8	Sus scrofa	linear	138966237	../../data/genbank/animalia/Sus scrofa_c8.gb	DNA,Genome
+NC_010451.4	c9	Sus scrofa	linear	139512083	../../data/genbank/animalia/Sus scrofa_c9.gb	DNA,Genome
+NC_010452.4	c10	Sus scrofa	linear	69359453	../../data/genbank/animalia/Sus scrofa_c10.gb	DNA,Genome
+NC_010453.5	c11	Sus scrofa	linear	79169978	../../data/genbank/animalia/Sus scrofa_c11.gb	DNA,Genome
+NC_010454.4	c12	Sus scrofa	linear	61602749	../../data/genbank/animalia/Sus scrofa_c12.gb	DNA,Genome
+NC_010455.5	c13	Sus scrofa	linear	208334590	../../data/genbank/animalia/Sus scrofa_c13.gb	DNA,Genome
+NC_010456.5	c14	Sus scrofa	linear	141755446	../../data/genbank/animalia/Sus scrofa_c14.gb	DNA,Genome
+NC_010457.5	c15	Sus scrofa	linear	140412725	../../data/genbank/animalia/Sus scrofa_c15.gb	DNA,Genome
+NC_010458.4	c16	Sus scrofa	linear	79944280	../../data/genbank/animalia/Sus scrofa_c16.gb	DNA,Genome
+NC_010459.5	c17	Sus scrofa	linear	63494081	../../data/genbank/animalia/Sus scrofa_c17.gb	DNA,Genome
+NC_010460.4	c18	Sus scrofa	linear	55982971	../../data/genbank/animalia/Sus scrofa_c18.gb	DNA,Genome
+NC_010461.5	cX	Sus scrofa	linear	125939595	../../data/genbank/animalia/Sus scrofa_cX.gb	DNA,Genome
+NC_010462.3	cY	Sus scrofa	linear	43547828	../../data/genbank/animalia/Sus scrofa_cY.gb	DNA,Genome
+NC_008801.1	c1	Monodelphis domestica	linear	748055161	../../data/genbank/animalia/Monodelphis domestica_c1.gb	DNA,Genome
+NC_008802.1	c2	Monodelphis domestica	linear	541556283	../../data/genbank/animalia/Monodelphis domestica_c2.gb	DNA,Genome
+NC_008803.1	c3	Monodelphis domestica	linear	527952102	../../data/genbank/animalia/Monodelphis domestica_c3.gb	DNA,Genome
+NC_008804.1	c4	Monodelphis domestica	linear	435153693	../../data/genbank/animalia/Monodelphis domestica_c4.gb	DNA,Genome
+NC_008805.1	c5	Monodelphis domestica	linear	304825324	../../data/genbank/animalia/Monodelphis domestica_c5.gb	DNA,Genome
+NC_008806.1	c6	Monodelphis domestica	linear	292091736	../../data/genbank/animalia/Monodelphis domestica_c6.gb	DNA,Genome
+NC_008807.1	c7	Monodelphis domestica	linear	260857928	../../data/genbank/animalia/Monodelphis domestica_c7.gb	DNA,Genome
+NC_008808.1	c8	Monodelphis domestica	linear	312544902	../../data/genbank/animalia/Monodelphis domestica_c8.gb	DNA,Genome
+NC_008809.1	cX	Monodelphis domestica	linear	79335909	../../data/genbank/animalia/Monodelphis domestica_cX.gb	DNA,Genome
+NC_041728.1	c1	Ornithorhynchus anatinus	linear	186506016	../../data/genbank/animalia/Ornithorhynchus anatinus_c1.gb	DNA,Genome
+NC_041729.1	c2	Ornithorhynchus anatinus	linear	171719663	../../data/genbank/animalia/Ornithorhynchus anatinus_c2.gb	DNA,Genome
+NC_041730.1	c3	Ornithorhynchus anatinus	linear	141987082	../../data/genbank/animalia/Ornithorhynchus anatinus_c3.gb	DNA,Genome
+NC_041731.1	c4	Ornithorhynchus anatinus	linear	136094389	../../data/genbank/animalia/Ornithorhynchus anatinus_c4.gb	DNA,Genome
+NC_041732.1	c5	Ornithorhynchus anatinus	linear	110293030	../../data/genbank/animalia/Ornithorhynchus anatinus_c5.gb	DNA,Genome
+NC_041733.1	c6	Ornithorhynchus anatinus	linear	51493492	../../data/genbank/animalia/Ornithorhynchus anatinus_c6.gb	DNA,Genome
+NC_041734.1	c7	Ornithorhynchus anatinus	linear	83338043	../../data/genbank/animalia/Ornithorhynchus anatinus_c7.gb	DNA,Genome
+NC_041737.1	c10	Ornithorhynchus anatinus	linear	59444696	../../data/genbank/animalia/Ornithorhynchus anatinus_c10.gb	DNA,Genome
+NC_041738.1	c11	Ornithorhynchus anatinus	linear	63506031	../../data/genbank/animalia/Ornithorhynchus anatinus_c11.gb	DNA,Genome
+NC_041739.1	c12	Ornithorhynchus anatinus	linear	60456049	../../data/genbank/animalia/Ornithorhynchus anatinus_c12.gb	DNA,Genome
+NC_041741.1	c14	Ornithorhynchus anatinus	linear	52889406	../../data/genbank/animalia/Ornithorhynchus anatinus_c14.gb	DNA,Genome
+NC_041742.1	c15	Ornithorhynchus anatinus	linear	26375019	../../data/genbank/animalia/Ornithorhynchus anatinus_c15.gb	DNA,Genome
+NC_041743.1	c16	Ornithorhynchus anatinus	linear	46397275	../../data/genbank/animalia/Ornithorhynchus anatinus_c16.gb	DNA,Genome
+NC_041744.1	c17	Ornithorhynchus anatinus	linear	45536670	../../data/genbank/animalia/Ornithorhynchus anatinus_c17.gb	DNA,Genome
+NC_041745.1	c18	Ornithorhynchus anatinus	linear	44684501	../../data/genbank/animalia/Ornithorhynchus anatinus_c18.gb	DNA,Genome
+NC_041746.1	c19	Ornithorhynchus anatinus	linear	35120541	../../data/genbank/animalia/Ornithorhynchus anatinus_c19.gb	DNA,Genome
+NC_041747.1	c20	Ornithorhynchus anatinus	linear	30535534	../../data/genbank/animalia/Ornithorhynchus anatinus_c20.gb	DNA,Genome
+NC_041748.1	c21	Ornithorhynchus anatinus	linear	24514859	../../data/genbank/animalia/Ornithorhynchus anatinus_c21.gb	DNA,Genome
+NC_041749.1	cX1	Ornithorhynchus anatinus	linear	125040914	../../data/genbank/animalia/Ornithorhynchus anatinus_cX1.gb	DNA,Genome
+NC_041750.1	cX2	Ornithorhynchus anatinus	linear	29662106	../../data/genbank/animalia/Ornithorhynchus anatinus_cX2.gb	DNA,Genome
+NC_041751.1	cX3	Ornithorhynchus anatinus	linear	33863336	../../data/genbank/animalia/Ornithorhynchus anatinus_cX3.gb	DNA,Genome
+NC_041752.1	cX4	Ornithorhynchus anatinus	linear	8639456	../../data/genbank/animalia/Ornithorhynchus anatinus_cX4.gb	DNA,Genome
+NC_041753.1	cX5	Ornithorhynchus anatinus	linear	70139320	../../data/genbank/animalia/Ornithorhynchus anatinus_cX5.gb	DNA,Genome
+NC_044602.1	c1	Gorilla gorilla gorilla	linear	219763114	../../data/genbank/animalia/Gorilla gorilla gorilla_c1.gb	DNA,Genome
+NC_044603.1	c2A	Gorilla gorilla gorilla	linear	107978307	../../data/genbank/animalia/Gorilla gorilla gorilla_c2A.gb	DNA,Genome
+NC_044604.1	c2B	Gorilla gorilla gorilla	linear	127988552	../../data/genbank/animalia/Gorilla gorilla gorilla_c2B.gb	DNA,Genome
+NC_044605.1	c3	Gorilla gorilla gorilla	linear	193158673	../../data/genbank/animalia/Gorilla gorilla gorilla_c3.gb	DNA,Genome
+NC_044606.1	c4	Gorilla gorilla gorilla	linear	187801456	../../data/genbank/animalia/Gorilla gorilla gorilla_c4.gb	DNA,Genome
+NC_044607.1	c5	Gorilla gorilla gorilla	linear	160656230	../../data/genbank/animalia/Gorilla gorilla gorilla_c5.gb	DNA,Genome
+NC_044608.1	c6	Gorilla gorilla gorilla	linear	168483175	../../data/genbank/animalia/Gorilla gorilla gorilla_c6.gb	DNA,Genome
+NC_044609.1	c7	Gorilla gorilla gorilla	linear	148261789	../../data/genbank/animalia/Gorilla gorilla gorilla_c7.gb	DNA,Genome
+NC_044610.1	c8	Gorilla gorilla gorilla	linear	140819930	../../data/genbank/animalia/Gorilla gorilla gorilla_c8.gb	DNA,Genome
+NC_044611.1	c9	Gorilla gorilla gorilla	linear	107756877	../../data/genbank/animalia/Gorilla gorilla gorilla_c9.gb	DNA,Genome
+NC_044612.1	c10	Gorilla gorilla gorilla	linear	127481205	../../data/genbank/animalia/Gorilla gorilla gorilla_c10.gb	DNA,Genome
+NC_044613.1	c11	Gorilla gorilla gorilla	linear	118287947	../../data/genbank/animalia/Gorilla gorilla gorilla_c11.gb	DNA,Genome
+NC_044614.1	c12	Gorilla gorilla gorilla	linear	128803207	../../data/genbank/animalia/Gorilla gorilla gorilla_c12.gb	DNA,Genome
+NC_044615.1	c13	Gorilla gorilla gorilla	linear	92570210	../../data/genbank/animalia/Gorilla gorilla gorilla_c13.gb	DNA,Genome
+NC_044616.1	c14	Gorilla gorilla gorilla	linear	87619771	../../data/genbank/animalia/Gorilla gorilla gorilla_c14.gb	DNA,Genome
+NC_044617.1	c15	Gorilla gorilla gorilla	linear	76908023	../../data/genbank/animalia/Gorilla gorilla gorilla_c15.gb	DNA,Genome
+NC_044618.1	c16	Gorilla gorilla gorilla	linear	74389185	../../data/genbank/animalia/Gorilla gorilla gorilla_c16.gb	DNA,Genome
+NC_044619.1	c17	Gorilla gorilla gorilla	linear	90905695	../../data/genbank/animalia/Gorilla gorilla gorilla_c17.gb	DNA,Genome
+NC_044620.1	c18	Gorilla gorilla gorilla	linear	73862527	../../data/genbank/animalia/Gorilla gorilla gorilla_c18.gb	DNA,Genome
+NC_044621.1	c19	Gorilla gorilla gorilla	linear	48390056	../../data/genbank/animalia/Gorilla gorilla gorilla_c19.gb	DNA,Genome
+NC_044622.1	c20	Gorilla gorilla gorilla	linear	60378084	../../data/genbank/animalia/Gorilla gorilla gorilla_c20.gb	DNA,Genome
+NC_044623.1	c21	Gorilla gorilla gorilla	linear	32685706	../../data/genbank/animalia/Gorilla gorilla gorilla_c21.gb	DNA,Genome
+NC_044624.1	c22	Gorilla gorilla gorilla	linear	32715551	../../data/genbank/animalia/Gorilla gorilla gorilla_c22.gb	DNA,Genome
+NC_044625.1	cX	Gorilla gorilla gorilla	linear	149490469	../../data/genbank/animalia/Gorilla gorilla gorilla_cX.gb	DNA,Genome
+NC_036903.1	c1	Pongo abelii	linear	227913704	../../data/genbank/animalia/Pongo abelii_c1.gb	DNA,Genome
+NC_036904.1	c2A	Pongo abelii	linear	109511694	../../data/genbank/animalia/Pongo abelii_c2A.gb	DNA,Genome
+NC_036905.1	c2B	Pongo abelii	linear	129937803	../../data/genbank/animalia/Pongo abelii_c2B.gb	DNA,Genome
+NC_036906.1	c3	Pongo abelii	linear	193656255	../../data/genbank/animalia/Pongo abelii_c3.gb	DNA,Genome
+NC_036907.1	c4	Pongo abelii	linear	189387572	../../data/genbank/animalia/Pongo abelii_c4.gb	DNA,Genome
+NC_036908.1	c5	Pongo abelii	linear	179185813	../../data/genbank/animalia/Pongo abelii_c5.gb	DNA,Genome
+NC_036909.1	c6	Pongo abelii	linear	169501136	../../data/genbank/animalia/Pongo abelii_c6.gb	DNA,Genome
+NC_036910.1	c7	Pongo abelii	linear	145408105	../../data/genbank/animalia/Pongo abelii_c7.gb	DNA,Genome
+NC_036911.1	c8	Pongo abelii	linear	144036388	../../data/genbank/animalia/Pongo abelii_c8.gb	DNA,Genome
+NC_036912.1	c9	Pongo abelii	linear	112206110	../../data/genbank/animalia/Pongo abelii_c9.gb	DNA,Genome
+NC_036913.1	c10	Pongo abelii	linear	132178492	../../data/genbank/animalia/Pongo abelii_c10.gb	DNA,Genome
+NC_036914.1	c11	Pongo abelii	linear	128122151	../../data/genbank/animalia/Pongo abelii_c11.gb	DNA,Genome
+NC_036915.1	c12	Pongo abelii	linear	132184051	../../data/genbank/animalia/Pongo abelii_c12.gb	DNA,Genome
+NC_036916.1	c13	Pongo abelii	linear	98475126	../../data/genbank/animalia/Pongo abelii_c13.gb	DNA,Genome
+NC_036917.1	c14	Pongo abelii	linear	88963417	../../data/genbank/animalia/Pongo abelii_c14.gb	DNA,Genome
+NC_036918.1	c15	Pongo abelii	linear	82547911	../../data/genbank/animalia/Pongo abelii_c15.gb	DNA,Genome
+NC_036919.1	c16	Pongo abelii	linear	68237989	../../data/genbank/animalia/Pongo abelii_c16.gb	DNA,Genome
+NC_036920.1	c17	Pongo abelii	linear	75914007	../../data/genbank/animalia/Pongo abelii_c17.gb	DNA,Genome
+NC_036921.1	c18	Pongo abelii	linear	75923960	../../data/genbank/animalia/Pongo abelii_c18.gb	DNA,Genome
+NC_036922.1	c19	Pongo abelii	linear	57575784	../../data/genbank/animalia/Pongo abelii_c19.gb	DNA,Genome
+NC_036923.1	c20	Pongo abelii	linear	60841859	../../data/genbank/animalia/Pongo abelii_c20.gb	DNA,Genome
+NC_036924.1	c21	Pongo abelii	linear	34683425	../../data/genbank/animalia/Pongo abelii_c21.gb	DNA,Genome
+NC_036925.1	c22	Pongo abelii	linear	35308119	../../data/genbank/animalia/Pongo abelii_c22.gb	DNA,Genome
+NC_036926.1	cX	Pongo abelii	linear	151242693	../../data/genbank/animalia/Pongo abelii_cX.gb	DNA,Genome
+NC_041754.1	c1	Macaca mulatta	linear	223616942	../../data/genbank/animalia/Macaca mulatta_c1.gb	DNA,Genome
+NC_041755.1	c2	Macaca mulatta	linear	196197964	../../data/genbank/animalia/Macaca mulatta_c2.gb	DNA,Genome
+NC_041756.1	c3	Macaca mulatta	linear	185288947	../../data/genbank/animalia/Macaca mulatta_c3.gb	DNA,Genome
+NC_041757.1	c4	Macaca mulatta	linear	169963040	../../data/genbank/animalia/Macaca mulatta_c4.gb	DNA,Genome
+NC_041758.1	c5	Macaca mulatta	linear	187317192	../../data/genbank/animalia/Macaca mulatta_c5.gb	DNA,Genome
+NC_041759.1	c6	Macaca mulatta	linear	179085566	../../data/genbank/animalia/Macaca mulatta_c6.gb	DNA,Genome
+NC_041760.1	c7	Macaca mulatta	linear	169868564	../../data/genbank/animalia/Macaca mulatta_c7.gb	DNA,Genome
+NC_041761.1	c8	Macaca mulatta	linear	145679320	../../data/genbank/animalia/Macaca mulatta_c8.gb	DNA,Genome
+NC_041762.1	c9	Macaca mulatta	linear	134124166	../../data/genbank/animalia/Macaca mulatta_c9.gb	DNA,Genome
+NC_041763.1	c10	Macaca mulatta	linear	99517758	../../data/genbank/animalia/Macaca mulatta_c10.gb	DNA,Genome
+NC_041764.1	c11	Macaca mulatta	linear	133066086	../../data/genbank/animalia/Macaca mulatta_c11.gb	DNA,Genome
+NC_041765.1	c12	Macaca mulatta	linear	130043856	../../data/genbank/animalia/Macaca mulatta_c12.gb	DNA,Genome
+NC_041766.1	c13	Macaca mulatta	linear	108737130	../../data/genbank/animalia/Macaca mulatta_c13.gb	DNA,Genome
+NC_041767.1	c14	Macaca mulatta	linear	128056306	../../data/genbank/animalia/Macaca mulatta_c14.gb	DNA,Genome
+NC_041768.1	c15	Macaca mulatta	linear	113283604	../../data/genbank/animalia/Macaca mulatta_c15.gb	DNA,Genome
+NC_041769.1	c16	Macaca mulatta	linear	79627064	../../data/genbank/animalia/Macaca mulatta_c16.gb	DNA,Genome
+NC_041770.1	c17	Macaca mulatta	linear	95433459	../../data/genbank/animalia/Macaca mulatta_c17.gb	DNA,Genome
+NC_041771.1	c18	Macaca mulatta	linear	74474043	../../data/genbank/animalia/Macaca mulatta_c18.gb	DNA,Genome
+NC_041772.1	c19	Macaca mulatta	linear	58315233	../../data/genbank/animalia/Macaca mulatta_c19.gb	DNA,Genome
+NC_041773.1	c20	Macaca mulatta	linear	77137495	../../data/genbank/animalia/Macaca mulatta_c20.gb	DNA,Genome
+NC_041774.1	cX	Macaca mulatta	linear	153388924	../../data/genbank/animalia/Macaca mulatta_cX.gb	DNA,Genome
+NC_027914.1	cY	Macaca mulatta	linear	11753682	../../data/genbank/animalia/Macaca mulatta_cY.gb	DNA,Genome
+NC_013669.1	c1	Oryctolagus cuniculus	linear	194850757	../../data/genbank/animalia/Oryctolagus cuniculus_c1.gb	DNA,Genome
+NC_013670.1	c2	Oryctolagus cuniculus	linear	174332312	../../data/genbank/animalia/Oryctolagus cuniculus_c2.gb	DNA,Genome
+NC_013671.1	c3	Oryctolagus cuniculus	linear	155691105	../../data/genbank/animalia/Oryctolagus cuniculus_c3.gb	DNA,Genome
+NC_013672.1	c4	Oryctolagus cuniculus	linear	91394100	../../data/genbank/animalia/Oryctolagus cuniculus_c4.gb	DNA,Genome
+NC_013673.1	c5	Oryctolagus cuniculus	linear	37992211	../../data/genbank/animalia/Oryctolagus cuniculus_c5.gb	DNA,Genome
+NC_013674.1	c6	Oryctolagus cuniculus	linear	27502587	../../data/genbank/animalia/Oryctolagus cuniculus_c6.gb	DNA,Genome
+NC_013675.1	c7	Oryctolagus cuniculus	linear	173684459	../../data/genbank/animalia/Oryctolagus cuniculus_c7.gb	DNA,Genome
+NC_013676.1	c8	Oryctolagus cuniculus	linear	111795807	../../data/genbank/animalia/Oryctolagus cuniculus_c8.gb	DNA,Genome
+NC_013677.1	c9	Oryctolagus cuniculus	linear	116251907	../../data/genbank/animalia/Oryctolagus cuniculus_c9.gb	DNA,Genome
+NC_013678.1	c10	Oryctolagus cuniculus	linear	47997241	../../data/genbank/animalia/Oryctolagus cuniculus_c10.gb	DNA,Genome
+NC_013679.1	c11	Oryctolagus cuniculus	linear	87554214	../../data/genbank/animalia/Oryctolagus cuniculus_c11.gb	DNA,Genome
+NC_013680.1	c12	Oryctolagus cuniculus	linear	155355395	../../data/genbank/animalia/Oryctolagus cuniculus_c12.gb	DNA,Genome
+NC_013681.1	c13	Oryctolagus cuniculus	linear	143360832	../../data/genbank/animalia/Oryctolagus cuniculus_c13.gb	DNA,Genome
+NC_013682.1	c14	Oryctolagus cuniculus	linear	163896628	../../data/genbank/animalia/Oryctolagus cuniculus_c14.gb	DNA,Genome
+NC_013683.1	c15	Oryctolagus cuniculus	linear	109054052	../../data/genbank/animalia/Oryctolagus cuniculus_c15.gb	DNA,Genome
+NC_013684.1	c16	Oryctolagus cuniculus	linear	84478945	../../data/genbank/animalia/Oryctolagus cuniculus_c16.gb	DNA,Genome
+NC_013685.1	c17	Oryctolagus cuniculus	linear	85008467	../../data/genbank/animalia/Oryctolagus cuniculus_c17.gb	DNA,Genome
+NC_013686.1	c18	Oryctolagus cuniculus	linear	69800736	../../data/genbank/animalia/Oryctolagus cuniculus_c18.gb	DNA,Genome
+NC_013687.1	c19	Oryctolagus cuniculus	linear	57279966	../../data/genbank/animalia/Oryctolagus cuniculus_c19.gb	DNA,Genome
+NC_013688.1	c20	Oryctolagus cuniculus	linear	33191332	../../data/genbank/animalia/Oryctolagus cuniculus_c20.gb	DNA,Genome
+NC_013689.1	c21	Oryctolagus cuniculus	linear	15578276	../../data/genbank/animalia/Oryctolagus cuniculus_c21.gb	DNA,Genome
+NC_013690.1	cX	Oryctolagus cuniculus	linear	111700775	../../data/genbank/animalia/Oryctolagus cuniculus_cX.gb	DNA,Genome
+NC_022009.1	c1	Microtus ochrogaster	linear	126672627	../../data/genbank/animalia/Microtus ochrogaster_c1.gb	DNA,Genome
+NC_022010.1	c2	Microtus ochrogaster	linear	98408828	../../data/genbank/animalia/Microtus ochrogaster_c2.gb	DNA,Genome
+NC_022011.1	c4	Microtus ochrogaster	linear	92994323	../../data/genbank/animalia/Microtus ochrogaster_c4.gb	DNA,Genome
+NC_022012.1	c5	Microtus ochrogaster	linear	96435083	../../data/genbank/animalia/Microtus ochrogaster_c5.gb	DNA,Genome
+NC_022013.1	c6	Microtus ochrogaster	linear	88288230	../../data/genbank/animalia/Microtus ochrogaster_c6.gb	DNA,Genome
+NC_022014.1	c7	Microtus ochrogaster	linear	85103860	../../data/genbank/animalia/Microtus ochrogaster_c7.gb	DNA,Genome
+NC_022015.1	c8	Microtus ochrogaster	linear	88571779	../../data/genbank/animalia/Microtus ochrogaster_c8.gb	DNA,Genome
+NC_022016.1	c10	Microtus ochrogaster	linear	86001432	../../data/genbank/animalia/Microtus ochrogaster_c10.gb	DNA,Genome
+NC_022017.1	c15	Microtus ochrogaster	linear	46045664	../../data/genbank/animalia/Microtus ochrogaster_c15.gb	DNA,Genome
+NC_022018.1	c16	Microtus ochrogaster	linear	62639585	../../data/genbank/animalia/Microtus ochrogaster_c16.gb	DNA,Genome
+NC_022019.1	c17	Microtus ochrogaster	linear	35846924	../../data/genbank/animalia/Microtus ochrogaster_c17.gb	DNA,Genome
+NC_022020.1	c18	Microtus ochrogaster	linear	69618829	../../data/genbank/animalia/Microtus ochrogaster_c18.gb	DNA,Genome
+NC_022021.1	c19	Microtus ochrogaster	linear	65020687	../../data/genbank/animalia/Microtus ochrogaster_c19.gb	DNA,Genome
+NC_022022.1	c21	Microtus ochrogaster	linear	51076971	../../data/genbank/animalia/Microtus ochrogaster_c21.gb	DNA,Genome
+NC_022023.1	c22	Microtus ochrogaster	linear	34839539	../../data/genbank/animalia/Microtus ochrogaster_c22.gb	DNA,Genome
+NC_022024.1	c24	Microtus ochrogaster	linear	37156218	../../data/genbank/animalia/Microtus ochrogaster_c24.gb	DNA,Genome
+NC_022025.1	c26	Microtus ochrogaster	linear	15434760	../../data/genbank/animalia/Microtus ochrogaster_c26.gb	DNA,Genome
+NC_022026.1	cX	Microtus ochrogaster	linear	61813736	../../data/genbank/animalia/Microtus ochrogaster_cX.gb	DNA,Genome
+NC_050536.1	c1	Ochotona princeps	linear	114327589	../../data/genbank/animalia/Ochotona princeps_c1.gb	DNA,Genome
+NC_050537.1	c2	Ochotona princeps	linear	85135690	../../data/genbank/animalia/Ochotona princeps_c2.gb	DNA,Genome
+NC_050538.1	c3	Ochotona princeps	linear	83011612	../../data/genbank/animalia/Ochotona princeps_c3.gb	DNA,Genome
+NC_050539.1	c4	Ochotona princeps	linear	58076380	../../data/genbank/animalia/Ochotona princeps_c4.gb	DNA,Genome
+NC_050540.1	c5	Ochotona princeps	linear	51621823	../../data/genbank/animalia/Ochotona princeps_c5.gb	DNA,Genome
+NC_050541.1	c6	Ochotona princeps	linear	35738790	../../data/genbank/animalia/Ochotona princeps_c6.gb	DNA,Genome
+NC_050542.1	c7	Ochotona princeps	linear	118371147	../../data/genbank/animalia/Ochotona princeps_c7.gb	DNA,Genome
+NC_050543.1	c8	Ochotona princeps	linear	74871712	../../data/genbank/animalia/Ochotona princeps_c8.gb	DNA,Genome
+NC_050544.1	c9	Ochotona princeps	linear	54733587	../../data/genbank/animalia/Ochotona princeps_c9.gb	DNA,Genome
+NC_050545.1	c10	Ochotona princeps	linear	44027612	../../data/genbank/animalia/Ochotona princeps_c10.gb	DNA,Genome
+NC_050546.1	c11	Ochotona princeps	linear	38759177	../../data/genbank/animalia/Ochotona princeps_c11.gb	DNA,Genome
+NC_050547.1	c12	Ochotona princeps	linear	153665549	../../data/genbank/animalia/Ochotona princeps_c12.gb	DNA,Genome
+NC_050548.1	c13	Ochotona princeps	linear	134597983	../../data/genbank/animalia/Ochotona princeps_c13.gb	DNA,Genome
+NC_050549.1	c14	Ochotona princeps	linear	122983744	../../data/genbank/animalia/Ochotona princeps_c14.gb	DNA,Genome
+NC_050550.1	c15	Ochotona princeps	linear	91180513	../../data/genbank/animalia/Ochotona princeps_c15.gb	DNA,Genome
+NC_050551.1	c16	Ochotona princeps	linear	81456354	../../data/genbank/animalia/Ochotona princeps_c16.gb	DNA,Genome
+NC_050552.1	c17	Ochotona princeps	linear	93149495	../../data/genbank/animalia/Ochotona princeps_c17.gb	DNA,Genome
+NC_050553.1	c18	Ochotona princeps	linear	71983838	../../data/genbank/animalia/Ochotona princeps_c18.gb	DNA,Genome
+NC_050554.1	c19	Ochotona princeps	linear	54783706	../../data/genbank/animalia/Ochotona princeps_c19.gb	DNA,Genome
+NC_050555.1	c20	Ochotona princeps	linear	34660828	../../data/genbank/animalia/Ochotona princeps_c20.gb	DNA,Genome
+NC_050556.1	c21	Ochotona princeps	linear	25465481	../../data/genbank/animalia/Ochotona princeps_c21.gb	DNA,Genome
+NC_050557.1	c22	Ochotona princeps	linear	14010701	../../data/genbank/animalia/Ochotona princeps_c22.gb	DNA,Genome
+NC_050558.1	c1A	Ochotona princeps	linear	66364200	../../data/genbank/animalia/Ochotona princeps_c1A.gb	DNA,Genome
+NC_050559.1	c1B	Ochotona princeps	linear	14260483	../../data/genbank/animalia/Ochotona princeps_c1B.gb	DNA,Genome
+NC_050560.1	c2A	Ochotona princeps	linear	75838078	../../data/genbank/animalia/Ochotona princeps_c2A.gb	DNA,Genome
+NC_050561.1	c3A	Ochotona princeps	linear	52962515	../../data/genbank/animalia/Ochotona princeps_c3A.gb	DNA,Genome
+NC_050562.1	c4A	Ochotona princeps	linear	39143389	../../data/genbank/animalia/Ochotona princeps_c4A.gb	DNA,Genome
+NC_050563.1	c7A	Ochotona princeps	linear	32364212	../../data/genbank/animalia/Ochotona princeps_c7A.gb	DNA,Genome
+NC_050564.1	c8A	Ochotona princeps	linear	29766811	../../data/genbank/animalia/Ochotona princeps_c8A.gb	DNA,Genome
+NC_050565.1	c9A	Ochotona princeps	linear	42283564	../../data/genbank/animalia/Ochotona princeps_c9A.gb	DNA,Genome
+NC_050566.1	c11A	Ochotona princeps	linear	27066813	../../data/genbank/animalia/Ochotona princeps_c11A.gb	DNA,Genome
+NC_050567.1	c13A	Ochotona princeps	linear	14987928	../../data/genbank/animalia/Ochotona princeps_c13A.gb	DNA,Genome
+NC_050568.1	c14A	Ochotona princeps	linear	22973622	../../data/genbank/animalia/Ochotona princeps_c14A.gb	DNA,Genome
+NC_033692.1	cX	Microcebus murinus	linear	144923918	../../data/genbank/animalia/Microcebus murinus_cX.gb	DNA,Genome
+NC_033660.1	c1	Microcebus murinus	linear	114275543	../../data/genbank/animalia/Microcebus murinus_c1.gb	DNA,Genome
+NC_033661.1	c2	Microcebus murinus	linear	141296404	../../data/genbank/animalia/Microcebus murinus_c2.gb	DNA,Genome
+NC_033662.1	c3	Microcebus murinus	linear	119751181	../../data/genbank/animalia/Microcebus murinus_c3.gb	DNA,Genome
+NC_033663.1	c4	Microcebus murinus	linear	73916538	../../data/genbank/animalia/Microcebus murinus_c4.gb	DNA,Genome
+NC_033664.1	c5	Microcebus murinus	linear	116768492	../../data/genbank/animalia/Microcebus murinus_c5.gb	DNA,Genome
+NC_033665.1	c6	Microcebus murinus	linear	123392446	../../data/genbank/animalia/Microcebus murinus_c6.gb	DNA,Genome
+NC_033666.1	c7	Microcebus murinus	linear	108171978	../../data/genbank/animalia/Microcebus murinus_c7.gb	DNA,Genome
+NC_033667.1	c8	Microcebus murinus	linear	159902609	../../data/genbank/animalia/Microcebus murinus_c8.gb	DNA,Genome
+NC_033668.1	c9	Microcebus murinus	linear	116334831	../../data/genbank/animalia/Microcebus murinus_c9.gb	DNA,Genome
+NC_033669.1	c10	Microcebus murinus	linear	98468360	../../data/genbank/animalia/Microcebus murinus_c10.gb	DNA,Genome
+NC_033670.1	c11	Microcebus murinus	linear	108226025	../../data/genbank/animalia/Microcebus murinus_c11.gb	DNA,Genome
+NC_033671.1	c12	Microcebus murinus	linear	108143057	../../data/genbank/animalia/Microcebus murinus_c12.gb	DNA,Genome
+NC_033672.1	c13	Microcebus murinus	linear	86920293	../../data/genbank/animalia/Microcebus murinus_c13.gb	DNA,Genome
+NC_033673.1	c14	Microcebus murinus	linear	93316391	../../data/genbank/animalia/Microcebus murinus_c14.gb	DNA,Genome
+NC_033674.1	c15	Microcebus murinus	linear	77693121	../../data/genbank/animalia/Microcebus murinus_c15.gb	DNA,Genome
+NC_033675.1	c16	Microcebus murinus	linear	65901067	../../data/genbank/animalia/Microcebus murinus_c16.gb	DNA,Genome
+NC_033676.1	c17	Microcebus murinus	linear	60697988	../../data/genbank/animalia/Microcebus murinus_c17.gb	DNA,Genome
+NC_033677.1	c18	Microcebus murinus	linear	57149010	../../data/genbank/animalia/Microcebus murinus_c18.gb	DNA,Genome
+NC_033678.1	c19	Microcebus murinus	linear	83067054	../../data/genbank/animalia/Microcebus murinus_c19.gb	DNA,Genome
+NC_033679.1	c20	Microcebus murinus	linear	72247402	../../data/genbank/animalia/Microcebus murinus_c20.gb	DNA,Genome
+NC_033680.1	c21	Microcebus murinus	linear	31815103	../../data/genbank/animalia/Microcebus murinus_c21.gb	DNA,Genome
+NC_033681.1	c22	Microcebus murinus	linear	30143674	../../data/genbank/animalia/Microcebus murinus_c22.gb	DNA,Genome
+NC_033682.1	c23	Microcebus murinus	linear	33087545	../../data/genbank/animalia/Microcebus murinus_c23.gb	DNA,Genome
+NC_033683.1	c24	Microcebus murinus	linear	15088824	../../data/genbank/animalia/Microcebus murinus_c24.gb	DNA,Genome
+NC_033684.1	c25	Microcebus murinus	linear	28148801	../../data/genbank/animalia/Microcebus murinus_c25.gb	DNA,Genome
+NC_033685.1	c26	Microcebus murinus	linear	29216678	../../data/genbank/animalia/Microcebus murinus_c26.gb	DNA,Genome
+NC_033686.1	c27	Microcebus murinus	linear	36798880	../../data/genbank/animalia/Microcebus murinus_c27.gb	DNA,Genome
+NC_033687.1	c28	Microcebus murinus	linear	12211143	../../data/genbank/animalia/Microcebus murinus_c28.gb	DNA,Genome
+NC_033688.1	c29	Microcebus murinus	linear	23278169	../../data/genbank/animalia/Microcebus murinus_c29.gb	DNA,Genome
+NC_033689.1	c30	Microcebus murinus	linear	12810044	../../data/genbank/animalia/Microcebus murinus_c30.gb	DNA,Genome
+NC_033690.1	c31	Microcebus murinus	linear	47401472	../../data/genbank/animalia/Microcebus murinus_c31.gb	DNA,Genome
+NC_033691.1	c32	Microcebus murinus	linear	9149476	../../data/genbank/animalia/Microcebus murinus_c32.gb	DNA,Genome
+NC_037307.1	c1	Strongyloides ratti	linear	11693564	../../data/genbank/animalia/Strongyloides ratti_c1.gb	DNA,Genome
+NC_037308.1	c2	Strongyloides ratti	linear	16759152	../../data/genbank/animalia/Strongyloides ratti_c2.gb	DNA,Genome
+NC_037309.1	cX	Strongyloides ratti	linear	4663306	../../data/genbank/animalia/Strongyloides ratti_cX.gb	DNA,Genome
+NC_013489.2	cI	Caenorhabditis briggsae	linear	15455979	../../data/genbank/animalia/Caenorhabditis briggsae_cI.gb	DNA,Genome
+NC_013486.2	cII	Caenorhabditis briggsae	linear	16627154	../../data/genbank/animalia/Caenorhabditis briggsae_cII.gb	DNA,Genome
+NC_013490.2	cIII	Caenorhabditis briggsae	linear	14578851	../../data/genbank/animalia/Caenorhabditis briggsae_cIII.gb	DNA,Genome
+NC_013487.2	cIV	Caenorhabditis briggsae	linear	17485439	../../data/genbank/animalia/Caenorhabditis briggsae_cIV.gb	DNA,Genome
+NC_013488.2	cV	Caenorhabditis briggsae	linear	19495157	../../data/genbank/animalia/Caenorhabditis briggsae_cV.gb	DNA,Genome
+NC_013491.2	cX	Caenorhabditis briggsae	linear	21540570	../../data/genbank/animalia/Caenorhabditis briggsae_cX.gb	DNA,Genome
+NC_003279.8	cI	Caenorhabditis elegans	linear	15072434	../../data/genbank/animalia/Caenorhabditis elegans_cI.gb	DNA,Genome
+NC_003280.10	cII	Caenorhabditis elegans	linear	15279421	../../data/genbank/animalia/Caenorhabditis elegans_cII.gb	DNA,Genome
+NC_003281.10	cIII	Caenorhabditis elegans	linear	13783801	../../data/genbank/animalia/Caenorhabditis elegans_cIII.gb	DNA,Genome
+NC_003282.8	cIV	Caenorhabditis elegans	linear	17493829	../../data/genbank/animalia/Caenorhabditis elegans_cIV.gb	DNA,Genome
+NC_003283.11	cV	Caenorhabditis elegans	linear	20924180	../../data/genbank/animalia/Caenorhabditis elegans_cV.gb	DNA,Genome
+NC_003284.9	cX	Caenorhabditis elegans	linear	17718942	../../data/genbank/animalia/Caenorhabditis elegans_cX.gb	DNA,Genome
+NC_054699.1	c1	Gigantopelta aegis	linear	47317128	../../data/genbank/animalia/Gigantopelta aegis_c1.gb	DNA,Genome
+NC_054700.1	c2	Gigantopelta aegis	linear	54566076	../../data/genbank/animalia/Gigantopelta aegis_c2.gb	DNA,Genome
+NC_054701.1	c3	Gigantopelta aegis	linear	96789575	../../data/genbank/animalia/Gigantopelta aegis_c3.gb	DNA,Genome
+NC_054702.1	c4	Gigantopelta aegis	linear	120622278	../../data/genbank/animalia/Gigantopelta aegis_c4.gb	DNA,Genome
+NC_054703.1	c5	Gigantopelta aegis	linear	40821028	../../data/genbank/animalia/Gigantopelta aegis_c5.gb	DNA,Genome
+NC_054704.1	c6	Gigantopelta aegis	linear	102884749	../../data/genbank/animalia/Gigantopelta aegis_c6.gb	DNA,Genome
+NC_054705.1	c7	Gigantopelta aegis	linear	47477099	../../data/genbank/animalia/Gigantopelta aegis_c7.gb	DNA,Genome
+NC_054706.1	c8	Gigantopelta aegis	linear	81591406	../../data/genbank/animalia/Gigantopelta aegis_c8.gb	DNA,Genome
+NC_054707.1	c9	Gigantopelta aegis	linear	84917595	../../data/genbank/animalia/Gigantopelta aegis_c9.gb	DNA,Genome
+NC_054708.1	c10	Gigantopelta aegis	linear	91665651	../../data/genbank/animalia/Gigantopelta aegis_c10.gb	DNA,Genome
+NC_054709.1	c11	Gigantopelta aegis	linear	35397884	../../data/genbank/animalia/Gigantopelta aegis_c11.gb	DNA,Genome
+NC_054710.1	c12	Gigantopelta aegis	linear	53390639	../../data/genbank/animalia/Gigantopelta aegis_c12.gb	DNA,Genome
+NC_054711.1	c13	Gigantopelta aegis	linear	42253053	../../data/genbank/animalia/Gigantopelta aegis_c13.gb	DNA,Genome
+NC_054712.1	c14	Gigantopelta aegis	linear	59883994	../../data/genbank/animalia/Gigantopelta aegis_c14.gb	DNA,Genome
+NC_054713.1	c15	Gigantopelta aegis	linear	46388186	../../data/genbank/animalia/Gigantopelta aegis_c15.gb	DNA,Genome
+NC_037590.1	LG1	Pomacea canaliculata	linear	45418568	../../data/genbank/animalia/Pomacea canaliculata_LG1.gb	DNA,Genome
+NC_037591.1	LG2	Pomacea canaliculata	linear	45157847	../../data/genbank/animalia/Pomacea canaliculata_LG2.gb	DNA,Genome
+NC_037592.1	LG3	Pomacea canaliculata	linear	43189359	../../data/genbank/animalia/Pomacea canaliculata_LG3.gb	DNA,Genome
+NC_037593.1	LG4	Pomacea canaliculata	linear	34737321	../../data/genbank/animalia/Pomacea canaliculata_LG4.gb	DNA,Genome
+NC_037594.1	LG5	Pomacea canaliculata	linear	34494602	../../data/genbank/animalia/Pomacea canaliculata_LG5.gb	DNA,Genome
+NC_037595.1	LG6	Pomacea canaliculata	linear	31531291	../../data/genbank/animalia/Pomacea canaliculata_LG6.gb	DNA,Genome
+NC_037596.1	LG7	Pomacea canaliculata	linear	30920076	../../data/genbank/animalia/Pomacea canaliculata_LG7.gb	DNA,Genome
+NC_037597.1	LG8	Pomacea canaliculata	linear	29527706	../../data/genbank/animalia/Pomacea canaliculata_LG8.gb	DNA,Genome
+NC_037598.1	LG9	Pomacea canaliculata	linear	27161898	../../data/genbank/animalia/Pomacea canaliculata_LG9.gb	DNA,Genome
+NC_037599.1	LG10	Pomacea canaliculata	linear	26524634	../../data/genbank/animalia/Pomacea canaliculata_LG10.gb	DNA,Genome
+NC_037600.1	LG11	Pomacea canaliculata	linear	24344826	../../data/genbank/animalia/Pomacea canaliculata_LG11.gb	DNA,Genome
+NC_037601.1	LG12	Pomacea canaliculata	linear	23662357	../../data/genbank/animalia/Pomacea canaliculata_LG12.gb	DNA,Genome
+NC_037602.1	LG13	Pomacea canaliculata	linear	23556918	../../data/genbank/animalia/Pomacea canaliculata_LG13.gb	DNA,Genome
+NC_037603.1	LG14	Pomacea canaliculata	linear	19366143	../../data/genbank/animalia/Pomacea canaliculata_LG14.gb	DNA,Genome
+NC_047015.1	c1	Pecten maximus	linear	60076705	../../data/genbank/animalia/Pecten maximus_c1.gb	DNA,Genome
+NC_047016.1	c2	Pecten maximus	linear	55138983	../../data/genbank/animalia/Pecten maximus_c2.gb	DNA,Genome
+NC_047017.1	c3	Pecten maximus	linear	53454838	../../data/genbank/animalia/Pecten maximus_c3.gb	DNA,Genome
+NC_047018.1	c4	Pecten maximus	linear	52693527	../../data/genbank/animalia/Pecten maximus_c4.gb	DNA,Genome
+NC_047019.1	c5	Pecten maximus	linear	51398101	../../data/genbank/animalia/Pecten maximus_c5.gb	DNA,Genome
+NC_047020.1	c6	Pecten maximus	linear	47357467	../../data/genbank/animalia/Pecten maximus_c6.gb	DNA,Genome
+NC_047021.1	c7	Pecten maximus	linear	46316487	../../data/genbank/animalia/Pecten maximus_c7.gb	DNA,Genome
+NC_047022.1	c8	Pecten maximus	linear	46176750	../../data/genbank/animalia/Pecten maximus_c8.gb	DNA,Genome
+NC_047023.1	c9	Pecten maximus	linear	45552881	../../data/genbank/animalia/Pecten maximus_c9.gb	DNA,Genome
+NC_047024.1	c10	Pecten maximus	linear	44824366	../../data/genbank/animalia/Pecten maximus_c10.gb	DNA,Genome
+NC_047025.1	c11	Pecten maximus	linear	44189035	../../data/genbank/animalia/Pecten maximus_c11.gb	DNA,Genome
+NC_047026.1	c12	Pecten maximus	linear	42360788	../../data/genbank/animalia/Pecten maximus_c12.gb	DNA,Genome
+NC_047027.1	c13	Pecten maximus	linear	39606779	../../data/genbank/animalia/Pecten maximus_c13.gb	DNA,Genome
+NC_047028.1	c14	Pecten maximus	linear	38909756	../../data/genbank/animalia/Pecten maximus_c14.gb	DNA,Genome
+NC_047029.1	c15	Pecten maximus	linear	38817130	../../data/genbank/animalia/Pecten maximus_c15.gb	DNA,Genome
+NC_047030.1	c16	Pecten maximus	linear	37770382	../../data/genbank/animalia/Pecten maximus_c16.gb	DNA,Genome
+NC_047031.1	c17	Pecten maximus	linear	33917975	../../data/genbank/animalia/Pecten maximus_c17.gb	DNA,Genome
+NC_047032.1	c18	Pecten maximus	linear	33254064	../../data/genbank/animalia/Pecten maximus_c18.gb	DNA,Genome
+NC_047033.1	c19	Pecten maximus	linear	32483354	../../data/genbank/animalia/Pecten maximus_c19.gb	DNA,Genome
+NC_035780.1	c1	Crassostrea virginica	linear	65668440	../../data/genbank/animalia/Crassostrea virginica_c1.gb	DNA,Genome
+NC_035781.1	c2	Crassostrea virginica	linear	61752955	../../data/genbank/animalia/Crassostrea virginica_c2.gb	DNA,Genome
+NC_035782.1	c3	Crassostrea virginica	linear	77061148	../../data/genbank/animalia/Crassostrea virginica_c3.gb	DNA,Genome
+NC_035783.1	c4	Crassostrea virginica	linear	59691872	../../data/genbank/animalia/Crassostrea virginica_c4.gb	DNA,Genome
+NC_035784.1	c5	Crassostrea virginica	linear	98698416	../../data/genbank/animalia/Crassostrea virginica_c5.gb	DNA,Genome
+NC_035785.1	c6	Crassostrea virginica	linear	51258098	../../data/genbank/animalia/Crassostrea virginica_c6.gb	DNA,Genome
+NC_035786.1	c7	Crassostrea virginica	linear	57830854	../../data/genbank/animalia/Crassostrea virginica_c7.gb	DNA,Genome
+NC_035787.1	c8	Crassostrea virginica	linear	75944018	../../data/genbank/animalia/Crassostrea virginica_c8.gb	DNA,Genome
+NC_035788.1	c9	Crassostrea virginica	linear	104168038	../../data/genbank/animalia/Crassostrea virginica_c9.gb	DNA,Genome
+NC_035789.1	c10	Crassostrea virginica	linear	32650045	../../data/genbank/animalia/Crassostrea virginica_c10.gb	DNA,Genome
+NC_042997.1	LG1	Octopus sinensis	linear	213406131	../../data/genbank/animalia/Octopus sinensis_LG1.gb	DNA,Genome
+NC_042998.1	LG2	Octopus sinensis	linear	207928902	../../data/genbank/animalia/Octopus sinensis_LG2.gb	DNA,Genome
+NC_042999.1	LG3	Octopus sinensis	linear	174423281	../../data/genbank/animalia/Octopus sinensis_LG3.gb	DNA,Genome
+NC_043000.1	LG4	Octopus sinensis	linear	164836235	../../data/genbank/animalia/Octopus sinensis_LG4.gb	DNA,Genome
+NC_043001.1	LG5	Octopus sinensis	linear	135913566	../../data/genbank/animalia/Octopus sinensis_LG5.gb	DNA,Genome
+NC_043002.1	LG6	Octopus sinensis	linear	120472873	../../data/genbank/animalia/Octopus sinensis_LG6.gb	DNA,Genome
+NC_043003.1	LG7	Octopus sinensis	linear	117540060	../../data/genbank/animalia/Octopus sinensis_LG7.gb	DNA,Genome
+NC_043004.1	LG8	Octopus sinensis	linear	107269306	../../data/genbank/animalia/Octopus sinensis_LG8.gb	DNA,Genome
+NC_043005.1	LG9	Octopus sinensis	linear	109703381	../../data/genbank/animalia/Octopus sinensis_LG9.gb	DNA,Genome
+NC_043006.1	LG10	Octopus sinensis	linear	105892736	../../data/genbank/animalia/Octopus sinensis_LG10.gb	DNA,Genome
+NC_043007.1	LG11	Octopus sinensis	linear	77502973	../../data/genbank/animalia/Octopus sinensis_LG11.gb	DNA,Genome
+NC_043008.1	LG12	Octopus sinensis	linear	79792878	../../data/genbank/animalia/Octopus sinensis_LG12.gb	DNA,Genome
+NC_043009.1	LG13	Octopus sinensis	linear	72296471	../../data/genbank/animalia/Octopus sinensis_LG13.gb	DNA,Genome
+NC_043010.1	LG14	Octopus sinensis	linear	68403164	../../data/genbank/animalia/Octopus sinensis_LG14.gb	DNA,Genome
+NC_043011.1	LG15	Octopus sinensis	linear	67901367	../../data/genbank/animalia/Octopus sinensis_LG15.gb	DNA,Genome
+NC_043012.1	LG16	Octopus sinensis	linear	59466961	../../data/genbank/animalia/Octopus sinensis_LG16.gb	DNA,Genome
+NC_043013.1	LG17	Octopus sinensis	linear	59356462	../../data/genbank/animalia/Octopus sinensis_LG17.gb	DNA,Genome
+NC_043014.1	LG18	Octopus sinensis	linear	55351117	../../data/genbank/animalia/Octopus sinensis_LG18.gb	DNA,Genome
+NC_043015.1	LG19	Octopus sinensis	linear	53884001	../../data/genbank/animalia/Octopus sinensis_LG19.gb	DNA,Genome
+NC_043016.1	LG20	Octopus sinensis	linear	32976114	../../data/genbank/animalia/Octopus sinensis_LG20.gb	DNA,Genome
+NC_043017.1	LG21	Octopus sinensis	linear	34119079	../../data/genbank/animalia/Octopus sinensis_LG21.gb	DNA,Genome
+NC_043018.1	LG22	Octopus sinensis	linear	30097204	../../data/genbank/animalia/Octopus sinensis_LG22.gb	DNA,Genome
+NC_043019.1	LG23	Octopus sinensis	linear	32879656	../../data/genbank/animalia/Octopus sinensis_LG23.gb	DNA,Genome
+NC_043020.1	LG24	Octopus sinensis	linear	31203755	../../data/genbank/animalia/Octopus sinensis_LG24.gb	DNA,Genome
+NC_043021.1	LG25	Octopus sinensis	linear	28926792	../../data/genbank/animalia/Octopus sinensis_LG25.gb	DNA,Genome
+NC_043022.1	LG26	Octopus sinensis	linear	25544736	../../data/genbank/animalia/Octopus sinensis_LG26.gb	DNA,Genome
+NC_043023.1	LG27	Octopus sinensis	linear	21331139	../../data/genbank/animalia/Octopus sinensis_LG27.gb	DNA,Genome
+NC_043024.1	LG28	Octopus sinensis	linear	20263137	../../data/genbank/animalia/Octopus sinensis_LG28.gb	DNA,Genome
+NC_043025.1	LG29	Octopus sinensis	linear	17062404	../../data/genbank/animalia/Octopus sinensis_LG29.gb	DNA,Genome
+NC_043026.1	LG30	Octopus sinensis	linear	15106159	../../data/genbank/animalia/Octopus sinensis_LG30.gb	DNA,Genome
+NC_052131.1	c1	Lepeophtheirus salmonis	linear	56000612	../../data/genbank/animalia/Lepeophtheirus salmonis_c1.gb	DNA,Genome
+NC_052132.1	c2	Lepeophtheirus salmonis	linear	41334738	../../data/genbank/animalia/Lepeophtheirus salmonis_c2.gb	DNA,Genome
+NC_052133.1	c3	Lepeophtheirus salmonis	linear	50820592	../../data/genbank/animalia/Lepeophtheirus salmonis_c3.gb	DNA,Genome
+NC_052134.1	c4	Lepeophtheirus salmonis	linear	53604425	../../data/genbank/animalia/Lepeophtheirus salmonis_c4.gb	DNA,Genome
+NC_052135.1	c5	Lepeophtheirus salmonis	linear	73492277	../../data/genbank/animalia/Lepeophtheirus salmonis_c5.gb	DNA,Genome
+NC_052136.1	c6	Lepeophtheirus salmonis	linear	59542840	../../data/genbank/animalia/Lepeophtheirus salmonis_c6.gb	DNA,Genome
+NC_052137.1	c7	Lepeophtheirus salmonis	linear	42125153	../../data/genbank/animalia/Lepeophtheirus salmonis_c7.gb	DNA,Genome
+NC_052138.1	c8	Lepeophtheirus salmonis	linear	39162385	../../data/genbank/animalia/Lepeophtheirus salmonis_c8.gb	DNA,Genome
+NC_052139.1	c9	Lepeophtheirus salmonis	linear	31879791	../../data/genbank/animalia/Lepeophtheirus salmonis_c9.gb	DNA,Genome
+NC_052140.1	c10	Lepeophtheirus salmonis	linear	24316617	../../data/genbank/animalia/Lepeophtheirus salmonis_c10.gb	DNA,Genome
+NC_052141.1	c11	Lepeophtheirus salmonis	linear	22450802	../../data/genbank/animalia/Lepeophtheirus salmonis_c11.gb	DNA,Genome
+NC_052142.1	c12	Lepeophtheirus salmonis	linear	13539929	../../data/genbank/animalia/Lepeophtheirus salmonis_c12.gb	DNA,Genome
+NC_052143.1	c13	Lepeophtheirus salmonis	linear	48457437	../../data/genbank/animalia/Lepeophtheirus salmonis_c13.gb	DNA,Genome
+NC_052144.1	c14	Lepeophtheirus salmonis	linear	44290828	../../data/genbank/animalia/Lepeophtheirus salmonis_c14.gb	DNA,Genome
+NC_052145.1	c15	Lepeophtheirus salmonis	linear	24226409	../../data/genbank/animalia/Lepeophtheirus salmonis_c15.gb	DNA,Genome
+NC_051386.1	c1	Penaeus monodon	linear	65869259	../../data/genbank/animalia/Penaeus monodon_c1.gb	DNA,Genome
+NC_051387.1	c2	Penaeus monodon	linear	62915132	../../data/genbank/animalia/Penaeus monodon_c2.gb	DNA,Genome
+NC_051388.1	c3	Penaeus monodon	linear	62578810	../../data/genbank/animalia/Penaeus monodon_c3.gb	DNA,Genome
+NC_051389.1	c4	Penaeus monodon	linear	61028141	../../data/genbank/animalia/Penaeus monodon_c4.gb	DNA,Genome
+NC_051390.1	c5	Penaeus monodon	linear	58666588	../../data/genbank/animalia/Penaeus monodon_c5.gb	DNA,Genome
+NC_051391.1	c6	Penaeus monodon	linear	58596817	../../data/genbank/animalia/Penaeus monodon_c6.gb	DNA,Genome
+NC_051392.1	c7	Penaeus monodon	linear	57141761	../../data/genbank/animalia/Penaeus monodon_c7.gb	DNA,Genome
+NC_051393.1	c8	Penaeus monodon	linear	56717241	../../data/genbank/animalia/Penaeus monodon_c8.gb	DNA,Genome
+NC_051394.1	c9	Penaeus monodon	linear	54484083	../../data/genbank/animalia/Penaeus monodon_c9.gb	DNA,Genome
+NC_051395.1	c10	Penaeus monodon	linear	53922881	../../data/genbank/animalia/Penaeus monodon_c10.gb	DNA,Genome
+NC_051396.1	c11	Penaeus monodon	linear	52644662	../../data/genbank/animalia/Penaeus monodon_c11.gb	DNA,Genome
+NC_051397.1	c12	Penaeus monodon	linear	52522698	../../data/genbank/animalia/Penaeus monodon_c12.gb	DNA,Genome
+NC_051398.1	c13	Penaeus monodon	linear	52186350	../../data/genbank/animalia/Penaeus monodon_c13.gb	DNA,Genome
+NC_051399.1	c14	Penaeus monodon	linear	51471297	../../data/genbank/animalia/Penaeus monodon_c14.gb	DNA,Genome
+NC_051400.1	c15	Penaeus monodon	linear	51242608	../../data/genbank/animalia/Penaeus monodon_c15.gb	DNA,Genome
+NC_051401.1	c16	Penaeus monodon	linear	50310026	../../data/genbank/animalia/Penaeus monodon_c16.gb	DNA,Genome
+NC_051402.1	c17	Penaeus monodon	linear	49790156	../../data/genbank/animalia/Penaeus monodon_c17.gb	DNA,Genome
+NC_051403.1	c18	Penaeus monodon	linear	49486070	../../data/genbank/animalia/Penaeus monodon_c18.gb	DNA,Genome
+NC_051404.1	c19	Penaeus monodon	linear	49313812	../../data/genbank/animalia/Penaeus monodon_c19.gb	DNA,Genome
+NC_051405.1	c20	Penaeus monodon	linear	47238735	../../data/genbank/animalia/Penaeus monodon_c20.gb	DNA,Genome
+NC_051406.1	c21	Penaeus monodon	linear	46183865	../../data/genbank/animalia/Penaeus monodon_c21.gb	DNA,Genome
+NC_051407.1	c22	Penaeus monodon	linear	44964020	../../data/genbank/animalia/Penaeus monodon_c22.gb	DNA,Genome
+NC_051408.1	c23	Penaeus monodon	linear	44862054	../../data/genbank/animalia/Penaeus monodon_c23.gb	DNA,Genome
+NC_051409.1	c24	Penaeus monodon	linear	44090619	../../data/genbank/animalia/Penaeus monodon_c24.gb	DNA,Genome
+NC_051410.1	c25	Penaeus monodon	linear	44027960	../../data/genbank/animalia/Penaeus monodon_c25.gb	DNA,Genome
+NC_051411.1	c26	Penaeus monodon	linear	43591356	../../data/genbank/animalia/Penaeus monodon_c26.gb	DNA,Genome
+NC_051412.1	c27	Penaeus monodon	linear	41201355	../../data/genbank/animalia/Penaeus monodon_c27.gb	DNA,Genome
+NC_051413.1	c28	Penaeus monodon	linear	40418865	../../data/genbank/animalia/Penaeus monodon_c28.gb	DNA,Genome
+NC_051414.1	c29	Penaeus monodon	linear	39960250	../../data/genbank/animalia/Penaeus monodon_c29.gb	DNA,Genome
+NC_051415.1	c30	Penaeus monodon	linear	39116135	../../data/genbank/animalia/Penaeus monodon_c30.gb	DNA,Genome
+NC_051416.1	c31	Penaeus monodon	linear	38562624	../../data/genbank/animalia/Penaeus monodon_c31.gb	DNA,Genome
+NC_051417.1	c32	Penaeus monodon	linear	37928585	../../data/genbank/animalia/Penaeus monodon_c32.gb	DNA,Genome
+NC_051418.1	c33	Penaeus monodon	linear	36654532	../../data/genbank/animalia/Penaeus monodon_c33.gb	DNA,Genome
+NC_051419.1	c34	Penaeus monodon	linear	35565386	../../data/genbank/animalia/Penaeus monodon_c34.gb	DNA,Genome
+NC_051420.1	c35	Penaeus monodon	linear	35550611	../../data/genbank/animalia/Penaeus monodon_c35.gb	DNA,Genome
+NC_051421.1	c36	Penaeus monodon	linear	34911466	../../data/genbank/animalia/Penaeus monodon_c36.gb	DNA,Genome
+NC_051422.1	c37	Penaeus monodon	linear	34780806	../../data/genbank/animalia/Penaeus monodon_c37.gb	DNA,Genome
+NC_051423.1	c38	Penaeus monodon	linear	34638043	../../data/genbank/animalia/Penaeus monodon_c38.gb	DNA,Genome
+NC_051424.1	c39	Penaeus monodon	linear	34305237	../../data/genbank/animalia/Penaeus monodon_c39.gb	DNA,Genome
+NC_051425.1	c40	Penaeus monodon	linear	33442299	../../data/genbank/animalia/Penaeus monodon_c40.gb	DNA,Genome
+NC_051426.1	c41	Penaeus monodon	linear	32559802	../../data/genbank/animalia/Penaeus monodon_c41.gb	DNA,Genome
+NC_051427.1	c42	Penaeus monodon	linear	32211772	../../data/genbank/animalia/Penaeus monodon_c42.gb	DNA,Genome
+NC_051428.1	c43	Penaeus monodon	linear	31942528	../../data/genbank/animalia/Penaeus monodon_c43.gb	DNA,Genome
+NC_051429.1	c44	Penaeus monodon	linear	6423705	../../data/genbank/animalia/Penaeus monodon_c44.gb	DNA,Genome
+NC_051176.1	c1	Rhipicephalus sanguineus	linear	340706149	../../data/genbank/animalia/Rhipicephalus sanguineus_c1.gb	DNA,Genome
+NC_051177.1	c2	Rhipicephalus sanguineus	linear	238895976	../../data/genbank/animalia/Rhipicephalus sanguineus_c2.gb	DNA,Genome
+NC_051178.1	c3	Rhipicephalus sanguineus	linear	234107715	../../data/genbank/animalia/Rhipicephalus sanguineus_c3.gb	DNA,Genome
+NC_051179.1	c4	Rhipicephalus sanguineus	linear	211849473	../../data/genbank/animalia/Rhipicephalus sanguineus_c4.gb	DNA,Genome
+NC_051180.1	c5	Rhipicephalus sanguineus	linear	208696187	../../data/genbank/animalia/Rhipicephalus sanguineus_c5.gb	DNA,Genome
+NC_051181.1	c6	Rhipicephalus sanguineus	linear	178078338	../../data/genbank/animalia/Rhipicephalus sanguineus_c6.gb	DNA,Genome
+NC_051182.1	c7	Rhipicephalus sanguineus	linear	172913789	../../data/genbank/animalia/Rhipicephalus sanguineus_c7.gb	DNA,Genome
+NC_051183.1	c8	Rhipicephalus sanguineus	linear	171792058	../../data/genbank/animalia/Rhipicephalus sanguineus_c8.gb	DNA,Genome
+NC_051184.1	c9	Rhipicephalus sanguineus	linear	154776919	../../data/genbank/animalia/Rhipicephalus sanguineus_c9.gb	DNA,Genome
+NC_051185.1	c10	Rhipicephalus sanguineus	linear	152989824	../../data/genbank/animalia/Rhipicephalus sanguineus_c10.gb	DNA,Genome
+NC_051186.1	c11	Rhipicephalus sanguineus	linear	145390364	../../data/genbank/animalia/Rhipicephalus sanguineus_c11.gb	DNA,Genome
+NC_040877.1	c1	Rhopalosiphum maidis	linear	94224415	../../data/genbank/animalia/Rhopalosiphum maidis_c1.gb	DNA,Genome
+NC_040878.1	c2	Rhopalosiphum maidis	linear	93298903	../../data/genbank/animalia/Rhopalosiphum maidis_c2.gb	DNA,Genome
+NC_040879.1	c3	Rhopalosiphum maidis	linear	76887858	../../data/genbank/animalia/Rhopalosiphum maidis_c3.gb	DNA,Genome
+NC_040880.1	c4	Rhopalosiphum maidis	linear	56292413	../../data/genbank/animalia/Rhopalosiphum maidis_c4.gb	DNA,Genome
+NC_037638.1	LG1	Apis mellifera	linear	27754200	../../data/genbank/animalia/Apis mellifera_LG1.gb	DNA,Genome
+NC_037639.1	LG2	Apis mellifera	linear	16089512	../../data/genbank/animalia/Apis mellifera_LG2.gb	DNA,Genome
+NC_037640.1	LG3	Apis mellifera	linear	13619445	../../data/genbank/animalia/Apis mellifera_LG3.gb	DNA,Genome
+NC_037641.1	LG4	Apis mellifera	linear	13404451	../../data/genbank/animalia/Apis mellifera_LG4.gb	DNA,Genome
+NC_037642.1	LG5	Apis mellifera	linear	13896941	../../data/genbank/animalia/Apis mellifera_LG5.gb	DNA,Genome
+NC_037643.1	LG6	Apis mellifera	linear	17789102	../../data/genbank/animalia/Apis mellifera_LG6.gb	DNA,Genome
+NC_037644.1	LG7	Apis mellifera	linear	14198698	../../data/genbank/animalia/Apis mellifera_LG7.gb	DNA,Genome
+NC_037645.1	LG8	Apis mellifera	linear	12717210	../../data/genbank/animalia/Apis mellifera_LG8.gb	DNA,Genome
+NC_037646.1	LG9	Apis mellifera	linear	12354651	../../data/genbank/animalia/Apis mellifera_LG9.gb	DNA,Genome
+NC_037647.1	LG10	Apis mellifera	linear	12360052	../../data/genbank/animalia/Apis mellifera_LG10.gb	DNA,Genome
+NC_037648.1	LG11	Apis mellifera	linear	16352600	../../data/genbank/animalia/Apis mellifera_LG11.gb	DNA,Genome
+NC_037649.1	LG12	Apis mellifera	linear	11514234	../../data/genbank/animalia/Apis mellifera_LG12.gb	DNA,Genome
+NC_037650.1	LG13	Apis mellifera	linear	11279722	../../data/genbank/animalia/Apis mellifera_LG13.gb	DNA,Genome
+NC_037651.1	LG14	Apis mellifera	linear	10670842	../../data/genbank/animalia/Apis mellifera_LG14.gb	DNA,Genome
+NC_037652.1	LG15	Apis mellifera	linear	9534514	../../data/genbank/animalia/Apis mellifera_LG15.gb	DNA,Genome
+NC_037653.1	LG16	Apis mellifera	linear	7238532	../../data/genbank/animalia/Apis mellifera_LG16.gb	DNA,Genome
+NC_015762.1	LG B01	Bombus terrestris	linear	17153651	../../data/genbank/animalia/Bombus terrestris_LG B01.gb	DNA,Genome
+NC_015763.1	LG B02	Bombus terrestris	linear	13603873	../../data/genbank/animalia/Bombus terrestris_LG B02.gb	DNA,Genome
+NC_015764.1	LG B03	Bombus terrestris	linear	14656165	../../data/genbank/animalia/Bombus terrestris_LG B03.gb	DNA,Genome
+NC_015765.1	LG B04	Bombus terrestris	linear	14241696	../../data/genbank/animalia/Bombus terrestris_LG B04.gb	DNA,Genome
+NC_015766.1	LG B05	Bombus terrestris	linear	11918102	../../data/genbank/animalia/Bombus terrestris_LG B05.gb	DNA,Genome
+NC_015767.1	LG B06	Bombus terrestris	linear	12724418	../../data/genbank/animalia/Bombus terrestris_LG B06.gb	DNA,Genome
+NC_015768.1	LG B07	Bombus terrestris	linear	18145390	../../data/genbank/animalia/Bombus terrestris_LG B07.gb	DNA,Genome
+NC_015769.1	LG B08	Bombus terrestris	linear	9733834	../../data/genbank/animalia/Bombus terrestris_LG B08.gb	DNA,Genome
+NC_015770.1	LG B09	Bombus terrestris	linear	15655298	../../data/genbank/animalia/Bombus terrestris_LG B09.gb	DNA,Genome
+NC_015771.1	LG B10	Bombus terrestris	linear	13618662	../../data/genbank/animalia/Bombus terrestris_LG B10.gb	DNA,Genome
+NC_015772.1	LG B11	Bombus terrestris	linear	17228712	../../data/genbank/animalia/Bombus terrestris_LG B11.gb	DNA,Genome
+NC_015773.1	LG B12	Bombus terrestris	linear	12868931	../../data/genbank/animalia/Bombus terrestris_LG B12.gb	DNA,Genome
+NC_015774.1	LG B13	Bombus terrestris	linear	9884808	../../data/genbank/animalia/Bombus terrestris_LG B13.gb	DNA,Genome
+NC_015775.1	LG B14	Bombus terrestris	linear	11649563	../../data/genbank/animalia/Bombus terrestris_LG B14.gb	DNA,Genome
+NC_015776.1	LG B15	Bombus terrestris	linear	11467329	../../data/genbank/animalia/Bombus terrestris_LG B15.gb	DNA,Genome
+NC_015777.1	LG B16	Bombus terrestris	linear	5274633	../../data/genbank/animalia/Bombus terrestris_LG B16.gb	DNA,Genome
+NC_015778.1	LG B17	Bombus terrestris	linear	3558169	../../data/genbank/animalia/Bombus terrestris_LG B17.gb	DNA,Genome
+NC_015779.1	LG B18	Bombus terrestris	linear	3466108	../../data/genbank/animalia/Bombus terrestris_LG B18.gb	DNA,Genome
+NC_045757.1	c1	Nasonia vitripennis	linear	37874440	../../data/genbank/animalia/Nasonia vitripennis_c1.gb	DNA,Genome
+NC_045758.1	c2	Nasonia vitripennis	linear	35393729	../../data/genbank/animalia/Nasonia vitripennis_c2.gb	DNA,Genome
+NC_045759.1	c3	Nasonia vitripennis	linear	24760113	../../data/genbank/animalia/Nasonia vitripennis_c3.gb	DNA,Genome
+NC_045760.1	c4	Nasonia vitripennis	linear	33170505	../../data/genbank/animalia/Nasonia vitripennis_c4.gb	DNA,Genome
+NC_045761.1	c5	Nasonia vitripennis	linear	28269460	../../data/genbank/animalia/Nasonia vitripennis_c5.gb	DNA,Genome
+NC_004818.2	cX	Anopheles gambiae str. PEST	linear	24393108	../../data/genbank/animalia/Anopheles gambiae str. PEST_cX.gb	DNA,Genome
+NT_078266.2	c2R	Anopheles gambiae str. PEST	linear	61545105	../../data/genbank/animalia/Anopheles gambiae str. PEST_c2R.gb	DNA,Genome
+NT_078268.4	c3R	Anopheles gambiae str. PEST	linear	53200684	../../data/genbank/animalia/Anopheles gambiae str. PEST_c3R.gb	DNA,Genome
+NT_078265.2	c2L	Anopheles gambiae str. PEST	linear	49364325	../../data/genbank/animalia/Anopheles gambiae str. PEST_c2L.gb	DNA,Genome
+NT_078267.5	c3L	Anopheles gambiae str. PEST	linear	41963435	../../data/genbank/animalia/Anopheles gambiae str. PEST_c3L.gb	DNA,Genome
+NC_046679.1	c2	Drosophila pseudoobscura	linear	32422566	../../data/genbank/animalia/Drosophila pseudoobscura_c2.gb	DNA,Genome
+NC_046680.1	c3	Drosophila pseudoobscura	linear	23510042	../../data/genbank/animalia/Drosophila pseudoobscura_c3.gb	DNA,Genome
+NC_046681.1	c4	Drosophila pseudoobscura	linear	30706867	../../data/genbank/animalia/Drosophila pseudoobscura_c4.gb	DNA,Genome
+NC_046682.1	c5	Drosophila pseudoobscura	linear	1881070	../../data/genbank/animalia/Drosophila pseudoobscura_c5.gb	DNA,Genome
+NC_046683.1	cX	Drosophila pseudoobscura	linear	68158638	../../data/genbank/animalia/Drosophila pseudoobscura_cX.gb	DNA,Genome
+NC_004354.4	cX	Drosophila melanogaster	linear	23542271	../../data/genbank/animalia/Drosophila melanogaster_cX.gb	DNA,Genome
+NT_033779.5	c2L	Drosophila melanogaster	linear	23513712	../../data/genbank/animalia/Drosophila melanogaster_c2L.gb	DNA,Genome
+NT_033778.4	c2R	Drosophila melanogaster	linear	25286936	../../data/genbank/animalia/Drosophila melanogaster_c2R.gb	DNA,Genome
+NT_037436.4	c3L	Drosophila melanogaster	linear	28110227	../../data/genbank/animalia/Drosophila melanogaster_c3L.gb	DNA,Genome
+NC_004353.4	c4	Drosophila melanogaster	linear	1348131	../../data/genbank/animalia/Drosophila melanogaster_c4.gb	DNA,Genome
+NT_033777.3	c3R	Drosophila melanogaster	linear	32079331	../../data/genbank/animalia/Drosophila melanogaster_c3R.gb	DNA,Genome
+NC_024512.1	cY	Drosophila melanogaster	linear	3667352	../../data/genbank/animalia/Drosophila melanogaster_cY.gb	DNA,Genome
+NC_052520.2	c2L	Drosophila simulans	linear	23857595	../../data/genbank/animalia/Drosophila simulans_c2L.gb	DNA,Genome
+NC_052521.2	c2R	Drosophila simulans	linear	22319025	../../data/genbank/animalia/Drosophila simulans_c2R.gb	DNA,Genome
+NC_052522.2	c3L	Drosophila simulans	linear	23399903	../../data/genbank/animalia/Drosophila simulans_c3L.gb	DNA,Genome
+NC_052523.2	c3R	Drosophila simulans	linear	28149585	../../data/genbank/animalia/Drosophila simulans_c3R.gb	DNA,Genome
+NC_052524.2	c4	Drosophila simulans	linear	1146867	../../data/genbank/animalia/Drosophila simulans_c4.gb	DNA,Genome
+NC_052525.2	cX	Drosophila simulans	linear	22032822	../../data/genbank/animalia/Drosophila simulans_cX.gb	DNA,Genome
+NC_056406.1	c1	Aricia agestis	linear	28198316	../../data/genbank/animalia/Aricia agestis_c1.gb	DNA,Genome
+NC_056407.1	c2	Aricia agestis	linear	24835252	../../data/genbank/animalia/Aricia agestis_c2.gb	DNA,Genome
+NC_056408.1	c3	Aricia agestis	linear	24265812	../../data/genbank/animalia/Aricia agestis_c3.gb	DNA,Genome
+NC_056409.1	c4	Aricia agestis	linear	22860255	../../data/genbank/animalia/Aricia agestis_c4.gb	DNA,Genome
+NC_056410.1	c5	Aricia agestis	linear	21698237	../../data/genbank/animalia/Aricia agestis_c5.gb	DNA,Genome
+NC_056411.1	c6	Aricia agestis	linear	20997721	../../data/genbank/animalia/Aricia agestis_c6.gb	DNA,Genome
+NC_056412.1	c7	Aricia agestis	linear	19551575	../../data/genbank/animalia/Aricia agestis_c7.gb	DNA,Genome
+NC_056413.1	c8	Aricia agestis	linear	19030843	../../data/genbank/animalia/Aricia agestis_c8.gb	DNA,Genome
+NC_056414.1	c9	Aricia agestis	linear	18581481	../../data/genbank/animalia/Aricia agestis_c9.gb	DNA,Genome
+NC_056415.1	c10	Aricia agestis	linear	17774651	../../data/genbank/animalia/Aricia agestis_c10.gb	DNA,Genome
+NC_056416.1	c11	Aricia agestis	linear	17595430	../../data/genbank/animalia/Aricia agestis_c11.gb	DNA,Genome
+NC_056417.1	c12	Aricia agestis	linear	16642429	../../data/genbank/animalia/Aricia agestis_c12.gb	DNA,Genome
+NC_056418.1	c13	Aricia agestis	linear	16394644	../../data/genbank/animalia/Aricia agestis_c13.gb	DNA,Genome
+NC_056419.1	c14	Aricia agestis	linear	15883976	../../data/genbank/animalia/Aricia agestis_c14.gb	DNA,Genome
+NC_056420.1	c15	Aricia agestis	linear	15266331	../../data/genbank/animalia/Aricia agestis_c15.gb	DNA,Genome
+NC_056421.1	c16	Aricia agestis	linear	15015571	../../data/genbank/animalia/Aricia agestis_c16.gb	DNA,Genome
+NC_056422.1	c17	Aricia agestis	linear	14820519	../../data/genbank/animalia/Aricia agestis_c17.gb	DNA,Genome
+NC_056423.1	c18	Aricia agestis	linear	14664134	../../data/genbank/animalia/Aricia agestis_c18.gb	DNA,Genome
+NC_056424.1	c19	Aricia agestis	linear	14506835	../../data/genbank/animalia/Aricia agestis_c19.gb	DNA,Genome
+NC_056425.1	c20	Aricia agestis	linear	14495840	../../data/genbank/animalia/Aricia agestis_c20.gb	DNA,Genome
+NC_056426.1	c21	Aricia agestis	linear	10866889	../../data/genbank/animalia/Aricia agestis_c21.gb	DNA,Genome
+NC_056427.1	c22	Aricia agestis	linear	9090845	../../data/genbank/animalia/Aricia agestis_c22.gb	DNA,Genome
+NC_056428.1	cZ	Aricia agestis	linear	42150342	../../data/genbank/animalia/Aricia agestis_cZ.gb	DNA,Genome
+LR584231.2	c1	Takifugu rubripes	linear	29232231	../../data/genbank/animalia/Takifugu rubripes_c1.gb	DNA,Genome
+LR584245.2	c2	Takifugu rubripes	linear	15686389	../../data/genbank/animalia/Takifugu rubripes_c2.gb	DNA,Genome
+LR584237.1	c3	Takifugu rubripes	linear	17484280	../../data/genbank/animalia/Takifugu rubripes_c3.gb	DNA,Genome
+LR584242.2	c4	Takifugu rubripes	linear	16363587	../../data/genbank/animalia/Takifugu rubripes_c4.gb	DNA,Genome
+LR584247.1	c5	Takifugu rubripes	linear	14586308	../../data/genbank/animalia/Takifugu rubripes_c5.gb	DNA,Genome
+LR584250.1	c6	Takifugu rubripes	linear	12913240	../../data/genbank/animalia/Takifugu rubripes_c6.gb	DNA,Genome
+LR584238.1	c7	Takifugu rubripes	linear	17515293	../../data/genbank/animalia/Takifugu rubripes_c7.gb	DNA,Genome
+LR584234.2	c8	Takifugu rubripes	linear	19721368	../../data/genbank/animalia/Takifugu rubripes_c8.gb	DNA,Genome
+LR584246.2	c9	Takifugu rubripes	linear	15473624	../../data/genbank/animalia/Takifugu rubripes_c9.gb	DNA,Genome
+LR584251.2	c10	Takifugu rubripes	linear	12556898	../../data/genbank/animalia/Takifugu rubripes_c10.gb	DNA,Genome
+LR584241.1	c11	Takifugu rubripes	linear	16367601	../../data/genbank/animalia/Takifugu rubripes_c11.gb	DNA,Genome
+LR584248.2	c12	Takifugu rubripes	linear	13571579	../../data/genbank/animalia/Takifugu rubripes_c12.gb	DNA,Genome
+LR584232.1	c13	Takifugu rubripes	linear	21507415	../../data/genbank/animalia/Takifugu rubripes_c13.gb	DNA,Genome
+LR584244.1	c14	Takifugu rubripes	linear	16036328	../../data/genbank/animalia/Takifugu rubripes_c14.gb	DNA,Genome
+LR584240.2	c15	Takifugu rubripes	linear	16705553	../../data/genbank/animalia/Takifugu rubripes_c15.gb	DNA,Genome
+LR584249.2	c16	Takifugu rubripes	linear	13527504	../../data/genbank/animalia/Takifugu rubripes_c16.gb	DNA,Genome
+LR584239.2	c17	Takifugu rubripes	linear	16842301	../../data/genbank/animalia/Takifugu rubripes_c17.gb	DNA,Genome
+LR584252.2	c18	Takifugu rubripes	linear	10237708	../../data/genbank/animalia/Takifugu rubripes_c18.gb	DNA,Genome
+LR584235.1	c19	Takifugu rubripes	linear	19418397	../../data/genbank/animalia/Takifugu rubripes_c19.gb	DNA,Genome
+LR584236.2	c20	Takifugu rubripes	linear	18239318	../../data/genbank/animalia/Takifugu rubripes_c20.gb	DNA,Genome
+LR584233.2	c21	Takifugu rubripes	linear	20050447	../../data/genbank/animalia/Takifugu rubripes_c21.gb	DNA,Genome
+LR584243.1	c22	Takifugu rubripes	linear	16056980	../../data/genbank/animalia/Takifugu rubripes_c22.gb	DNA,Genome
+NC_018890.1	c1	Takifugu rubripes	linear	23260604	../../data/genbank/animalia/Takifugu rubripes_c1.gb	DNA,Genome
+NC_018890.1	c1	Takifugu rubripes	linear	23260604	../../data/genbank/animalia/Takifugu rubripes_c1.gb	DNA,Genome
+NC_018890.1	c1	Takifugu rubripes	linear	23260604	../../data/genbank/animalia/Takifugu rubripes_c1.gb	DNA,Genome
+NC_018891.1	c2	Takifugu rubripes	linear	11407286	../../data/genbank/animalia/Takifugu rubripes_c2.gb	DNA,Genome
+NC_018892.1	c3	Takifugu rubripes	linear	13093193	../../data/genbank/animalia/Takifugu rubripes_c3.gb	DNA,Genome
+NC_018893.1	c4	Takifugu rubripes	linear	13818948	../../data/genbank/animalia/Takifugu rubripes_c4.gb	DNA,Genome
+NC_018894.1	c5	Takifugu rubripes	linear	12184708	../../data/genbank/animalia/Takifugu rubripes_c5.gb	DNA,Genome
+NC_018895.1	c6	Takifugu rubripes	linear	9412079	../../data/genbank/animalia/Takifugu rubripes_c6.gb	DNA,Genome
+NC_018896.1	c7	Takifugu rubripes	linear	14304132	../../data/genbank/animalia/Takifugu rubripes_c7.gb	DNA,Genome
+NC_018897.1	c8	Takifugu rubripes	linear	14690302	../../data/genbank/animalia/Takifugu rubripes_c8.gb	DNA,Genome
+NC_018898.1	c9	Takifugu rubripes	linear	13922460	../../data/genbank/animalia/Takifugu rubripes_c9.gb	DNA,Genome
+NC_018899.1	c10	Takifugu rubripes	linear	9126174	../../data/genbank/animalia/Takifugu rubripes_c10.gb	DNA,Genome
+NC_018900.1	c11	Takifugu rubripes	linear	11238946	../../data/genbank/animalia/Takifugu rubripes_c11.gb	DNA,Genome
+NC_018901.1	c12	Takifugu rubripes	linear	10661439	../../data/genbank/animalia/Takifugu rubripes_c12.gb	DNA,Genome
+NC_018902.1	c13	Takifugu rubripes	linear	16952093	../../data/genbank/animalia/Takifugu rubripes_c13.gb	DNA,Genome
+NC_018903.1	c14	Takifugu rubripes	linear	12328026	../../data/genbank/animalia/Takifugu rubripes_c14.gb	DNA,Genome
+NC_018904.1	c15	Takifugu rubripes	linear	11516971	../../data/genbank/animalia/Takifugu rubripes_c15.gb	DNA,Genome
+NC_018905.1	c16	Takifugu rubripes	linear	10310320	../../data/genbank/animalia/Takifugu rubripes_c16.gb	DNA,Genome
+NC_018906.1	c17	Takifugu rubripes	linear	11184067	../../data/genbank/animalia/Takifugu rubripes_c17.gb	DNA,Genome
+NC_018907.1	c18	Takifugu rubripes	linear	8053132	../../data/genbank/animalia/Takifugu rubripes_c18.gb	DNA,Genome
+NC_018908.1	c19	Takifugu rubripes	linear	14185242	../../data/genbank/animalia/Takifugu rubripes_c19.gb	DNA,Genome
+NC_018909.1	c20	Takifugu rubripes	linear	13411851	../../data/genbank/animalia/Takifugu rubripes_c20.gb	DNA,Genome
+NC_018910.1	c21	Takifugu rubripes	linear	14900632	../../data/genbank/animalia/Takifugu rubripes_c21.gb	DNA,Genome
+NC_018911.1	c22	Takifugu rubripes	linear	11609757	../../data/genbank/animalia/Takifugu rubripes_c22.gb	DNA,Genome

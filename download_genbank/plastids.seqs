@@ -1,0 +1,32 @@
+id	name	organism	topology	length	file	labels
+NC_005087.1	Pltd	Physcomitrella patens	circular	122890	../../data/genbank/organelles/plastids/Physcomitrella patens_Pltd.gb	DNA,Genome
+NC_011032.1	Pltd	Brachypodium distachyon	circular	135199	../../data/genbank/organelles/plastids/Brachypodium distachyon_Pltd.gb	DNA,Genome
+NC_001320.1	Pltd	Oryza sativa Japonica Group	circular	134525	../../data/genbank/organelles/plastids/Oryza sativa Japonica Group_Pltd.gb	DNA,Genome
+NC_001666.2	Pltd	Zea mays	circular	140384	../../data/genbank/organelles/plastids/Zea mays_Pltd.gb	DNA,Genome
+NC_008602.1	Pltd	Sorghum bicolor	circular	140754	../../data/genbank/organelles/plastids/Sorghum bicolor_Pltd.gb	DNA,Genome
+NC_022850.1	Pltd	Setaria italica	circular	135516	../../data/genbank/organelles/plastids/Setaria italica_Pltd.gb	DNA,Genome
+NC_026220.1	Pltd	Ananas comosus	circular	159636	../../data/genbank/organelles/plastids/Ananas comosus_Pltd.gb	DNA,Genome
+NC_017602.1	Pltd	Elaeis guineensis	circular	156973	../../data/genbank/organelles/plastids/Elaeis guineensis_Pltd.gb	DNA,Genome
+NC_029434.1	Pltd	Papaver somniferum	circular	152931	../../data/genbank/organelles/plastids/Papaver somniferum_Pltd.gb	DNA,Genome
+NC_007957.1	Pltd	Vitis vinifera	circular	160928	../../data/genbank/organelles/plastids/Vitis vinifera_Pltd.gb	DNA,Genome
+NC_000932.1	Pltd	Arabidopsis thaliana	circular	154478	../../data/genbank/organelles/plastids/Arabidopsis thaliana_Pltd.gb	DNA,Genome
+NC_014676.2	Pltd	Theobroma cacao	circular	160619	../../data/genbank/organelles/plastids/Theobroma cacao_Pltd.gb	DNA,Genome
+NC_008334.1	Pltd	Citrus sinensis	linear	160129	../../data/genbank/organelles/plastids/Citrus sinensis_Pltd.gb	DNA,Genome
+NC_009143.1	Pltd	Populus trichocarpa	circular	157033	../../data/genbank/organelles/plastids/Populus trichocarpa_Pltd.gb	DNA,Genome
+NC_010433.1	Pltd	Manihot esculenta	circular	161453	../../data/genbank/organelles/plastids/Manihot esculenta_Pltd.gb	DNA,Genome
+NC_031429.1	Pltd	Cajanus cajan	circular	153841	../../data/genbank/organelles/plastids/Cajanus cajan_Pltd.gb	DNA,Genome
+NC_021091.1	Pltd	Vigna angularis	circular	151683	../../data/genbank/organelles/plastids/Vigna angularis_Pltd.gb	DNA,Genome
+NC_003119.8	Pltd	Medicago truncatula	linear	124033	../../data/genbank/organelles/plastids/Medicago truncatula_Pltd.gb	DNA,Genome
+NC_015206.1	Pltd	Fragaria vesca subsp. vesca	circular	155691	../../data/genbank/organelles/plastids/Fragaria vesca subsp. vesca_Pltd.gb	DNA,Genome
+NC_023798.1	Pltd	Prunus mume	circular	157712	../../data/genbank/organelles/plastids/Prunus mume_Pltd.gb	DNA,Genome
+NC_007144.1	Pltd	Cucumis sativus	linear	155293	../../data/genbank/organelles/plastids/Cucumis sativus_Pltd.gb	DNA,Genome
+NC_016433.2	Pltd	Sesamum indicum	circular	153324	../../data/genbank/organelles/plastids/Sesamum indicum_Pltd.gb	DNA,Genome
+NC_007977.1	Pltd	Helianthus annuus	circular	151104	../../data/genbank/organelles/plastids/Helianthus annuus_Pltd.gb	DNA,Genome
+NC_016734.1	Pltd	Brassica napus	circular	152860	../../data/genbank/organelles/plastids/Brassica napus_Pltd.gb	DNA,Genome
+NC_001799.1	plastid:apicoplast	Toxoplasma gondii RH	circular	34996	../../data/genbank/organelles/plastids/Toxoplasma gondii RH_plastid_apicoplast.gb	DNA,Genome
+NW_017385168.1	plastid:apicoplast	Plasmodium gaboni	circular	29387	../../data/genbank/organelles/plastids/Plasmodium gaboni_plastid_apicoplast.gb	DNA,Genome
+NC_007758.1	plastid:apicoplast	Theileria parva strain Muguga	circular	39579	../../data/genbank/organelles/plastids/Theileria parva strain Muguga_plastid_apicoplast.gb	DNA,Genome
+NC_034636.1	plastid:apicoplast	Babesia microti strain RI	circular	28657	../../data/genbank/organelles/plastids/Babesia microti strain RI_plastid_apicoplast.gb	DNA,Genome
+NC_012575.1	Pltd	Micromonas commoda	circular	72585	../../data/genbank/organelles/plastids/Micromonas commoda_Pltd.gb	DNA,Genome
+NC_024811.1	Pltd	Bathycoccus prasinos	linear	72700	../../data/genbank/organelles/plastids/Bathycoccus prasinos_Pltd.gb	DNA,Genome
+NC_008289.1	Pltd	Ostreococcus tauri	circular	71666	../../data/genbank/organelles/plastids/Ostreococcus tauri_Pltd.gb	DNA,Genome

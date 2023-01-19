@@ -1,0 +1,17 @@
+id	name	organism	topology	length	file	labels
+NC_010004.1	c1	Bigelowiella natans	linear	140590	../../data/genbank/nucleomorph/Bigelowiella natans_c1.gb	DNA,Genome
+NC_010004.1	c1	Bigelowiella natans	linear	140590	../../data/genbank/nucleomorph/Bigelowiella natans_c1.gb	DNA,Genome
+NC_010005.1	c2	Bigelowiella natans	linear	134144	../../data/genbank/nucleomorph/Bigelowiella natans_c2.gb	DNA,Genome
+NC_010006.1	c3	Bigelowiella natans	linear	98136	../../data/genbank/nucleomorph/Bigelowiella natans_c3.gb	DNA,Genome
+NC_002752.1	c1	Guillardia theta	linear	196216	../../data/genbank/nucleomorph/Guillardia theta_c1.gb	DNA,Genome
+NC_002753.1	c2	Guillardia theta	linear	180915	../../data/genbank/nucleomorph/Guillardia theta_c2.gb	DNA,Genome
+NC_002751.1	c3	Guillardia theta	linear	174133	../../data/genbank/nucleomorph/Guillardia theta_c3.gb	DNA,Genome
+NC_009977.1	c1	Hemiselmis andersenii	linear	207524	../../data/genbank/nucleomorph/Hemiselmis andersenii_c1.gb	DNA,Genome
+NC_009978.1	c2	Hemiselmis andersenii	linear	184755	../../data/genbank/nucleomorph/Hemiselmis andersenii_c2.gb	DNA,Genome
+NC_009979.1	c3	Hemiselmis andersenii	linear	179593	../../data/genbank/nucleomorph/Hemiselmis andersenii_c3.gb	DNA,Genome
+NC_015329.1	c1	Cryptomonas paramecium	linear	177338	../../data/genbank/nucleomorph/Cryptomonas paramecium_c1.gb	DNA,Genome
+NC_015330.1	c2	Cryptomonas paramecium	linear	160189	../../data/genbank/nucleomorph/Cryptomonas paramecium_c2.gb	DNA,Genome
+NC_015331.1	c3	Cryptomonas paramecium	linear	149539	../../data/genbank/nucleomorph/Cryptomonas paramecium_c3.gb	DNA,Genome
+CP003680.1	c1	Chroomonas mesostigmatica CCMP1168	linear	243993	../../data/genbank/nucleomorph/Chroomonas mesostigmatica CCMP1168_c1.gb	DNA,Genome
+CP003681.1	c2	Chroomonas mesostigmatica CCMP1168	linear	232699	../../data/genbank/nucleomorph/Chroomonas mesostigmatica CCMP1168_c2.gb	DNA,Genome
+CP003682.1	c3	Chroomonas mesostigmatica CCMP1168	linear	226160	../../data/genbank/nucleomorph/Chroomonas mesostigmatica CCMP1168_c3.gb	DNA,Genome
