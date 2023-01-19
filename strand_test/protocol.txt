@@ -1,0 +1,8 @@
+2022-04-21 21:17:30.804976	Reading Genome for Homo sapiens.
+2022-04-21 21:17:54.359804	Reading Genome for Homo sapiens.
+2022-04-21 21:17:54.469817	Found 24 Chromosomes (c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20,c21,c22,cX,cY).
+2022-04-21 21:17:54.469817	Reading all Genes from ../../data/genbank/animalia/Homo sapiens_c1.gb
+2022-04-21 21:20:08.171129	Reading Genome for Homo sapiens.
+2022-04-21 21:20:08.281154	Found 24 Chromosomes (c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19,c20,c21,c22,cX,cY).
+2022-04-21 21:20:08.281154	Reading all Genes from ../../data/genbank/animalia/Homo sapiens_c1.gb
+2022-04-21 21:20:18.261349	Found 5096 genes.
