@@ -4,5 +4,5 @@ Collection of python tools to be used in connection with the publicly available 
 
 This package was created and used within the contex of a research project and the writing of a Bachelor Thesis in Computational Genomics at the Kirchhoff Institute for Physics (KIP) in Heidelberg in 2022.
 
-## Functionality
-tbd.
+
+Some assosciated results were published in following Article :["Moderation of Structural DNA Properties by Coupled Dinucleotide Contents in Eukaryotes"]([http://www.kip.uni-heidelberg.de/biophysik/software/oligo_searcher](https://www.mdpi.com/2073-4425/14/3/755)
